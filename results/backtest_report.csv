@@ -1,0 +1,5 @@
+year,actual,p_actual_%,model_rank_of_actual,model_top3,p_actual_final_%
+2010,Spain,22.9,1,"Spain 23%, Brazil 23%, Netherlands 14%",37.4
+2014,Germany,17.2,3,"Brazil 29%, Spain 20%, Germany 17%",29.1
+2018,France,7.0,4,"Brazil 34%, Germany 19%, Spain 15%",14.8
+2022,Argentina,26.9,2,"Brazil 31%, Argentina 27%, Netherlands 8%",37.1

@@ -1,0 +1,17 @@
+# secrets and local config
+.env
+en.txt
+*.key
+
+# run artifacts
+*.log
+runs*/
+ablation/
+*_run*_matches.json
+__pycache__/
+*.pyc
+.DS_Store
+
+# node (report tooling, not required)
+node_modules/
+package-lock.json

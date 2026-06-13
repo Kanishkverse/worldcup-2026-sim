@@ -1,0 +1,1249 @@
+team,player,position,age,club,club_country,caps,intl_goals,base_rating,form,club_performance,club_minutes,market_value_m
+Algeria,Rayan Ait-Nouri,DEF,25,Manchester City FC,ENG,30,0,0.7432,0.5203,0.9018,0.7352,36.536
+Algeria,Mohamed Amoura,FWD,26,VfL Wolfsburg,GER,47,19,0.7381,0.5841,0.6575,0.8789,30.005
+Algeria,Amine Gouiri,FWD,26,Olympique Marseille,FRA,23,10,0.7106,0.5319,0.7482,0.7155,20.462
+Algeria,Ramy Bensebaini,DEF,31,Borussia Dortmund,GER,82,9,0.7007,0.5337,0.8589,0.9428,18.326
+Algeria,Anis Hadj Moussa,FWD,24,Feyenoord Rotterdam,NED,15,2,0.6997,0.5154,0.6236,0.6522,13.844
+Algeria,Houssem Aouar,MID,27,Al Ittihad,KSA,23,6,0.6988,0.5198,0.6328,0.7639,12.924
+Algeria,Zineddine Belaid,DEF,27,JS Kabylie,ALG,18,1,0.6966,0.5373,0.4992,0.7042,12.699
+Algeria,Hicham Boudaoui,MID,26,OGC Nice,FRA,34,0,0.6927,0.5749,0.6821,0.8485,9.225
+Algeria,Adil Boulbina,FWD,23,Al Duhail SC,QAT,11,5,0.6905,0.5808,0.5194,0.5524,7.721
+Algeria,Samir Chergui,DEF,27,Paris FC,FRA,5,0,0.6891,0.613,0.3419,0.4928,7.593
+Algeria,Nabil Bentaleb,MID,31,Lille OSC,FRA,60,6,0.6886,0.5968,0.5984,0.839,7.578
+Algeria,Nadhir Benbouali,FWD,26,Györi ETO FC,HUN,4,1,0.682,0.542,0.3947,0.5556,7.356
+Algeria,Jaouen Hadjam,DEF,23,BSC Young Boys,SUI,18,3,0.6813,0.5476,0.6439,0.7513,6.215
+Algeria,Achref Abada,DEF,26,USM Alger,ALG,10,1,0.6811,0.6048,0.465,0.6016,5.66
+Algeria,Melvin Mastil,GK,26,FC Stade Nyonnais,SUI,2,0,0.6764,0.6335,0.5027,0.5429,5.431
+Algeria,Ibrahim Maza,MID,20,Bayer 04 Leverkusen,GER,17,2,0.6738,0.5074,0.7968,0.6945,4.972
+Algeria,Fares Chaibi,MID,23,Eintracht Frankfurt,GER,31,3,0.6734,0.5622,0.7314,0.7557,4.436
+Algeria,Ramiz Zerrouki,MID,28,FC Twente,NED,53,3,0.6732,0.5478,0.3801,0.9061,2.998
+Algeria,Luca Zidane,GK,28,Granada CF,ESP,7,0,0.6679,0.5895,0.3721,0.5804,2.294
+Algeria,Fares Ghedjemis,FWD,23,Frosinone,ITA,1,1,0.6666,0.6356,0.3028,0.4945,2.258
+Algeria,Mohamed Tougai,DEF,26,Espérance De Tunisie,TUN,30,2,0.6565,0.5542,0.5368,0.8492,2.194
+Algeria,Ra,DEF,24,Hellas Verona FC,ITA,13,1,0.6552,0.6431,0.3975,0.6128,1.995
+Algeria,Yassine Titraoui,MID,22,Sporting Charleroi,BEL,5,0,0.6477,0.5963,0.5881,0.5992,1.47
+Algeria,Oussama Benbot,GK,31,USM Alger,ALG,3,0,0.6254,0.5676,0.4017,0.4383,1.47
+Algeria,Riyad Mahrez,FWD,35,Al Ahli FC,KSA,116,38,0.621,0.5078,0.7319,0.9582,1.061
+Algeria,Aissa Mandi,DEF,34,Lille OSC,FRA,119,8,0.6166,0.5284,0.6408,0.9381,1.026
+Argentina,Alexis Mac Allister,MID,27,Liverpool FC,ENG,46,6,0.99,0.6825,0.9086,0.7416,196.136
+Argentina,Lautaro Martinez,FWD,28,FC Internazionale Milano,ITA,77,37,0.9843,0.6576,0.8576,0.8528,61.984
+Argentina,Nico Gonzalez,MID,28,Atlético De Madrid,ESP,51,6,0.97,0.5346,0.8688,0.7441,59.499
+Argentina,Julian Alvarez,FWD,26,Atlético De Madrid,ESP,51,14,0.9693,0.5217,0.8688,0.7708,49.432
+Argentina,Nahuel Molina,DEF,28,Atlético De Madrid,ESP,58,1,0.9664,0.6849,0.8767,0.7967,48.457
+Argentina,Enzo Fernandez,MID,25,Chelsea FC,ENG,42,6,0.9539,0.6556,0.8221,0.7126,32.403
+Argentina,Thiago Almada,FWD,25,Atlético De Madrid,ESP,16,5,0.9535,0.7151,0.7989,0.6321,30.643
+Argentina,Exequiel Palacios,MID,27,Bayer 04 Leverkusen,GER,40,0,0.9507,0.6444,0.8483,0.6589,26.694
+Argentina,Cristian Romero,DEF,28,Tottenham Hotspur FC,ENG,51,3,0.9488,0.6207,0.8688,0.7284,25.545
+Argentina,Giovani Lo Celso,MID,30,Real Betis,ESP,67,4,0.938,0.7293,0.7924,0.8563,23.506
+Argentina,Lisandro Martinez,DEF,28,Manchester United FC,ENG,28,1,0.9376,0.6002,0.7896,0.6662,22.497
+Argentina,Facundo Medina,DEF,27,Olympique Marseille,FRA,9,0,0.9367,0.6203,0.6934,0.5684,21.684
+Argentina,Giuliano Simeone,FWD,23,Atlético De Madrid,ESP,13,2,0.9288,0.6066,0.7867,0.5781,19.148
+Argentina,Leandro Paredes,MID,31,CA Boca Juniors,ARG,77,5,0.9269,0.6007,0.7105,0.98,19.041
+Argentina,Nico Paz,FWD,21,Como,ITA,9,1,0.9198,0.7599,0.753,0.6053,16.223
+Argentina,Gonzalo Montiel,DEF,29,CA River Plate,ARG,39,2,0.9175,0.5631,0.6487,0.6431,13.932
+Argentina,Marcos Senesi,MID,29,AFC Bournemouth,ENG,3,0,0.9091,0.5636,0.489,0.4616,13.754
+Argentina,Nicolas Tagliafico,DEF,33,Olympique Lyonnais,FRA,76,1,0.9027,0.7765,0.8429,0.8751,13.44
+Argentina,Jose Lopez,FWD,25,SE Palmeiras,BRA,5,0,0.8976,0.5599,0.5108,0.5339,12.573
+Argentina,Valentin Barco,MID,21,RC Strasbourg,FRA,4,2,0.8872,0.7051,0.455,0.499,12.281
+Argentina,Rodrigo De Paul,MID,32,Inter Miami CF,USA,87,2,0.8851,0.6615,0.7071,0.8975,11.546
+Argentina,Juan Musso,GK,32,Atlético De Madrid,ESP,4,0,0.8826,0.6208,0.7223,0.4467,8.741
+Argentina,Emiliano Martinez,GK,33,Aston Villa FC,ENG,59,0,0.8425,0.6991,0.5913,0.8401,7.932
+Argentina,Geronimo Rulli,GK,34,Olympique Marseille,FRA,8,0,0.8414,0.6433,0.6868,0.5868,6.925
+Argentina,Nicolas Otamendi,DEF,38,SL Ben,POR,132,8,0.6804,0.6731,0.818,0.898,3.943
+Argentina,Lionel Messi,FWD,38,Inter Miami CF,USA,199,117,0.6417,0.6146,0.727,0.98,3.241
+Australia,Awer Mabil,FWD,30,CD Castellón,ESP,38,10,0.6957,0.5681,0.8732,0.8271,13.119
+Australia,Tete Yengi,FWD,25,FC Machida Zelvia,JPN,1,1,0.6671,0.4866,0.4284,0.5005,8.113
+Australia,Harry Souttar,DEF,27,Leicester City FC,ENG,38,11,0.6647,0.475,0.6924,0.906,6.037
+Australia,Cameron Devlin,MID,28,Heart Of Midlothian FC,SCO,5,0,0.6545,0.525,0.5321,0.644,3.44
+Australia,Jacob Italiano,DEF,24,Grazer AK,AUT,5,0,0.6521,0.5191,0.5509,0.6135,3.315
+Australia,Nestory Irankunda,FWD,20,Watford FC,ENG,15,5,0.6504,0.5128,0.5879,0.7514,2.095
+Australia,Jordan Bos,DEF,23,Feyenoord Rotterdam,NED,27,4,0.6462,0.5426,0.6586,0.7299,1.968
+Australia,Cameron Burgess,DEF,30,Swansea City AFC,WAL,27,0,0.6457,0.48,0.5402,0.762,1.837
+Australia,Nishan Velupillay,FWD,25,Melbourne Victory FC,AUS,7,3,0.6398,0.5881,0.4801,0.6528,1.464
+Australia,Aiden Oneill,MID,27,New York City FC,USA,31,0,0.6361,0.5288,0.4588,0.7685,1.19
+Australia,Milos Degenek,DEF,32,APOEL FC,CYP,57,1,0.6292,0.5975,0.611,0.8354,1.187
+Australia,Paul Izzo,GK,31,Randers FC,DEN,4,0,0.6231,0.4614,0.5207,0.502,0.95
+Australia,Mohamed Toure,FWD,22,Norwich City FC,ENG,10,2,0.6218,0.6155,0.3537,0.6605,0.758
+Australia,Kai Trewin,DEF,25,New York City FC,USA,6,0,0.6191,0.5928,0.3638,0.6511,0.732
+Australia,Ajdin Hrustic,FWD,29,SC Heracles Almelo,NED,37,3,0.6186,0.559,0.4121,0.7389,0.732
+Australia,Connor Metcalfe,MID,26,FC St. Pauli,GER,36,1,0.6091,0.5995,0.4462,0.7584,0.616
+Australia,Jackson Irvine,MID,33,FC St. Pauli,GER,82,14,0.6078,0.4358,0.4967,0.8943,0.583
+Australia,Mathew Ryan,GK,34,Levante UD,ESP,104,0,0.6043,0.5424,0.7578,0.9635,0.58
+Australia,Cristian Volpato,FWD,22,US Sassuolo,ITA,1,0,0.6036,0.4784,0.45,0.4782,0.506
+Australia,Patrick Beach,GK,22,Melbourne City FC,AUS,2,0,0.6015,0.5721,0.4187,0.5582,0.407
+Australia,Jason Geria,DEF,33,Albirex Niigata,JPN,14,0,0.596,0.5615,0.5544,0.6073,0.338
+Australia,Paul Okon-Engstler,MID,21,Sydney FC,AUS,6,0,0.5955,0.5782,0.4717,0.6153,0.311
+Australia,Alessandro Circati,DEF,22,Parma,ITA,13,1,0.5954,0.5719,0.4811,0.6371,0.286
+Australia,Aziz Behich,DEF,35,Melbourne City FC,AUS,84,3,0.5744,0.5944,0.6279,0.9152,0.228
+Australia,Mathew Leckie,FWD,35,Melbourne City FC,AUS,81,14,0.5516,0.4615,0.6257,0.8644,0.222
+Australia,Lucas Herrington,DEF,18,Colorado Rapids,USA,4,0,0.5313,0.5589,0.1964,0.5836,0.217
+Austria,Xaver Schlager,MID,28,RB Leipzig,GER,51,4,0.785,0.5346,0.7791,0.8206,65.35
+Austria,Konrad Laimer,MID,29,FC Bayern München,GER,57,7,0.7717,0.6076,0.87,0.8678,21.013
+Austria,Kevin Danso,DEF,27,Tottenham Hotspur FC,ENG,32,0,0.7715,0.5773,0.8404,0.7178,17.817
+Austria,Romano Schmid,MID,26,SV Werder Bremen,GER,34,3,0.7662,0.5724,0.7326,0.777,16.752
+Austria,Alexander Prass,MID,25,TSG Hoffenheim,GER,19,0,0.7647,0.5472,0.7533,0.6431,13.59
+Austria,Dejan Ljubicic,MID,28,FC Schalke 04,GER,9,1,0.7644,0.6069,0.703,0.5054,12.253
+Austria,Marcel Sabitzer,MID,32,Borussia Dortmund,GER,98,26,0.7546,0.6577,0.8699,0.9251,11.766
+Austria,Florian Grillitsch,MID,30,SC Braga,POR,59,1,0.7524,0.6565,0.7367,0.859,11.347
+Austria,Stefan Posch,DEF,29,1. FSV Mainz 05,GER,52,5,0.7516,0.6563,0.7081,0.9402,11.044
+Austria,David Alaba,DEF,33,Real Madrid C. F.,ESP,113,15,0.7513,0.5912,0.991,0.9664,10.894
+Austria,Patrick Pentz,GK,29,Brøndby IF,DEN,18,0,0.7477,0.5671,0.6042,0.6265,10.21
+Austria,Sasa Kalajdzic,FWD,28,LASK Linz,AUT,22,4,0.7457,0.6023,0.4443,0.6598,8.888
+Austria,Michael Gregoritsch,FWD,32,FC Augsburg,GER,75,24,0.7436,0.5325,0.7411,0.8892,7.618
+Austria,David Affengruber,DEF,25,Elche CF,ESP,1,0,0.7434,0.5341,0.6874,0.5954,6.499
+Austria,Marco Friedl,DEF,28,SV Werder Bremen,GER,11,0,0.7407,0.5739,0.6656,0.6544,5.246
+Austria,Alexander Schlager,GK,30,FC Red Bull Salzburg,AUT,26,0,0.7393,0.5377,0.7199,0.7269,4.428
+Austria,Patrick Wimmer,FWD,25,VfL Wolfsburg,GER,30,1,0.737,0.5792,0.6301,0.7031,4.374
+Austria,Phillip Mwene,DEF,32,1. FSV Mainz 05,GER,30,0,0.7367,0.6656,0.6745,0.764,3.498
+Austria,Nicolas Seiwald,MID,25,RB Leipzig,GER,47,1,0.717,0.5275,0.7741,0.7905,3.452
+Austria,Carney Chukwuemeka,MID,22,Borussia Dortmund,GER,3,1,0.7134,0.6142,0.6692,0.4294,3.438
+Austria,Philipp Lienhart,DEF,29,SC Freiburg,GER,41,3,0.7036,0.6119,0.6552,0.7676,2.91
+Austria,Florian Wiegele,GK,25,FC Viktoria Plzeň,CZE,1,0,0.7016,0.4125,0.4674,0.4534,2.57
+Austria,Michael Svoboda,DEF,27,Venezia FC,ITA,4,0,0.6989,0.5954,0.3358,0.551,2.565
+Austria,Paul Wanner,MID,20,PSV Eindhoven,NED,3,0,0.6942,0.5462,0.5586,0.533,2.175
+Austria,Alessandro Schoepf,MID,32,Wolfsberger AC,AUT,35,6,0.6908,0.5443,0.3696,0.707,1.893
+Austria,Marko Arnautovic,FWD,37,FK Crvena Zvezda,SRB,133,47,0.5783,0.696,0.594,0.9431,1.81
+Belgium,Maxim De Cuyper,DEF,25,Brighton & Hove Albion FC,ENG,19,4,0.8531,0.6692,0.8524,0.5831,103.81
+Belgium,Jeremy Doku,FWD,24,Manchester City FC,ENG,43,7,0.8512,0.5156,0.9237,0.7779,85.33
+Belgium,Dodi Lukebakio,FWD,28,SL Ben,POR,30,6,0.8235,0.4467,0.7328,0.7517,55.611
+Belgium,Romelu Lukaku,FWD,33,SSC Napoli,ITA,126,90,0.8103,0.4571,0.9068,0.9682,36.82
+Belgium,Leandro Trossard,FWD,31,Arsenal FC,ENG,51,12,0.8086,0.6229,0.8514,0.8213,36.013
+Belgium,Alexis Saelemaekers,MID,26,AC Milan,ITA,24,2,0.8002,0.5349,0.7307,0.7012,27.921
+Belgium,Arthur Theate,DEF,26,Eintracht Frankfurt,GER,33,1,0.7969,0.5671,0.7351,0.7071,25.071
+Belgium,Youri Tielemans,MID,29,Aston Villa FC,ENG,85,13,0.7872,0.469,0.6138,0.862,19.798
+Belgium,Charles De Ketelaere,FWD,25,Atalanta Bergamo,ITA,30,6,0.7863,0.6578,0.7877,0.7574,18.452
+Belgium,Koni De Winter,DEF,23,AC Milan,ITA,8,0,0.7849,0.5483,0.6668,0.5903,14.557
+Belgium,Senne Lammens,GK,23,Manchester United FC,ENG,2,0,0.7767,0.5414,0.6477,0.4835,13.556
+Belgium,Amadou Onana,MID,24,Aston Villa FC,ENG,29,1,0.776,0.623,0.548,0.6531,13.339
+Belgium,Thibaut Courtois,GK,34,Real Madrid C. F.,ESP,109,0,0.7736,0.471,0.9888,0.8968,10.46
+Belgium,Zeno Debast,DEF,22,Sporting CP,POR,26,1,0.7686,0.57,0.6911,0.6241,8.911
+Belgium,Hans Vanaken,MID,33,Club Brugge,BEL,34,7,0.7623,0.6073,0.6984,0.7744,8.228
+Belgium,Timothy Castagne,DEF,30,Fulham FC,ENG,63,2,0.7582,0.6233,0.6276,0.8383,7.89
+Belgium,Kevin De Bruyne,MID,34,SSC Napoli,ITA,119,37,0.7438,0.5896,0.9063,0.9635,7.888
+Belgium,Nicolas Raskin,MID,25,Rangers FC,SCO,13,2,0.7426,0.5017,0.455,0.6188,7.731
+Belgium,Brandon Mechele,DEF,33,Club Brugge,BEL,9,1,0.7345,0.6049,0.62,0.5374,5.755
+Belgium,Joaquin Seys,DEF,21,Club Brugge,BEL,5,0,0.7327,0.6034,0.5881,0.5927,5.334
+Belgium,Nathan Ngoy,DEF,23,Lille OSC,FRA,4,0,0.7316,0.5244,0.442,0.5604,4.628
+Belgium,Mike Penders,GK,20,RC Strasbourg,FRA,0,0,0.7172,0.576,0.3544,0.5368,4.351
+Belgium,Matias Fernandez-Pardo,FWD,21,Lille OSC,FRA,2,0,0.7142,0.5729,0.41,0.5457,4.318
+Belgium,Thomas Meunier,DEF,34,Lille OSC,FRA,80,10,0.7118,0.7034,0.6162,0.8114,3.652
+Belgium,Diego Moreira,MID,21,RC Strasbourg,FRA,3,0,0.7003,0.6413,0.4411,0.5644,3.577
+Belgium,Axel Witsel,MID,37,Girona FC,ESP,138,12,0.6077,0.5493,0.7893,0.9302,1.201
+Bosnia and Herzegovina,Ermedin Demirovic,FWD,28,VfB Stuttgart,GER,40,4,0.6511,0.5226,0.7451,0.9546,37.428
+Bosnia and Herzegovina,Nihad Mujakic,DEF,28,Gaziantep FK,TUR,12,1,0.6255,0.57,0.5993,0.6851,11.774
+Bosnia and Herzegovina,Nikola Katic,DEF,29,FC Schalke 04,GER,17,2,0.6226,0.5111,0.7398,0.8159,9.685
+Bosnia and Herzegovina,Dzenis Burnic,MID,28,Karlsruher SC,GER,20,0,0.6225,0.4586,0.8064,0.7794,9.257
+Bosnia and Herzegovina,Amar Dedic,DEF,23,SL Ben,POR,28,1,0.6081,0.5847,0.7286,0.8674,5.586
+Bosnia and Herzegovina,Sead Kolasinac,DEF,32,Atalanta Bergamo,ITA,65,0,0.6079,0.4629,0.835,0.9503,5.364
+Bosnia and Herzegovina,Haris Tabakovic,FWD,31,Borussia Mönchengladbach,GER,10,4,0.6027,0.4121,0.6558,0.6336,5.058
+Bosnia and Herzegovina,Dennis Hadzikadunic,DEF,27,UC Sampdoria,ITA,32,0,0.5956,0.4922,0.6262,0.8418,4.339
+Bosnia and Herzegovina,Ivan Sunjic,MID,29,Pafos FC,CYP,11,0,0.5852,0.5534,0.4494,0.6293,4.013
+Bosnia and Herzegovina,Armin Gigovic,MID,24,BSC Young Boys,SUI,20,1,0.5819,0.5289,0.6502,0.7641,3.878
+Bosnia and Herzegovina,Benjamin Tahirovic,MID,23,Brøndby IF,DEN,28,2,0.5801,0.5499,0.6306,0.809,3.592
+Bosnia and Herzegovina,Kerim Alajbegovic,FWD,18,FC Red Bull Salzburg,AUT,10,1,0.5799,0.4528,0.6637,0.6058,3.501
+Bosnia and Herzegovina,Amar Memic,MID,25,FC Viktoria Plzeň,CZE,13,1,0.5782,0.5298,0.5891,0.6368,2.852
+Bosnia and Herzegovina,Esmir Bajraktarevic,FWD,21,PSV Eindhoven,NED,16,1,0.5762,0.5661,0.6491,0.68,2.392
+Bosnia and Herzegovina,Ivan Basic,MID,24,FC Astana,KAZ,17,0,0.5735,0.5559,0.5308,0.7477,2.316
+Bosnia and Herzegovina,Ermin Mahmic,MID,21,FC Slovan Liberec,CZE,2,0,0.5705,0.5698,0.3627,0.4646,2.177
+Bosnia and Herzegovina,Amir Hadziahmetovic,MID,29,Hull City FC,ENG,36,0,0.5696,0.4475,0.4775,0.8386,1.767
+Bosnia and Herzegovina,Stjepan Radeljic,DEF,28,HNK Rijeka,CRO,5,0,0.5691,0.5547,0.4656,0.5991,1.711
+Bosnia and Herzegovina,Tarik Muharemovic,DEF,23,US Sassuolo,ITA,14,1,0.5673,0.5311,0.576,0.7449,1.579
+Bosnia and Herzegovina,Martin Zlomislic,GK,27,HNK Rijeka,CRO,3,0,0.5589,0.6132,0.4402,0.5487,1.519
+Bosnia and Herzegovina,Arjan Malic,DEF,20,SK Sturm Graz,AUT,8,0,0.5545,0.5489,0.5153,0.4989,1.428
+Bosnia and Herzegovina,Jovo Lukic,FWD,27,Universitatea Cluj,ROU,3,0,0.5539,0.5438,0.3807,0.412,1.071
+Bosnia and Herzegovina,Nikola Vasilj,GK,30,FC St. Pauli,GER,26,0,0.5434,0.556,0.4264,0.7603,1.014
+Bosnia and Herzegovina,Samed Bazdar,FWD,22,Jagiellonia Białystok,POL,13,1,0.5423,0.5808,0.4591,0.6499,0.792
+Bosnia and Herzegovina,Mladen Jurkas,GK,18,FK Borac Banja Luka,BIH,0,0,0.5102,0.4979,0.294,0.5222,0.776
+Bosnia and Herzegovina,Edin Dzeko,FWD,40,FC Schalke 04,GER,148,73,0.3729,0.4976,0.859,0.98,0.733
+Brazil,Vinicius Junior,FWD,25,Real Madrid C. F.,ESP,49,9,0.9433,0.6184,0.9395,0.815,114.172
+Brazil,Bruno Guimaraes,MID,28,Newcastle United FC,ENG,43,3,0.8988,0.4954,0.6799,0.713,89.486
+Brazil,Gabriel Magalhaes,DEF,28,Arsenal FC,ENG,17,1,0.8858,0.6318,0.785,0.6628,75.73
+Brazil,Matheus Cunha,FWD,27,Manchester United FC,ENG,23,1,0.8812,0.7464,0.7778,0.705,60.58
+Brazil,Raphael Raphinha,FWD,29,FC Barcelona,ESP,39,11,0.874,0.6611,0.9125,0.6844,55.156
+Brazil,Marcos Marquinhos,DEF,32,Paris Saint-Germain,FRA,105,7,0.8701,0.6144,0.9412,0.9122,42.121
+Brazil,Gabriel Martinelli,FWD,24,Arsenal FC,ENG,23,4,0.8673,0.6935,0.803,0.6971,38.417
+Brazil,Lucas Paqueta,MID,28,CR Flamengo,BRA,63,13,0.866,0.6998,0.6624,0.9093,37.306
+Brazil,Alisson,GK,33,Liverpool FC,ENG,78,0,0.8649,0.5927,0.9411,0.8516,32.831
+Brazil,Luiz Henrique,FWD,25,FC Zenit St. Petersburg,RUS,15,2,0.8646,0.601,0.6723,0.6067,32.577
+Brazil,Ederson Silva,MID,26,Atalanta Bergamo,ITA,3,0,0.8635,0.5148,0.6596,0.5367,31.903
+Brazil,Roger Ibanez,DEF,27,Al Ahli FC,KSA,7,0,0.8634,0.6528,0.5641,0.6087,29.716
+Brazil,Gleison Bremer,DEF,29,Juventus FC,ITA,8,1,0.862,0.6507,0.7774,0.5595,22.757
+Brazil,Danilo Santos,MID,25,Botafogo,BRA,4,2,0.8428,0.6407,0.3836,0.5111,16.233
+Brazil,Ederson,GK,32,Fenerbahçe SK,TUR,32,0,0.8408,0.6208,0.7437,0.7443,15.103
+Brazil,Igor Thiago,FWD,24,Brentford FC,ENG,4,2,0.8348,0.7448,0.4115,0.5311,14.293
+Brazil,Douglas Santos,DEF,32,FC Zenit St. Petersburg,RUS,7,0,0.8297,0.574,0.629,0.5788,13.762
+Brazil,Fabio Fabinho,MID,32,Al Ittihad,KSA,33,0,0.8096,0.4864,0.6546,0.7672,10.707
+Brazil,Neymar Jr,FWD,34,Santos FC,BRA,128,79,0.8085,0.5867,0.6108,0.98,7.936
+Brazil,Leonardo Leo Pereira,DEF,30,CR Flamengo,BRA,4,0,0.8076,0.5283,0.5029,0.5614,7.057
+Brazil,Rayan,FWD,19,AFC Bournemouth,ENG,2,1,0.8014,0.723,0.471,0.4618,6.84
+Brazil,Carlos Casemiro,MID,34,Manchester United FC,ENG,86,9,0.8006,0.5938,0.8583,0.9303,6.254
+Brazil,Endrick,FWD,19,Olympique Lyonnais,FRA,17,4,0.8006,0.5813,0.752,0.7397,6.007
+Brazil,Danilo,DEF,34,CR Flamengo,BRA,70,1,0.7535,0.6871,0.6689,0.9184,4.464
+Brazil,Alex Sandro,DEF,35,CR Flamengo,BRA,45,2,0.7277,0.6218,0.6417,0.8143,3.576
+Brazil,Weverton,GK,38,Grêmio FBPA,BRA,11,0,0.5918,0.667,0.6454,0.5711,3.515
+Cabo Verde,Jovane Cabral,MID,27,CF Estrela Da Amadora,POR,29,3,0.589,0.5096,0.7308,0.7538,4.767
+Cabo Verde,Deroy Duarte,MID,26,PFC Ludogorets Razgrad,BUL,33,0,0.5729,0.6318,0.6594,0.7602,4.003
+Cabo Verde,Dailon Livramento,FWD,25,Casa Pia AC,POR,22,7,0.5639,0.699,0.7141,0.6205,2.773
+Cabo Verde,Kevin Pina,MID,29,FC Krasnodar,RUS,31,3,0.5557,0.5063,0.7131,0.7336,2.687
+Cabo Verde,Gilson Benchimol,FWD,24,FC Akron Tolyatti,RUS,21,6,0.5529,0.5303,0.6134,0.6805,2.468
+Cabo Verde,Kelvin Pires,DEF,26,SJK,FIN,6,1,0.5508,0.6071,0.4157,0.5612,2.172
+Cabo Verde,Jair Yannick Semedo,MID,30,SC Farense,POR,11,1,0.5472,0.5055,0.6734,0.5738,2.163
+Cabo Verde,Logan Costa,DEF,25,Villarreal CF,ESP,28,0,0.538,0.4936,0.7443,0.7537,1.968
+Cabo Verde,Marcio Rosa,GK,29,PFC Montana,BUL,11,0,0.5375,0.5525,0.4494,0.5551,1.81
+Cabo Verde,Edilson Diney Borges,DEF,31,Al Bataeh Club,UAE,32,2,0.5371,0.555,0.5687,0.7054,1.513
+Cabo Verde,Sidny Lopes Cabral,DEF,23,SL Ben,POR,11,3,0.5264,0.5611,0.6734,0.4837,1.488
+Cabo Verde,Joao Paulo,MID,28,FC FCSB,ROU,41,1,0.524,0.608,0.5278,0.8158,1.033
+Cabo Verde,Helio Varela,MID,24,Maccabi Tel-Aviv FC,ISR,21,0,0.5176,0.4239,0.5051,0.6975,0.977
+Cabo Verde,Laros Duarte,MID,29,Puskás Akadémia FC,HUN,20,1,0.5091,0.5804,0.4844,0.6033,0.816
+Cabo Verde,Carlos Cj Dos Santos,GK,25,San Diego FC,USA,1,0,0.5056,0.6223,0.4704,0.4681,0.757
+Cabo Verde,Willy Semedo,MID,32,AC Omonia,CYP,38,3,0.4967,0.4778,0.5232,0.7407,0.604
+Cabo Verde,Wagner Pina,DEF,23,Trabzonspor,TUR,14,0,0.4944,0.467,0.5246,0.5693,0.553
+Cabo Verde,Roberto Pico Lopes,DEF,33,Shamrock Rovers FC,IRL,45,0,0.4942,0.5192,0.5335,0.8468,0.43
+Cabo Verde,Telmo Arcanjo,MID,24,Vitória SC,POR,16,1,0.4932,0.5685,0.4071,0.5468,0.389
+Cabo Verde,Nuno Da Costa,MID,35,Başakşehir FK,TUR,9,2,0.4913,0.4616,0.5959,0.4616,0.359
+Cabo Verde,Jamiro Monteiro,MID,32,PEC Zwolle,NED,55,5,0.49,0.4394,0.378,0.8817,0.357
+Cabo Verde,Steven Moreira,DEF,31,Columbus Crew,USA,20,0,0.4864,0.5313,0.4194,0.6779,0.269
+Cabo Verde,Garry Rodrigues,MID,35,Apollon Limassol,CYP,61,10,0.4841,0.5159,0.4854,0.8704,0.267
+Cabo Verde,Ryan Mendes,FWD,36,Iğdır FK,TUR,98,22,0.4544,0.6244,0.7494,0.8998,0.148
+Cabo Verde,Ianique Stopira,DEF,38,SCU Torreense,POR,61,4,0.3808,0.6627,0.7762,0.8892,0.121
+Cabo Verde,Josimar Vozinha,GK,40,GD Chaves,POR,90,0,0.2864,0.5605,0.5643,0.98,0.108
+Canada,Tajon Buchanan,FWD,27,Villarreal CF,ESP,60,8,0.7622,0.5813,0.7909,0.8133,20.457
+Canada,Jonathan David,FWD,26,Juventus FC,ITA,77,39,0.756,0.6139,0.9125,0.9223,14.508
+Canada,Tani Oluwaseyi,FWD,26,Villarreal CF,ESP,24,2,0.7275,0.6488,0.7351,0.6788,11.12
+Canada,Stephen Eustaquio,MID,29,LAFC,USA,56,4,0.7269,0.4769,0.6799,0.8053,7.094
+Canada,Alistair Johnston,DEF,27,Celtic FC,SCO,58,1,0.7256,0.6103,0.6277,0.864,6.309
+Canada,Jacob Shaffelburg,MID,26,LAFC,USA,31,6,0.7239,0.7087,0.6438,0.7091,6.143
+Canada,Mathieu Choiniere,MID,27,LAFC,USA,24,0,0.7202,0.5077,0.6284,0.6844,6.094
+Canada,Alphonso Davies,DEF,25,FC Bayern München,GER,58,15,0.7185,0.6645,0.8711,0.8423,5.537
+Canada,Promise David,FWD,24,Royale Union Saint-Gilloise,BEL,10,3,0.7176,0.7264,0.626,0.523,4.83
+Canada,Cyle Larin,FWD,31,Southampton FC,ENG,90,30,0.7128,0.6445,0.7105,0.8941,4.71
+Canada,Liam Millar,MID,26,Hull City FC,ENG,41,1,0.7102,0.5945,0.4854,0.8141,4.466
+Canada,Al,DEF,28,Middlesbrough FC,ENG,2,0,0.7042,0.6425,0.3621,0.4989,4.288
+Canada,Moise Bombito,DEF,26,OGC Nice,FRA,20,0,0.6993,0.5972,0.6502,0.6432,4.039
+Canada,Ismael Kone,MID,23,US Sassuolo,ITA,40,4,0.6861,0.5197,0.6389,0.6886,3.868
+Canada,Luc De Fougerolles,DEF,20,FCV Dender EH,BEL,13,0,0.6849,0.5959,0.6411,0.529,3.582
+Canada,Derek Cornelius,DEF,28,Rangers FC,SCO,44,1,0.6832,0.575,0.5281,0.8174,3.347
+Canada,Dayne St. Clair,GK,29,Inter Miami CF,USA,20,0,0.679,0.6381,0.6174,0.6383,3.119
+Canada,Ali Ahmed,FWD,25,Norwich City FC,ENG,24,1,0.6777,0.665,0.4051,0.6931,2.992
+Canada,Nathan Saliba,MID,22,RSC Anderlecht,BEL,15,2,0.676,0.5892,0.5974,0.5374,2.475
+Canada,Joel Waterman,DEF,30,Chicago Fire FC,USA,17,0,0.6644,0.5988,0.3393,0.6521,2.295
+Canada,Jayden Nelson,FWD,23,Austin FC,USA,15,2,0.6633,0.5743,0.6004,0.5752,2.027
+Canada,Richie Laryea,DEF,31,Toronto FC,CAN,76,1,0.6631,0.7092,0.5181,0.9422,1.823
+Canada,Maxime Crepeau,GK,32,Orlando City SC,USA,32,0,0.6457,0.6062,0.3815,0.7569,1.568
+Canada,Niko Sigur,DEF,22,HNK Hajduk Split,CRO,19,2,0.6452,0.6747,0.5794,0.7035,1.149
+Canada,Jonathan Osorio,MID,33,Toronto FC,CAN,91,10,0.6327,0.5554,0.5293,0.8668,0.9
+Canada,Owen Goodman,GK,22,Barnsley,ENG,0,0,0.5852,0.5098,0.1532,0.479,0.64
+Colombia,Luis Diaz,FWD,29,FC Bayern München,GER,74,22,0.8854,0.6357,0.8861,0.8854,103.552
+Colombia,Luis Suarez,FWD,28,Sporting CP,POR,12,5,0.8538,0.3835,0.6454,0.519,33.807
+Colombia,Richard Rios,MID,26,SL Ben,POR,32,2,0.8524,0.6588,0.7367,0.7582,23.915
+Colombia,Cucho Hernandez,FWD,27,Real Betis,ESP,9,2,0.8502,0.6017,0.6725,0.5031,16.288
+Colombia,Jhon Lucumi,DEF,27,Bologna FC,ITA,37,1,0.8445,0.6529,0.5958,0.7541,12.856
+Colombia,Jorge Carrascal,MID,28,CR Flamengo,BRA,25,2,0.8366,0.6623,0.606,0.6652,12.064
+Colombia,Jhon Arias,MID,28,SE Palmeiras,BRA,38,6,0.8366,0.5223,0.6279,0.7011,10.004
+Colombia,Kevin Castano,MID,25,CA River Plate,ARG,25,0,0.8311,0.5831,0.6217,0.641,9.179
+Colombia,Davinson Sanchez,DEF,29,Galatasaray SK,TUR,79,4,0.8256,0.6116,0.7869,0.8973,8.95
+Colombia,Daniel Munoz,DEF,30,Crystal Palace FC,ENG,46,3,0.8231,0.666,0.7293,0.7774,8.352
+Colombia,Andres Gomez,FWD,23,CR Vasco Da Gama,BRA,8,2,0.8214,0.5766,0.4613,0.5409,7.855
+Colombia,Deiver Machado,DEF,32,FC Nantes,FRA,15,0,0.8101,0.5874,0.5792,0.6127,6.781
+Colombia,Johan Mojica,DEF,33,RCD Mallorca,ESP,45,1,0.8084,0.6047,0.8835,0.7943,4.767
+Colombia,Jaminton Campaz,FWD,26,CA Rosario Central,ARG,10,1,0.8011,0.5758,0.3973,0.5589,4.644
+Colombia,Jefferson Lerma,MID,31,Crystal Palace FC,ENG,65,5,0.7984,0.5196,0.7505,0.7801,4.615
+Colombia,Yerry Mina,DEF,31,Cagliari,ITA,54,8,0.7983,0.5733,0.605,0.8794,4.388
+Colombia,Jhon Cordoba,FWD,33,FC Krasnodar,RUS,21,6,0.7942,0.6568,0.6896,0.6126,4.285
+Colombia,Juan Portilla,MID,27,Athletico Paranaense,BRA,10,0,0.7933,0.5914,0.3746,0.5762,3.772
+Colombia,Alvaro Montero,GK,31,CA Vélez Sars,ARG,12,0,0.7862,0.6038,0.4956,0.588,3.618
+Colombia,Gustavo Puerta,DEF,22,Racing Santander,ESP,6,1,0.7776,0.5924,0.5161,0.4345,3.204
+Colombia,Juan Quintero,MID,33,CA River Plate,ARG,49,6,0.7728,0.5275,0.6626,0.7682,2.928
+Colombia,Willer Ditta,DEF,28,CF Cruz Azul,MEX,5,0,0.7671,0.543,0.4342,0.362,2.855
+Colombia,Santiago Arias,DEF,34,CA Independiente,ARG,68,0,0.7469,0.5576,0.614,0.8231,2.591
+Colombia,James Rodriguez,MID,34,Minnesota United FC,USA,126,31,0.7176,0.4893,0.3879,0.955,2.271
+Colombia,David Ospina,GK,37,Atlético Nacional,COL,130,0,0.6012,0.6339,0.4976,0.8935,1.694
+Colombia,Camilo Vargas,GK,37,Atlas FC,MEX,42,0,0.571,0.5717,0.4669,0.8439,1.264
+Croatia,Josip Stanisic,DEF,26,FC Bayern München,GER,31,0,0.8326,0.5386,0.8328,0.7421,39.711
+Croatia,Josko Gvardiol,DEF,24,Manchester City FC,ENG,48,4,0.8295,0.5637,0.9304,0.7878,32.525
+Croatia,Mario Pasalic,MID,31,Atalanta Bergamo,ITA,85,12,0.8222,0.6017,0.8515,0.9514,26.182
+Croatia,Nikola Vlasic,MID,28,Torino FC,ITA,63,10,0.8206,0.6275,0.7338,0.8461,25.29
+Croatia,Duje Caleta-Car,DEF,29,Real Sociedad,ESP,38,1,0.8159,0.569,0.7986,0.7019,15.151
+Croatia,Josip Sutalo,DEF,26,AFC Ajax,NED,33,0,0.812,0.5303,0.716,0.7947,14.155
+Croatia,Marin Pongracic,DEF,28,ACF Fiorentina,ITA,20,0,0.8085,0.5476,0.6902,0.7237,14.035
+Croatia,Mateo Kovacic,MID,32,Manchester City FC,ENG,113,5,0.8062,0.6506,0.9832,0.8206,13.784
+Croatia,Toni Fruk,MID,25,HNK Rijeka,CRO,7,1,0.8052,0.5962,0.4836,0.5548,12.028
+Croatia,Martin Baturina,MID,23,Como,ITA,19,1,0.8028,0.5529,0.7964,0.6676,11.806
+Croatia,Luka Sucic,MID,23,Real Sociedad,ESP,21,1,0.7983,0.5287,0.7628,0.7054,10.52
+Croatia,Martin Erlic,DEF,28,FC Midtjylland,DEN,13,1,0.7966,0.503,0.5851,0.5673,10.514
+Croatia,Kristijan Jakic,DEF,29,FC Augsburg,GER,17,2,0.7934,0.5142,0.651,0.6426,9.629
+Croatia,Dominik Livakovic,GK,31,GNK Dinamo Zagreb,CRO,75,0,0.7878,0.5517,0.6629,0.7965,8.791
+Croatia,Nikola Moro,MID,28,Bologna FC,ITA,10,0,0.7849,0.5393,0.5183,0.5739,7.306
+Croatia,Petar Sucic,MID,22,FC Internazionale Milano,ITA,17,1,0.7828,0.5405,0.7659,0.5973,5.004
+Croatia,Dominik Kotarski,GK,26,FC København,DEN,4,0,0.7791,0.5509,0.5207,0.4622,4.871
+Croatia,Petar Musa,FWD,28,FC Dallas,USA,11,1,0.7688,0.5902,0.3418,0.6039,4.515
+Croatia,Igor Matanovic,FWD,23,SC Freiburg,GER,9,2,0.7676,0.523,0.5654,0.5052,4.22
+Croatia,Luka Vuskovic,DEF,19,Hamburger SV,GER,5,1,0.7602,0.481,0.7281,0.5197,3.197
+Croatia,Andrej Kramaric,FWD,34,TSG Hoffenheim,GER,116,36,0.7396,0.5792,0.8638,0.8979,2.824
+Croatia,Marco Pasalic,FWD,25,Orlando City SC,USA,15,1,0.7384,0.5816,0.3362,0.6159,2.218
+Croatia,Ante Budimir,FWD,34,CA Osasuna,ESP,38,6,0.7361,0.7144,0.5722,0.7984,1.625
+Croatia,Ivor Pandur,GK,26,Hull City FC,ENG,0,0,0.73,0.5183,0.2516,0.4783,1.402
+Croatia,Ivan Perisic,FWD,37,PSV Eindhoven,NED,154,38,0.6153,0.5835,0.7719,0.9023,1.172
+Croatia,Luka Modric,MID,40,AC Milan,ITA,198,29,0.4747,0.5862,0.8294,0.9727,0.823
+Curaçao,Arjany Martha,MID,22,Rotherham United FC,ENG,9,2,0.5107,0.5069,0.809,0.6574,3.548
+Curaçao,Roshon Van Eijma,DEF,28,RKC Waalwijk,NED,28,1,0.5022,0.5041,0.7286,0.7917,2.764
+Curaçao,Jearl Margaritha,FWD,26,SK Beveren,BEL,22,5,0.5018,0.483,0.6721,0.7129,2.254
+Curaçao,Tyrese Noslin,FWD,23,SC Telstar,NED,7,1,0.5,0.4792,0.6481,0.6539,1.831
+Curaçao,Kevin Felida,MID,26,FC Den Bosch,NED,19,1,0.485,0.4842,0.7054,0.6015,1.596
+Curaçao,Godfried Roemeratoe,MID,26,RKC Waalwijk,NED,29,1,0.4816,0.5098,0.7308,0.8063,1.058
+Curaçao,Leandro Bacuna,MID,34,Iğdır FK,TUR,72,16,0.4803,0.602,0.7304,0.9054,0.962
+Curaçao,Tyrick Bodak,GK,24,SC Telstar,NED,4,0,0.4792,0.4573,0.6187,0.5056,0.953
+Curaçao,Sherel Floranus,DEF,27,PEC Zwolle,NED,27,0,0.4752,0.5533,0.3347,0.7231,0.772
+Curaçao,Tahith Chong,MID,26,She,ENG,6,3,0.4752,0.4667,0.389,0.5197,0.552
+Curaçao,Jeremy Antonisse,FWD,24,AE Ki,GRE,27,4,0.4745,0.5324,0.6144,0.8448,0.469
+Curaçao,Juninho Bacuna,MID,28,FC Volendam,NED,50,14,0.4718,0.5437,0.4828,0.9005,0.421
+Curaçao,Gervane Kastaneer,FWD,30,Terengganu FC,MAS,29,9,0.4716,0.4307,0.5068,0.7831,0.389
+Curaçao,Armando Obispo,DEF,27,PSV Eindhoven,NED,6,0,0.4647,0.4619,0.5936,0.5398,0.334
+Curaçao,Sontje Hansen,FWD,24,Middlesbrough FC,ENG,6,1,0.4609,0.5541,0.4151,0.5784,0.32
+Curaçao,Riechedly Bazoer,DEF,29,Konyaspor,TUR,5,0,0.4569,0.4999,0.4334,0.4473,0.315
+Curaçao,Kenji Gorre,FWD,31,Maccabi Haifa FC,ISR,38,6,0.4463,0.4768,0.5232,0.7662,0.227
+Curaçao,Jurien Gaari,DEF,32,Abha Club,KSA,60,1,0.4462,0.531,0.6912,0.8922,0.217
+Curaçao,Trevor Doornbusch,GK,26,VVV Venlo,NED,8,0,0.4437,0.5205,0.2358,0.5952,0.172
+Curaçao,Deveron Fonville,DEF,23,NEC Nijmegen,NED,2,0,0.4428,0.5211,0.5867,0.4675,0.164
+Curaçao,Brandley Kuwas,FWD,33,FC Volendam,NED,36,2,0.4378,0.5437,0.4627,0.7833,0.164
+Curaçao,Livano Comenencia,MID,22,FC Zürich,SUI,20,2,0.4362,0.4774,0.5161,0.7161,0.162
+Curaçao,Juergen Locadia,FWD,32,Miami FC,USA,13,1,0.4314,0.4521,0.5921,0.6541,0.116
+Curaçao,Shurandy Sambo,DEF,24,Sparta Rotterdam,NED,8,0,0.4251,0.4831,0.2123,0.5368,0.087
+Curaçao,Joshua Brenet,DEF,32,Kayserispor,TUR,18,2,0.4246,0.6473,0.3792,0.6372,0.085
+Curaçao,Eloy Room,GK,37,Miami FC,USA,72,0,0.3674,0.4745,0.6954,0.9496,0.068
+Czechia,Patrik Schick,FWD,30,Bayer 04 Leverkusen,GER,53,26,0.7453,0.5204,0.8655,0.8594,45.161
+Czechia,Robin Hranac,DEF,26,TSG Hoffenheim,GER,14,1,0.701,0.6056,0.7353,0.6324,17.039
+Czechia,Pavel Sulc,FWD,25,Olympique Lyonnais,FRA,21,5,0.6999,0.5169,0.7645,0.6751,10.997
+Czechia,Matej Kovar,GK,26,PSV Eindhoven,NED,20,0,0.6996,0.5518,0.6623,0.6929,9.71
+Czechia,Lukas Provod,MID,29,SK Slavia Praha,CZE,38,3,0.6936,0.5083,0.5232,0.8136,9.16
+Czechia,Mojmir Chytil,FWD,27,SK Slavia Praha,CZE,22,6,0.6905,0.4951,0.4901,0.7,9.062
+Czechia,Adam Hlozek,FWD,23,TSG Hoffenheim,GER,43,5,0.6873,0.5605,0.8026,0.8897,8.434
+Czechia,David Jurasek,DEF,25,SK Slavia Praha,CZE,18,1,0.6855,0.5093,0.4782,0.604,7.977
+Czechia,Ladislav Krejci,DEF,27,Wolverhampton Wanderers FC,ENG,27,5,0.6838,0.3925,0.5584,0.7576,6.037
+Czechia,Lukas Cerv,MID,25,FC Viktoria Plzeň,CZE,17,2,0.6804,0.6482,0.6048,0.5779,6.003
+Czechia,Denis Visinsky,FWD,23,FC Viktoria Plzeň,CZE,2,1,0.6798,0.5462,0.4927,0.5206,5.394
+Czechia,Tomas Chory,FWD,31,SK Slavia Praha,CZE,22,7,0.6789,0.4082,0.4901,0.6902,4.287
+Czechia,David Doudera,DEF,28,SK Slavia Praha,CZE,17,2,0.6786,0.543,0.4748,0.602,4.168
+Czechia,Michal Sadilek,MID,27,SK Slavia Praha,CZE,35,1,0.6686,0.5127,0.5182,0.71,4.042
+Czechia,Vladimir Coufal,DEF,33,TSG Hoffenheim,GER,62,2,0.6663,0.4735,0.8251,0.9395,4.014
+Czechia,Jindrich Stanek,GK,30,SK Slavia Praha,CZE,14,0,0.6634,0.5177,0.4634,0.5177,3.515
+Czechia,Lukas Hornicek,GK,23,SC Braga,POR,1,0,0.6605,0.5017,0.524,0.5207,3.503
+Czechia,David Zima,DEF,25,SK Slavia Praha,CZE,25,1,0.659,0.5563,0.4978,0.7033,3.228
+Czechia,Tomas Soucek,MID,31,West Ham United FC,ENG,90,17,0.6551,0.5301,0.6827,0.98,2.188
+Czechia,Tomas Holes,DEF,33,SK Slavia Praha,CZE,41,2,0.6429,0.5173,0.5278,0.9324,2.099
+Czechia,Stepan Chaloupek,DEF,23,SK Slavia Praha,CZE,5,0,0.6386,0.5105,0.4061,0.5126,1.8
+Czechia,Alexandr Sojka,MID,23,FC Viktoria Plzeň,CZE,2,0,0.6383,0.395,0.4927,0.4816,1.136
+Czechia,Jan Kuchta,FWD,29,AC Sparta Praha,CZE,31,3,0.6328,0.4292,0.2917,0.7604,0.774
+Czechia,Jaroslav Zeleny,DEF,33,AC Sparta Praha,CZE,23,0,0.5919,0.579,0.2737,0.7409,0.671
+Czechia,Vladimir Darida,MID,35,FC Hradec Králové,CZE,79,8,0.5711,0.5155,0.5681,0.9435,0.58
+Czechia,Hugo Sochurek,MID,18,AC Sparta Praha,CZE,1,0,0.55,0.4538,0.1182,0.4843,0.521
+Côte d'Ivoire,Amad Diallo,FWD,23,Manchester United FC,ENG,19,6,0.6928,0.586,0.7664,0.6487,33.142
+Côte d'Ivoire,Franck Kessie,MID,29,Al Ahli FC,KSA,104,15,0.6909,0.5893,0.7251,0.9385,24.009
+Côte d'Ivoire,Simon Adingra,FWD,24,AS Monaco,FRA,29,5,0.688,0.6234,0.736,0.6934,20.229
+Côte d'Ivoire,Nicolas Pepe,FWD,31,Villarreal CF,ESP,56,12,0.685,0.5876,0.7866,0.8635,19.894
+Côte d'Ivoire,Wilfried Singo,DEF,25,Galatasaray SK,TUR,35,1,0.6774,0.5179,0.737,0.8836,17.762
+Côte d'Ivoire,Emmanuel Agbadou,DEF,28,Beşiktaş JK,TUR,21,2,0.666,0.5211,0.7201,0.728,15.855
+Côte d'Ivoire,Evan Ndicka,DEF,26,AS Roma,ITA,29,0,0.6657,0.5771,0.8196,0.7983,15.496
+Côte d'Ivoire,Parfait Guiagon,MID,25,Sporting Charleroi,BEL,5,0,0.6622,0.45,0.5881,0.5288,15.485
+Côte d'Ivoire,Yahia Fofana,GK,25,Çaykur Rizespor,TUR,36,0,0.6598,0.4411,0.6879,0.8553,14.823
+Côte d'Ivoire,Bazoumana Toure,FWD,20,TSG Hoffenheim,GER,6,2,0.6587,0.6326,0.6876,0.5511,13.041
+Côte d'Ivoire,Odilon Kossounou,DEF,25,Atalanta Bergamo,ITA,36,0,0.6584,0.5266,0.7988,0.801,12.756
+Côte d'Ivoire,Oumar Diakite,FWD,22,Cercle Brugge,BEL,29,6,0.6584,0.5412,0.6888,0.7459,9.438
+Côte d'Ivoire,Ghislain Konan,DEF,30,Gil Vicente FC,POR,54,0,0.655,0.5505,0.7687,0.9357,9.252
+Côte d'Ivoire,Seko Fofana,MID,31,FC Porto,POR,32,7,0.6541,0.5539,0.7994,0.8378,9.2
+Côte d'Ivoire,Ange-Yoan Bonny,FWD,22,FC Internazionale Milano,ITA,1,0,0.6497,0.6363,0.6284,0.5392,8.23
+Côte d'Ivoire,Evann Guessand,FWD,24,Crystal Palace FC,ENG,21,4,0.6442,0.5179,0.6818,0.634,7.689
+Côte d'Ivoire,Ibrahim Sangare,MID,28,Nottingham Forest FC,ENG,55,11,0.6413,0.612,0.432,0.8736,6.438
+Côte d'Ivoire,Christopher Operi,DEF,29,Başakşehir FK,TUR,12,0,0.6316,0.513,0.6123,0.5904,4.948
+Côte d'Ivoire,Yan Diomande,FWD,19,RB Leipzig,GER,10,3,0.6313,0.4849,0.682,0.5989,4.811
+Côte d'Ivoire,Alban Lafont,GK,27,Panathinaikos FC,GRE,4,0,0.6282,0.5872,0.4872,0.5124,4.141
+Côte d'Ivoire,Guela Doue,DEF,23,RC Strasbourg,FRA,20,3,0.6274,0.4882,0.5448,0.6621,3.988
+Côte d'Ivoire,Ousmane Diomande,DEF,22,Sporting CP,POR,16,1,0.6223,0.6446,0.6622,0.6166,3.623
+Côte d'Ivoire,Christ Oulai,MID,20,Trabzonspor,TUR,9,0,0.607,0.6913,0.4993,0.609,2.023
+Côte d'Ivoire,Mohamed Kone,GK,24,Sporting Charleroi,BEL,0,0,0.603,0.5572,0.476,0.4824,1.388
+Côte d'Ivoire,Elye Wahi,FWD,23,OGC Nice,FRA,2,0,0.596,0.5487,0.5284,0.4632,1.238
+Côte d'Ivoire,Jean Seri,MID,34,NK Maribor,SVN,65,4,0.5545,0.4915,0.5241,0.98,1.099
+DR Congo,Brian Cipenga,FWD,28,CD Castellón,ESP,8,0,0.654,0.5606,0.7814,0.5415,14.264
+DR Congo,Theo Bongonda,MID,30,FC Spartak Moscow,RUS,38,7,0.6377,0.5901,0.7228,0.8489,11.32
+DR Congo,Yoane Wissa,FWD,29,Newcastle United FC,ENG,38,8,0.6353,0.5246,0.6723,0.8008,11.22
+DR Congo,Charles Pickel,MID,29,RCD Espanyol,ESP,34,1,0.635,0.5533,0.7526,0.8089,10.601
+DR Congo,Axel Tuanzebe,DEF,28,Burnley FC,ENG,13,1,0.6311,0.4779,0.5786,0.5795,8.894
+DR Congo,Nathanael Mbuku,MID,24,Montpellier HSC,FRA,19,2,0.6292,0.6213,0.6166,0.7329,8.301
+DR Congo,Simon Banza,FWD,29,Al Jazira,UAE,15,2,0.6232,0.5995,0.6122,0.7188,4.9
+DR Congo,Gedeon Kalulu,DEF,28,Aris Limassol FC,CYP,28,0,0.6214,0.6012,0.5046,0.738,4.502
+DR Congo,Dylan Batubinsika,DEF,30,AEL FC,GRE,15,1,0.6188,0.5856,0.5794,0.585,4.239
+DR Congo,Aaron Wan-Bissaka,DEF,28,West Ham United FC,ENG,12,0,0.6187,0.5782,0.5609,0.6007,3.374
+DR Congo,Edo Kayembe,MID,28,Watford FC,ENG,42,2,0.6128,0.5754,0.6497,0.8196,3.189
+DR Congo,Meschack Elia,FWD,28,Alanyaspor,TUR,68,12,0.6101,0.6132,0.5722,0.9209,3.137
+DR Congo,Chancel Mbemba,DEF,31,Lille OSC,FRA,109,7,0.6079,0.5132,0.6353,0.98,2.469
+DR Congo,Samuel Moutoussamy,MID,29,Atromitos FC,GRE,58,0,0.6046,0.4988,0.6611,0.8553,2.31
+DR Congo,Fiston Mayele,FWD,31,Pyramids FC,EGY,36,5,0.5935,0.5008,0.5619,0.7779,2.265
+DR Congo,Timothy Fayulu,GK,26,FC Noah,ARM,3,0,0.5906,0.5962,0.3807,0.5121,2.224
+DR Congo,Gael Kakuta,FWD,34,AEL FC,GRE,31,5,0.5892,0.5632,0.6228,0.7561,2.203
+DR Congo,Matthieu Epolo,GK,21,Standard Liège,BEL,1,0,0.5861,0.6183,0.5194,0.4638,1.992
+DR Congo,Arthur Masuaku,DEF,32,RC Lens,FRA,44,4,0.5833,0.5384,0.4749,0.8564,1.503
+DR Congo,Joris Kayembe,DEF,31,KRC Genk,BEL,26,1,0.5807,0.5092,0.6822,0.6476,1.439
+DR Congo,Lionel Mpasi,GK,31,Le Havre AC,FRA,28,0,0.5717,0.5641,0.511,0.6826,1.36
+DR Congo,Steve Kapuadi,DEF,28,Widzew Łódź,POL,3,0,0.5699,0.6008,0.3807,0.5199,1.225
+DR Congo,Aaron Tshibola,MID,31,Kilmarnock FC,SCO,17,1,0.5677,0.576,0.3471,0.6208,1.022
+DR Congo,Cedric Bakambu,FWD,35,Real Betis,ESP,70,21,0.5672,0.6558,0.7951,0.9367,0.892
+DR Congo,Ngalayel Mukau,MID,21,Lille OSC,FRA,14,0,0.5462,0.504,0.5107,0.616,0.717
+DR Congo,Noah Sadiki,MID,21,Sunderland AFC,ENG,20,0,0.543,0.5199,0.3559,0.6618,0.439
+Ecuador,Alan Franco,MID,27,Atlético Mineiro,BRA,58,1,0.8243,0.672,0.6355,0.9078,72.402
+Ecuador,Kevin Rodriguez,FWD,26,Royale Union Saint-Gilloise,BEL,31,2,0.8229,0.562,0.6928,0.6843,60.634
+Ecuador,Jordy Caicedo,FWD,28,CA Huracán,ARG,20,4,0.8209,0.6642,0.6384,0.6511,32.218
+Ecuador,Gonzalo Plata,FWD,25,CR Flamengo,BRA,50,8,0.8205,0.6437,0.6482,0.8569,31.896
+Ecuador,Willian Pacho,DEF,24,Paris Saint-Germain,FRA,34,2,0.8201,0.5526,0.8719,0.7642,23.137
+Ecuador,Moises Caicedo,MID,24,Chelsea FC,ENG,61,3,0.8185,0.5988,0.845,0.9024,19.386
+Ecuador,Pervis Estupinan,DEF,28,AC Milan,ITA,54,5,0.8144,0.6168,0.78,0.9315,11.61
+Ecuador,Piero Hincapie,DEF,24,Arsenal FC,ENG,52,2,0.7971,0.4695,0.8526,0.8641,11.243
+Ecuador,Jordy Alcivar,MID,26,Independiente Del Valle,ECU,11,1,0.7954,0.5485,0.5046,0.5917,10.375
+Ecuador,Moises Ramirez,GK,25,AE Ki,GRE,7,0,0.795,0.4769,0.5361,0.6084,10.166
+Ecuador,Felix Torres,DEF,29,SC Internacional,BRA,49,5,0.7888,0.5792,0.6191,0.815,9.896
+Ecuador,Angelo Preciado,DEF,28,Atlético Mineiro,BRA,56,0,0.7832,0.6032,0.6334,0.8787,9.437
+Ecuador,Anthony Valencia,MID,22,Royal Antwerp FC,BEL,3,1,0.7736,0.6139,0.5627,0.4195,8.765
+Ecuador,Denil Castillo,MID,22,FC Midtjylland,DEN,5,0,0.7695,0.5933,0.5321,0.5105,8.349
+Ecuador,Kendry Paez,MID,19,CA River Plate,ARG,26,2,0.7628,0.6498,0.6241,0.6688,7.467
+Ecuador,Joel Ordonez,DEF,22,Club Brugge,BEL,17,0,0.7621,0.5564,0.6568,0.5904,6.825
+Ecuador,Jeremy Arevalo,FWD,21,VfB Stuttgart,GER,4,0,0.7611,0.6222,0.6135,0.4731,6.176
+Ecuador,Yaimar Medina,DEF,21,KRC Genk,BEL,6,0,0.7599,0.5541,0.5977,0.4988,4.814
+Ecuador,Jackson Porozo,DEF,25,Club Tijuana,MEX,9,1,0.7588,0.572,0.4427,0.5775,3.732
+Ecuador,Alan Minda,MID,23,Atlético Mineiro,BRA,20,2,0.7565,0.5842,0.5709,0.7615,3.348
+Ecuador,John Yeboah,FWD,25,Venezia FC,ITA,22,3,0.749,0.5097,0.4312,0.7362,3.188
+Ecuador,Pedro Vite,MID,24,Pumas UNAM,MEX,17,1,0.7452,0.6162,0.3924,0.636,2.933
+Ecuador,Nilson Angulo,FWD,22,Sunderland AFC,ENG,14,2,0.7422,0.6139,0.3348,0.6309,2.388
+Ecuador,Gonzalo Valle,GK,30,LDU Quito,ECU,4,0,0.7196,0.6627,0.4367,0.4587,2.374
+Ecuador,Enner Valencia,FWD,36,CF Pachuca,MEX,105,49,0.6478,0.5148,0.5625,0.9006,2.121
+Ecuador,Hernan Galindez,GK,39,CA Huracán,ARG,35,0,0.4711,0.5938,0.6722,0.8226,1.851
+Egypt,Omar Marmoush,FWD,27,Manchester City FC,ENG,50,11,0.6876,0.5209,0.9329,0.844,11.983
+Egypt,Mohamed Abdelmoneim,DEF,27,OGC Nice,FRA,36,3,0.633,0.5416,0.6856,0.749,10.913
+Egypt,Emam Ashour,MID,28,Al Ahly FC,EGY,29,0,0.633,0.5856,0.5488,0.744,10.844
+Egypt,Marawan Attia,MID,27,Al Ahly FC,EGY,35,1,0.6311,0.5804,0.5602,0.7328,10.618
+Egypt,Mohamed Salah,FWD,33,Liverpool FC,ENG,116,67,0.6236,0.613,0.9657,0.9082,7.682
+Egypt,Hamdy Fathy,MID,31,Al Wakrah SC,QAT,64,4,0.6193,0.556,0.6251,0.9205,7.445
+Egypt,Ibrahim Adel,FWD,25,FC Nordsjælland,DEN,24,3,0.6153,0.5836,0.6214,0.703,7.093
+Egypt,Ahmed Zizo,FWD,30,Al Ahly FC,EGY,64,5,0.611,0.6071,0.5971,0.8415,4.563
+Egypt,Mahmoud Trezeguet,FWD,31,Al Ahly FC,EGY,96,23,0.6099,0.5675,0.6222,0.941,4.335
+Egypt,Mahmoud Saber,MID,24,ZED FC,EGY,15,1,0.6058,0.5045,0.5094,0.7829,3.533
+Egypt,Mostafa Zico,MID,29,Pyramids FC,EGY,2,2,0.6057,0.5744,0.4047,0.5663,3.183
+Egypt,Mostafa Shoubir,GK,26,Al Ahly FC,EGY,10,0,0.6008,0.571,0.486,0.5658,3.154
+Egypt,Ahmed Fatouh,DEF,28,Zamalek SC,EGY,39,1,0.5969,0.6065,0.5668,0.7409,2.911
+Egypt,Tarek Alaa,DEF,24,ZED FC,EGY,3,0,0.5904,0.5906,0.4227,0.4625,2.602
+Egypt,Nabil Donga,MID,30,Al Najmah SC,KSA,12,0,0.5857,0.5219,0.5945,0.6368,2.337
+Egypt,Mohanad Lashin,MID,30,Pyramids FC,EGY,23,0,0.5846,0.5197,0.5348,0.7207,2.308
+Egypt,Mohamed Alaa,GK,27,El Gouna FC,EGY,0,0,0.584,0.6484,0.336,0.462,1.807
+Egypt,Karim Hafez,DEF,30,Pyramids FC,EGY,9,0,0.5838,0.6461,0.48,0.5948,1.773
+Egypt,Hossam Abdelmaguid,DEF,25,Zamalek SC,EGY,13,0,0.58,0.4881,0.5011,0.6244,1.74
+Egypt,Mohamed Hany,DEF,30,Al Ahly FC,EGY,43,0,0.5657,0.6599,0.5727,0.7618,1.646
+Egypt,Hamza Abdelkarim,FWD,18,FC Barcelona,ESP,2,0,0.5606,0.5145,0.7504,0.5557,1.59
+Egypt,Ramy Rabia,DEF,33,Al Ain FC,UAE,47,6,0.5585,0.5628,0.5922,0.8171,1.104
+Egypt,Yasser Ibrahim,DEF,33,Al Ahly FC,EGY,18,1,0.5538,0.5483,0.5202,0.6896,1.042
+Egypt,Haissem Hassan,FWD,24,Real Oviedo,ESP,4,0,0.5397,0.6828,0.3523,0.5534,0.62
+Egypt,Mohamed Elshenawy,GK,37,Al Ahly FC,EGY,77,0,0.4456,0.6347,0.6085,0.8489,0.611
+Egypt,Mahdy Soliman,GK,39,Zamalek SC,EGY,0,0,0.379,0.6537,0.336,0.4717,0.564
+England,Marcus Rashford,FWD,28,FC Barcelona,ESP,72,18,0.9829,0.5578,0.9501,0.8421,255.411
+England,Declan Rice,MID,27,Arsenal FC,ENG,73,7,0.9823,0.639,0.8735,0.8103,125.241
+England,Eberechi Eze,MID,27,Arsenal FC,ENG,17,3,0.9795,0.6913,0.785,0.7319,110.751
+England,Marc Guehi,DEF,25,Manchester City FC,ENG,29,1,0.9522,0.6507,0.8997,0.7682,110.546
+England,Reece James,DEF,26,Chelsea FC,ENG,24,1,0.9521,0.5018,0.7882,0.7738,106.406
+England,Bukayo Saka,FWD,24,Arsenal FC,ENG,49,14,0.9469,0.5294,0.8489,0.8158,105.22
+England,Harry Kane,FWD,32,FC Bayern München,GER,114,79,0.9397,0.7145,0.9128,0.9322,91.039
+England,Jude Bellingham,MID,22,Real Madrid C. F.,ESP,48,6,0.935,0.6171,0.9382,0.7775,86.574
+England,Noni Madueke,FWD,24,Arsenal FC,ENG,11,1,0.9288,0.7109,0.7597,0.6543,59.822
+England,Djed Spence,DEF,25,Tottenham Hotspur FC,ENG,6,0,0.923,0.5063,0.7434,0.61,43.117
+England,John Stones,DEF,32,Manchester City FC,ENG,89,3,0.9208,0.5795,0.9684,0.9368,42.203
+England,Nico Oreilly,DEF,21,Manchester City FC,ENG,5,0,0.9156,0.6231,0.799,0.4275,39.939
+England,Anthony Gordon,FWD,25,Newcastle United FC,ENG,19,3,0.8999,0.6341,0.6306,0.8102,38.366
+England,Ollie Watkins,FWD,30,Aston Villa FC,ENG,22,7,0.8979,0.5344,0.5313,0.7442,37.882
+England,Tino Livramento,DEF,23,Newcastle United FC,ENG,6,0,0.8939,0.6027,0.5649,0.5756,37.818
+England,Ivan Toney,FWD,30,Al Ahli FC,KSA,8,1,0.8907,0.613,0.5714,0.5737,36.934
+England,Ezri Konsa,DEF,28,Aston Villa FC,ENG,20,1,0.8899,0.6735,0.5256,0.7466,28.837
+England,Jarell Quansah,DEF,23,Bayer 04 Leverkusen,GER,3,0,0.8821,0.537,0.7027,0.4868,28.691
+England,James Trafford,GK,23,Manchester City FC,ENG,2,0,0.8815,0.5963,0.7557,0.4609,23.646
+England,Morgan Rogers,MID,23,Aston Villa FC,ENG,15,1,0.8776,0.6145,0.5086,0.7332,23.285
+England,Dean Henderson,GK,29,Crystal Palace FC,ENG,4,0,0.8765,0.6144,0.5891,0.4807,16.989
+England,Elliot Anderson,MID,23,Nottingham Forest FC,ENG,9,0,0.8675,0.6671,0.3243,0.6636,14.835
+England,Jordan Pickford,GK,32,Everton FC,ENG,84,0,0.8643,0.7327,0.7037,0.9361,13.558
+England,Kobbie Mainoo,MID,21,Manchester United FC,ENG,14,0,0.8609,0.606,0.7484,0.5986,8.678
+England,Dan Burn,DEF,34,Newcastle United FC,ENG,8,0,0.8133,0.4474,0.5806,0.5611,7.595
+England,Jordan Henderson,MID,35,Brentford FC,ENG,91,3,0.7934,0.6813,0.5937,0.9125,6.616
+France,Kylian Mbappe,FWD,27,Real Madrid C. F.,ESP,98,56,0.99,0.688,0.9822,0.957,185.544
+France,Ibrahima Konate,DEF,27,Liverpool FC,ENG,28,0,0.99,0.6959,0.8784,0.7535,182.024
+France,Jules Kounde,DEF,27,FC Barcelona,ESP,48,0,0.9852,0.686,0.9252,0.9584,132.862
+France,Marcus Thuram,FWD,28,FC Internazionale Milano,ITA,34,3,0.9837,0.6757,0.8075,0.7321,132.543
+France,Aurelien Tchouameni,MID,26,Real Madrid C. F.,ESP,46,3,0.9784,0.5093,0.9356,0.9196,94.178
+France,Ousmane Dembele,FWD,29,Paris Saint-Germain,FRA,59,7,0.9704,0.6252,0.9056,0.8316,84.26
+France,Dayot Upamecano,DEF,27,FC Bayern München,GER,38,2,0.9624,0.6475,0.8452,0.7711,65.075
+France,Lucas Hernandez,DEF,30,Paris Saint-Germain,FRA,42,0,0.9595,0.5909,0.8848,0.7329,64.187
+France,Michael Olise,FWD,24,FC Bayern München,GER,17,7,0.9548,0.6154,0.7968,0.7039,44.223
+France,Theo Hernandez,DEF,28,Al Hilal SC,KSA,44,2,0.9545,0.7075,0.6721,0.9199,38.123
+France,Jean-Philippe Mateta,FWD,28,Crystal Palace FC,ENG,4,2,0.9452,0.6119,0.5891,0.5108,37.858
+France,William Saliba,DEF,25,Arsenal FC,ENG,32,0,0.9369,0.5277,0.823,0.7443,36.272
+France,Manu Kone,MID,25,AS Roma,ITA,14,0,0.9367,0.6994,0.7762,0.6708,34.329
+France,Rayan Cherki,MID,22,Manchester City FC,ENG,7,2,0.9363,0.5621,0.817,0.6377,33.442
+France,Bradley Barcola,FWD,23,Paris Saint-Germain,FRA,20,3,0.9267,0.5902,0.84,0.6723,32.25
+France,Maxence Lacroix,DEF,26,Crystal Palace FC,ENG,4,0,0.9251,0.6055,0.5891,0.554,29.661
+France,Mike Maignan,GK,30,AC Milan,ITA,40,0,0.9153,0.4614,0.7617,0.7823,21.271
+France,Maghnes Akliouche,MID,24,AS Monaco,FRA,9,1,0.9026,0.7349,0.6673,0.6074,20.393
+France,Malo Gusto,DEF,23,Chelsea FC,ENG,11,0,0.9015,0.614,0.7423,0.6113,19.166
+France,Adrien Rabiot,MID,31,AC Milan,ITA,59,7,0.9003,0.7218,0.7855,0.9016,18.902
+France,Desire Doue,FWD,21,Paris Saint-Germain,FRA,7,2,0.8852,0.6309,0.7796,0.4642,18.351
+France,Brice Samba,GK,32,Stade Rennais FC,FRA,4,0,0.8826,0.6128,0.6957,0.5492,16.246
+France,Lucas Digne,DEF,32,Aston Villa FC,ENG,58,0,0.8821,0.5486,0.5903,0.8907,13.992
+France,Warren Zaire-Emery,MID,20,Paris Saint-Germain,FRA,11,1,0.8583,0.6345,0.8049,0.5623,10.245
+France,Robin Risser,GK,21,RC Lens,FRA,0,0,0.8252,0.6274,0.2368,0.5135,8.709
+France,Ngolo Kante,MID,35,Fenerbahçe SK,TUR,69,2,0.8109,0.5504,0.7908,0.98,5.892
+Germany,Kai Havertz,FWD,27,Arsenal FC,ENG,58,22,0.9001,0.6196,0.8593,0.8305,185.368
+Germany,Deniz Undav,FWD,29,VfB Stuttgart,GER,9,6,0.8869,0.5148,0.6568,0.5747,121.246
+Germany,Nico Schlotterbeck,DEF,26,Borussia Dortmund,GER,27,0,0.8754,0.6035,0.7909,0.7465,90.303
+Germany,Joshua Kimmich,DEF,31,FC Bayern München,GER,110,10,0.8717,0.5897,0.9106,0.8989,75.907
+Germany,Leon Goretzka,MID,31,FC Bayern München,GER,70,15,0.8709,0.6223,0.8827,0.9362,55.303
+Germany,David Raum,DEF,28,RB Leipzig,GER,37,1,0.86,0.6882,0.7595,0.7441,48.582
+Germany,Leroy Sane,MID,30,Galatasaray SK,TUR,76,17,0.8542,0.6835,0.7845,0.8985,20.861
+Germany,Jamal Musiala,MID,23,FC Bayern München,GER,42,9,0.8514,0.621,0.8513,0.8411,20.377
+Germany,Felix Nmecha,MID,25,Borussia Dortmund,GER,8,1,0.8498,0.5154,0.7199,0.5664,19.289
+Germany,Florian Wirtz,MID,23,Liverpool FC,ENG,41,11,0.8478,0.5377,0.9016,0.8029,19.199
+Germany,Waldemar Anton,DEF,29,Borussia Dortmund,GER,13,0,0.8472,0.5421,0.7475,0.7547,19.144
+Germany,Jonathan Tah,DEF,30,FC Bayern München,GER,47,1,0.8462,0.5685,0.8582,0.8556,13.085
+Germany,Maximilian Beier,FWD,23,Borussia Dortmund,GER,9,0,0.8372,0.6143,0.7265,0.6266,12.877
+Germany,Jamie Leweling,MID,25,VfB Stuttgart,GER,5,1,0.8301,0.5006,0.6249,0.5663,10.934
+Germany,Angelo Stiller,MID,25,VfB Stuttgart,GER,8,0,0.823,0.6248,0.6503,0.5532,10.327
+Germany,Alexander Nuebel,GK,29,VfB Stuttgart,GER,3,0,0.82,0.622,0.5995,0.5083,9.533
+Germany,Aleksandar Pavlovic,MID,22,FC Bayern München,GER,11,1,0.8169,0.5278,0.7714,0.6767,8.153
+Germany,Nick Woltemade,FWD,24,Newcastle United FC,ENG,11,4,0.8161,0.6866,0.5986,0.6063,5.343
+Germany,Assan Ouedraogo,MID,20,RB Leipzig,GER,1,1,0.8124,0.5328,0.5753,0.4794,5.212
+Germany,Malick Thiaw,DEF,24,Newcastle United FC,ENG,5,0,0.8105,0.5553,0.5552,0.5089,4.739
+Germany,Antonio Ruediger,DEF,33,Real Madrid C. F.,ESP,82,3,0.8065,0.5815,0.9712,0.7988,4.281
+Germany,Nathaniel Brown,DEF,22,Eintracht Frankfurt,GER,5,0,0.7931,0.6506,0.6266,0.5092,3.76
+Germany,Nadiem Amiri,MID,29,1. FSV Mainz 05,GER,11,1,0.786,0.4195,0.6151,0.6196,3.053
+Germany,Pascal Gross,MID,34,Brighton & Hove Albion FC,ENG,18,1,0.7768,0.5861,0.8492,0.7899,2.86
+Germany,Oliver Baumann,GK,36,TSG Hoffenheim,GER,13,0,0.6751,0.5122,0.731,0.6482,2.323
+Germany,Manuel Neuer,GK,40,FC Bayern München,GER,124,0,0.4907,0.6299,0.916,0.9632,1.439
+Ghana,Brandon Thomas-Asante,FWD,27,Coventry City FC,ENG,8,1,0.6672,0.5537,0.8024,0.5343,44.662
+Ghana,Antoine Semenyo,MID,26,Manchester City FC,ENG,34,3,0.6502,0.5602,0.9093,0.8085,23.935
+Ghana,Alidu Seidu,DEF,26,Stade Rennais FC,FRA,24,1,0.6281,0.4471,0.7964,0.7336,13.931
+Ghana,Kamaldeen Sulemana,FWD,24,Atalanta Bergamo,ITA,28,1,0.6182,0.4305,0.7835,0.8408,13.782
+Ghana,Inaki Williams,FWD,31,Athletic Club,ESP,26,2,0.6137,0.5195,0.7129,0.7778,10.953
+Ghana,Gideon Mensah,DEF,27,AJ Auxerre,FRA,40,0,0.6084,0.5864,0.4064,0.9268,9.775
+Ghana,Baba Rahman,DEF,31,PAOK Saloniki,GRE,53,1,0.606,0.5535,0.6555,0.9188,9.619
+Ghana,Jerome Opoku,DEF,27,Başakşehir FK,TUR,11,1,0.6053,0.5135,0.6073,0.6761,9.505
+Ghana,Abdul Fatawu,FWD,22,Leicester City FC,ENG,28,3,0.6004,0.4857,0.6738,0.8409,8.904
+Ghana,Augustine Boakye,MID,25,AS Saint-Etienne,FRA,0,0,0.592,0.5273,0.595,0.4493,6.19
+Ghana,Thomas Partey,MID,32,Villarreal CF,ESP,59,16,0.591,0.497,0.7898,0.9528,5.699
+Ghana,Elisha Owusu,MID,28,AJ Auxerre,FRA,20,0,0.5895,0.509,0.3646,0.7314,5.367
+Ghana,Caleb Yirenkyi,MID,20,FC Nordsjælland,DEN,11,1,0.5854,0.5954,0.5754,0.7089,5.31
+Ghana,Derrick Luckassen,DEF,30,Pafos FC,CYP,1,0,0.5842,0.5538,0.3374,0.5061,4.665
+Ghana,Ernest Nuamah,FWD,22,Olympique Lyonnais,FRA,19,4,0.5798,0.5695,0.7585,0.7661,3.507
+Ghana,Jordan Ayew,FWD,34,Leicester City FC,ENG,120,34,0.5779,0.4731,0.7632,0.9558,3.457
+Ghana,Abdul Mumin,DEF,28,Rayo Vallecano,ESP,5,0,0.5738,0.5998,0.436,0.5145,3.316
+Ghana,Kwasi Sibo,MID,27,Real Oviedo,ESP,8,0,0.5697,0.5236,0.3891,0.6625,3.127
+Ghana,Joseph Anang,GK,26,St Patrick's Athletic FC,IRL,1,0,0.5691,0.4906,0.3374,0.5003,3.116
+Ghana,Christopher Baah,FWD,21,Al Qadsiah FC,KSA,9,0,0.5681,0.5535,0.578,0.6871,2.428
+Ghana,Lawrence Zigi,GK,29,FC St. Gallen,SUI,30,0,0.5659,0.4838,0.4116,0.8658,1.825
+Ghana,Prince Adu,FWD,22,FC Viktoria Plzeň,CZE,5,0,0.5582,0.6233,0.5361,0.5888,1.486
+Ghana,Jonas Adjetey,DEF,22,VfL Wolfsburg,GER,10,0,0.5526,0.528,0.5653,0.6606,1.469
+Ghana,Marvin Senaya,DEF,25,AJ Auxerre,FRA,2,0,0.5386,0.6276,0.2429,0.4957,1.438
+Ghana,Kojo Oppong,DEF,22,OGC Nice,FRA,4,0,0.5328,0.523,0.5604,0.5619,0.919
+Ghana,Benjamin Asare,GK,33,Hearts Of Oak SC,GHA,13,0,0.5252,0.6309,0.3114,0.7402,0.894
+Haiti,Frantzdy Pierrot,FWD,31,Çaykur Rizespor,TUR,53,34,0.5393,0.4837,0.7115,0.8919,6.545
+Haiti,Ruben Providence,FWD,24,Almere City FC,NED,15,3,0.5179,0.4082,0.6914,0.7075,1.041
+Haiti,Duckens Nazon,FWD,32,Esteghlal Tehran FC,IRN,83,44,0.5118,0.5629,0.5712,0.9188,0.954
+Haiti,Louicius Deedson,FWD,25,FC Dallas,USA,32,10,0.4964,0.4652,0.405,0.7992,0.761
+Haiti,Danley Jean Jacques,MID,26,Philadelphia Union,USA,31,6,0.4959,0.4937,0.404,0.8022,0.665
+Haiti,Lenny Joseph,FWD,25,Ferencvárosi TC,HUN,2,1,0.4948,0.4404,0.3627,0.5649,0.571
+Haiti,Yassin Fortune,FWD,27,FC Vizela,POR,4,0,0.4911,0.4527,0.6187,0.5533,0.5
+Haiti,Carlens Arcus,DEF,29,Angers SCO,FRA,56,1,0.4874,0.3983,0.6543,0.8435,0.48
+Haiti,Jean-Ricner Bellegarde,MID,27,Wolverhampton Wanderers FC,ENG,10,0,0.4858,0.5085,0.5,0.6348,0.473
+Haiti,Derrick Etienne,FWD,29,Toronto FC,CAN,50,8,0.4841,0.4604,0.4923,0.8347,0.47
+Haiti,Wilson Isidor,FWD,25,Sunderland AFC,ENG,4,2,0.4775,0.5703,0.2661,0.4979,0.4
+Haiti,Wilguens Paugain,DEF,24,SV Zulte Waregem,BEL,8,0,0.4756,0.551,0.4248,0.7197,0.261
+Haiti,Alexandre Pierre,GK,25,FC Sochaux-Montbéliard,FRA,17,0,0.4743,0.4312,0.3262,0.7096,0.258
+Haiti,Markhus Lacroix,DEF,32,Colorado Springs Switchbacks FC,USA,16,3,0.474,0.3344,0.6042,0.6721,0.229
+Haiti,Garven Metusala,DEF,26,Colorado Springs Switchbacks FC,USA,15,0,0.472,0.5215,0.6004,0.7068,0.206
+Haiti,Hannes Delcroix,DEF,27,FC Lugano,SUI,7,0,0.4684,0.5704,0.3504,0.5417,0.177
+Haiti,Martin Experience,DEF,27,AS Nancy,FRA,21,0,0.4657,0.4166,0.3379,0.7674,0.17
+Haiti,Josue Casimir,FWD,24,AJ Auxerre,FRA,7,0,0.4644,0.4585,0.3042,0.6168,0.139
+Haiti,Jean-Kevin Duverne,DEF,28,KAA Gent,BEL,17,1,0.462,0.465,0.6568,0.7384,0.125
+Haiti,Keeto Thermoncy,DEF,20,BSC Young Boys,SUI,1,0,0.4565,0.4842,0.5031,0.4659,0.118
+Haiti,Josue Duverger,GK,26,FC Cosmos Koblenz,GER,7,0,0.45,0.5181,0.3669,0.5711,0.103
+Haiti,Dominique Simon,MID,25,FC Tatran Prešov,SVK,2,0,0.4448,0.4007,0.3627,0.5292,0.09
+Haiti,Carl Sainte,MID,23,El Paso Locomotive FC,USA,26,0,0.4431,0.4466,0.6332,0.8475,0.083
+Haiti,Woodensky Pierre,MID,21,Violette AC,HAI,1,0,0.4401,0.4458,0.3374,0.4948,0.078
+Haiti,Ricardo Ade,DEF,36,LDU Quito,ECU,61,2,0.4036,0.5155,0.5942,0.9303,0.06
+Haiti,Johny Placide,GK,38,SC Bastia,FRA,83,0,0.3724,0.5747,0.8722,0.98,0.043
+Iran,Mohammad Mohebbi,MID,27,FC Rostov,RUS,37,13,0.6731,0.5258,0.6054,0.6926,5.979
+Iran,Saeid Ezatolahi,MID,29,Shabab Al Ahli Club,UAE,84,2,0.656,0.573,0.6279,0.8549,2.466
+Iran,Amirhossein Hosseinzadeh,FWD,25,Tractor Sazi Tabriz FC,IRN,18,5,0.6446,0.4486,0.623,0.5774,2.037
+Iran,Alireza Jahanbakhsh,MID,32,FCV Dender EH,BEL,99,17,0.6425,0.5166,0.7641,0.8654,1.642
+Iran,Mehdi Ghayedi,FWD,27,Al Nasr SC,UAE,30,10,0.6331,0.5136,0.5648,0.6486,1.544
+Iran,Saleh Hardani,DEF,27,Esteghlal Tehran FC,IRN,18,1,0.6188,0.4626,0.4782,0.6913,1.216
+Iran,Ali Alipour,FWD,30,Persepolis FC,IRN,14,1,0.6187,0.5174,0.4634,0.5541,1.003
+Iran,Mehdi Torabi,MID,31,Tractor Sazi Tabriz FC,IRN,52,7,0.6125,0.5407,0.6872,0.773,0.92
+Iran,Saman Ghoddos,MID,32,Al Ittihad Kalba SCC,UAE,68,3,0.6083,0.614,0.6149,0.7615,0.708
+Iran,Arya Yousefi,DEF,24,Sepahan SC,IRN,14,1,0.6042,0.6176,0.4634,0.5909,0.677
+Iran,Mehdi Taremi,FWD,33,Olympiacos FC,GRE,106,59,0.6028,0.593,0.7215,0.9014,0.653
+Iran,Shahriyar Moghanloo,FWD,31,Al Ittihad Kalba SCC,UAE,21,2,0.5996,0.4873,0.5434,0.6238,0.651
+Iran,Dennis Dargahi,FWD,29,Standard Liège,BEL,0,0,0.5962,0.4889,0.476,0.384,0.556
+Iran,Alireza Beiranvand,GK,33,Tractor Sazi Tabriz FC,IRN,87,0,0.5944,0.469,0.7189,0.843,0.477
+Iran,Ali Nemati,DEF,30,Foolad Khuzestan FC,IRN,18,0,0.593,0.5782,0.4782,0.604,0.424
+Iran,Payam Niazmand,GK,31,Persepolis FC,IRN,15,0,0.5835,0.5584,0.4674,0.6032,0.399
+Iran,Milad Mohammadi,DEF,32,Persepolis FC,IRN,77,1,0.5818,0.6919,0.5665,0.8345,0.35
+Iran,Mohammad Ghorbani,MID,24,Al Wahda SC,UAE,16,0,0.5794,0.5374,0.5272,0.568,0.344
+Iran,Roozbeh Cheshmi,MID,32,Esteghlal Tehran FC,IRN,41,3,0.5774,0.6309,0.5278,0.6702,0.236
+Iran,Hossein Hosseini,GK,33,Sepahan SC,IRN,14,0,0.5662,0.4912,0.4634,0.6001,0.176
+Iran,Hossein Kanani,DEF,32,Persepolis FC,IRN,65,6,0.558,0.538,0.5561,0.8088,0.132
+Iran,Amirmohammad Razaghinia,MID,20,Esteghlal Tehran FC,IRN,4,0,0.5492,0.4832,0.3947,0.519,0.125
+Iran,Danial Iri,DEF,22,Malavan Anzali FC,IRN,0,0,0.5413,0.6703,0.2386,0.4549,0.116
+Iran,Ramin Rezaeian,DEF,36,Foolad Khuzestan FC,IRN,74,8,0.4875,0.604,0.5641,0.8972,0.097
+Iran,Ehsan Hajisafi,DEF,36,Sepahan SC,IRN,146,7,0.484,0.5448,0.594,0.9282,0.078
+Iran,Shoja Khalilzadeh,DEF,37,Tractor Sazi Tabriz FC,IRN,58,2,0.4549,0.5876,0.6939,0.869,0.073
+Iraq,Ibrahim Bayesh,MID,26,Al Dhafra SCC,UAE,76,8,0.5549,0.5724,0.6217,0.9311,7.322
+Iraq,Ali Alhamadi,FWD,24,Luton Town FC,ENG,20,5,0.5532,0.5972,0.8554,0.7248,2.052
+Iraq,Ali Jasim,FWD,22,Al Najmah SC,KSA,36,2,0.5455,0.5115,0.6599,0.8449,1.798
+Iraq,Aymen Hussein,FWD,30,Al Karma SC,IRQ,95,33,0.5453,0.4923,0.5795,0.8949,1.165
+Iraq,Merchas Doski,DEF,26,FC Viktoria Plzeň,CZE,31,1,0.5382,0.5689,0.6408,0.7818,0.856
+Iraq,Mohanad Ali,FWD,25,Dibba FC,UAE,72,26,0.5336,0.4652,0.6184,0.8601,0.844
+Iraq,Akam Hashim,DEF,27,Al Zawra'a SC,IRQ,14,1,0.5311,0.5218,0.4634,0.5814,0.826
+Iraq,Amir Alammari,MID,28,KS Cracovia,POL,51,3,0.521,0.4853,0.5412,0.8786,0.567
+Iraq,Ali Yousif,FWD,30,Al Talaba SC,IRQ,7,1,0.5168,0.5686,0.4241,0.5129,0.456
+Iraq,Zidane Iqbal,MID,23,FC Utrecht,NED,25,2,0.5112,0.5708,0.4894,0.6869,0.449
+Iraq,Kevin Yakob,MID,25,Aarhus GF,DEN,9,0,0.5102,0.3921,0.564,0.4705,0.355
+Iraq,Ahmed Basil,GK,29,Al Shorta SC,IRQ,16,0,0.5095,0.5922,0.4712,0.6019,0.302
+Iraq,Fahad Talib,GK,31,Al Talaba SC,IRQ,21,0,0.5076,0.4741,0.4874,0.7036,0.295
+Iraq,Ahmed Maknazi,DEF,24,Al Karma SC,IRQ,7,0,0.5064,0.4022,0.4241,0.5064,0.256
+Iraq,Rebin Sulaka,DEF,34,Port FC,THA,56,1,0.5032,0.5372,0.8336,0.9055,0.236
+Iraq,Zaid Tahseen,DEF,25,Pakhtakor Tashkent FK,UZB,28,1,0.4991,0.4892,0.5046,0.8074,0.216
+Iraq,Mustafa Saadoon,DEF,25,Al Shorta SC,IRQ,17,0,0.4967,0.5075,0.4748,0.6145,0.172
+Iraq,Hussein Ali,DEF,24,Pogoń Szczecin,POL,27,1,0.4943,0.5185,0.5024,0.779,0.172
+Iraq,Frans Putros,DEF,32,Persib Bandung,IDN,28,0,0.494,0.5123,0.5046,0.7793,0.146
+Iraq,Aimar Sher,MID,23,Sarpsborg 08 FF,NOR,7,0,0.4931,0.4923,0.3791,0.5088,0.144
+Iraq,Ahmed Qasem,FWD,22,Nashville SC,USA,3,0,0.4926,0.3503,0.5137,0.4766,0.131
+Iraq,Munaf Younus,DEF,29,Al Shorta SC,IRQ,34,1,0.4908,0.4077,0.5164,0.8304,0.111
+Iraq,Youssef Amyn,MID,22,AEK Larnaca FC,CYP,27,2,0.4879,0.496,0.4061,0.6263,0.088
+Iraq,Zaid Ismael,MID,24,Al Talaba SC,IRQ,6,0,0.4666,0.4322,0.4157,0.5105,0.085
+Iraq,Jalal Hassan,GK,35,Al Zawra'a SC,IRQ,104,0,0.4622,0.4381,0.5851,0.9396,0.075
+Iraq,Marko Farji,FWD,22,Venezia FC,ITA,12,0,0.4564,0.5471,0.3955,0.5607,0.061
+Japan,Koki Ogawa,FWD,28,NEC Nijmegen,NED,15,11,0.829,0.5892,0.6914,0.6954,41.083
+Japan,Ritsu Doan,MID,27,Eintracht Frankfurt,GER,66,11,0.8223,0.5889,0.7776,0.9186,27.435
+Japan,Ayase Ueda,FWD,27,Feyenoord Rotterdam,NED,40,16,0.8177,0.7599,0.6824,0.8257,23.632
+Japan,Takehiro Tomiyasu,DEF,27,AFC Ajax,NED,43,1,0.8109,0.5803,0.7321,0.8728,23.326
+Japan,Takefusa Kubo,MID,25,Real Sociedad,ESP,49,7,0.8083,0.5648,0.8141,0.8235,22.017
+Japan,Daichi Kamada,MID,29,Crystal Palace FC,ENG,49,12,0.7989,0.5659,0.7331,0.9114,15.301
+Japan,Hiroki Ito,DEF,27,FC Bayern München,GER,25,1,0.7978,0.6481,0.8198,0.6772,14.983
+Japan,Shuto Machino,FWD,26,Borussia Mönchengladbach,GER,14,5,0.7947,0.6403,0.6752,0.6558,14.026
+Japan,Keito Nakamura,MID,25,Stade Reims,FRA,26,11,0.7866,0.6223,0.6276,0.7357,13.009
+Japan,Keisuke Osako,GK,26,Sanfrecce Hiroshima,JPN,11,0,0.7849,0.6258,0.5404,0.5734,11.829
+Japan,Yukinari Sugawara,DEF,25,SV Werder Bremen,GER,22,2,0.7794,0.6062,0.7063,0.6673,7.715
+Japan,Kou Itakura,DEF,29,AFC Ajax,NED,41,3,0.7793,0.6901,0.7292,0.8892,7.531
+Japan,Ao Tanaka,MID,27,Leeds United FC,ENG,38,8,0.7753,0.6385,0.4129,0.7745,6.691
+Japan,Daizen Maeda,MID,28,Celtic FC,SCO,28,5,0.7677,0.5976,0.5833,0.792,5.036
+Japan,Junya Ito,MID,33,KRC Genk,BEL,69,15,0.766,0.5507,0.7418,0.98,4.587
+Japan,Tomoki Hayakawa,GK,27,Kashima Antlers,JPN,4,0,0.766,0.6776,0.4857,0.3968,4.249
+Japan,Kaishu Sano,MID,25,1. FSV Mainz 05,GER,14,0,0.764,0.691,0.6291,0.6345,3.975
+Japan,Ayumu Seko,DEF,26,Le Havre AC,FRA,14,0,0.7568,0.6116,0.4698,0.6108,3.902
+Japan,Tsuyoshi Watanabe,DEF,29,Feyenoord Rotterdam,NED,12,0,0.7522,0.4752,0.6106,0.5665,3.224
+Japan,Yuito Suzuki,MID,24,SC Freiburg,GER,6,0,0.752,0.6148,0.5431,0.535,2.503
+Japan,Zion Suzuki,GK,23,Parma,ITA,25,0,0.7274,0.6989,0.5199,0.6913,1.686
+Japan,Junnosuke Suzuki,DEF,22,FC København,DEN,6,0,0.7173,0.5945,0.5417,0.5757,1.632
+Japan,Kento Shiogai,FWD,21,VfL Wolfsburg,GER,2,0,0.7138,0.6394,0.484,0.4536,1.45
+Japan,Shogo Taniguchi,DEF,34,Sint-Truiden VV,BEL,39,1,0.7085,0.639,0.7068,0.7801,1.259
+Japan,Keisuke Goto,FWD,21,Sint-Truiden VV,BEL,4,0,0.703,0.6384,0.5767,0.5659,1.195
+Japan,Yuto Nagatomo,DEF,39,FC Tokyo,JPN,145,4,0.4552,0.663,0.685,0.9436,0.924
+Jordan,Mousa Altamari,FWD,29,Stade Rennais FC,FRA,92,24,0.5995,0.5293,0.8785,0.98,1.62
+Jordan,Ibrahim Sadeh,MID,26,Al Karma SC,IRQ,57,3,0.5989,0.5475,0.548,0.7782,1.313
+Jordan,Ali Olwan,FWD,26,Al Sailiya SC,QAT,66,29,0.5921,0.6052,0.627,0.8475,1.223
+Jordan,Abdallah Alfakhori,GK,26,Al Wahdat SC,JOR,16,0,0.5679,0.5129,0.4712,0.6199,1.193
+Jordan,Mohammad Abuzraiq,FWD,28,Raja Casablanca,MAR,40,5,0.5637,0.5278,0.5683,0.7096,1.082
+Jordan,Husam Abudahab,DEF,26,Al Faisaly SC,JOR,17,0,0.5578,0.5515,0.4748,0.5487,0.996
+Jordan,Mahmoud Almardi,FWD,32,Al Hussein SC,JOR,87,8,0.5558,0.4344,0.5741,0.98,0.928
+Jordan,Noor Alrawabdeh,MID,29,Selangor FC,MAS,68,3,0.5555,0.4707,0.5589,0.7417,0.897
+Jordan,Mohammad Abualnadi,DEF,25,Selangor FC,MAS,18,0,0.5536,0.5062,0.4782,0.692,0.763
+Jordan,Yazan Alarab,DEF,30,FC Seoul,KOR,80,3,0.5507,0.4796,0.6529,0.9004,0.756
+Jordan,Yazeed Abulaila,GK,33,Al Hussein SC,JOR,76,0,0.5458,0.5355,0.5657,0.8709,0.753
+Jordan,Mohammad Abuhasheesh,DEF,31,Al Karma SC,IRQ,56,1,0.5375,0.5794,0.5469,0.7114,0.571
+Jordan,Ehsan Haddad,DEF,32,Al Hussein SC,JOR,90,2,0.5362,0.539,0.5762,0.9734,0.518
+Jordan,Nizar Alrashdan,MID,27,Qatar SC,QAT,47,4,0.5342,0.5153,0.6062,0.7738,0.472
+Jordan,Abdallah Nasib,DEF,32,Al Zawra'a SC,IRQ,65,2,0.534,0.5661,0.5561,0.8043,0.413
+Jordan,Raja'ei Rajaei Ayed,MID,32,Al Hussein SC,JOR,73,0,0.5288,0.6339,0.5632,0.8565,0.379
+Jordan,Ali Azaizeh,FWD,22,Al Shabab FC,KSA,4,0,0.5277,0.5569,0.5347,0.455,0.342
+Jordan,Anas Badawi,DEF,28,Al Faisaly SC,JOR,1,0,0.5235,0.5719,0.3374,0.4689,0.336
+Jordan,Odeh Fakhoury,FWD,20,Pyramids FC,EGY,10,1,0.5202,0.4876,0.486,0.5273,0.237
+Jordan,Amer Jamous,MID,23,Al Zawra'a SC,IRQ,19,1,0.5172,0.5222,0.4814,0.7015,0.218
+Jordan,Nour Baniateyah,GK,33,Al Faisaly SC,JOR,5,0,0.5156,0.5181,0.4061,0.5209,0.211
+Jordan,Sa'ed Saed Alrosan,DEF,29,Al Hussein SC,JOR,21,2,0.5083,0.5243,0.4874,0.6124,0.206
+Jordan,Saleem Obaid,DEF,34,Al Hussein SC,JOR,12,0,0.497,0.3647,0.4545,0.541,0.142
+Jordan,Mohammad Aldaoud,MID,34,Al Wahdat SC,JOR,13,1,0.49,0.5274,0.4591,0.6638,0.139
+Jordan,Mohannad Abutaha,MID,23,Al-Quwa Al-Jawiya,IRQ,30,1,0.4836,0.5887,0.5088,0.7267,0.137
+Jordan,Mohammad Abughoush,MID,20,Al Hussein SC,JOR,0,0,0.4587,0.573,0.294,0.4817,0.134
+Mexico,Cesar Montes,DEF,29,FC Lokomotiv Moscow,RUS,69,4,0.7767,0.6479,0.7324,0.8385,26.1
+Mexico,Alexis Vega,FWD,28,Deportivo Toluca FC,MEX,53,7,0.743,0.5934,0.5856,0.7905,18.793
+Mexico,Johan Vasquez,DEF,27,Genoa CFC,ITA,47,3,0.7415,0.5383,0.6601,0.7522,6.046
+Mexico,Jorge Sanchez,DEF,28,PAOK Saloniki,GRE,59,3,0.7359,0.6517,0.6621,0.7562,4.558
+Mexico,Orbelin Pineda,MID,30,AEK Athens,GRE,92,12,0.7337,0.6223,0.6509,0.8786,4.456
+Mexico,Israel Reyes,DEF,26,Club América,MEX,35,2,0.7317,0.5527,0.6582,0.7665,3.133
+Mexico,Santiago Gimenez,FWD,25,AC Milan,ITA,47,6,0.7243,0.5997,0.7715,0.7764,1.945
+Mexico,Edson Alvarez,DEF,28,Fenerbahçe SK,TUR,100,7,0.7238,0.5738,0.8137,0.917,1.856
+Mexico,Erik Lira,MID,26,CF Cruz Azul,MEX,26,0,0.7183,0.548,0.5283,0.6687,1.612
+Mexico,Julian Quinones,FWD,29,Al Qadsiah FC,KSA,23,3,0.7133,0.6452,0.6328,0.6467,1.559
+Mexico,Cesar Huerta,FWD,25,RSC Anderlecht,BEL,26,3,0.7111,0.6561,0.6302,0.7213,1.439
+Mexico,Luis Chavez,MID,30,FC Dynamo Moscow,RUS,46,5,0.711,0.5545,0.6608,0.6586,1.379
+Mexico,Alvaro Fidalgo,MID,29,Real Betis,ESP,5,0,0.7057,0.6497,0.6406,0.4605,1.231
+Mexico,Roberto Alvarado,FWD,27,CD Guadalajara,MEX,69,6,0.6943,0.5804,0.493,0.9007,0.846
+Mexico,Obed Vargas,MID,20,Atlético De Madrid,ESP,6,0,0.6942,0.5626,0.7434,0.4444,0.838
+Mexico,Jesus Gallardo,DEF,31,Deportivo Toluca FC,MEX,123,3,0.6928,0.5532,0.6361,0.9438,0.721
+Mexico,Raul Rangel,GK,26,CD Guadalajara,MEX,15,0,0.6915,0.6515,0.4007,0.6059,0.626
+Mexico,Luis Romo,MID,31,CD Guadalajara,MEX,62,4,0.6764,0.6333,0.4864,0.7827,0.514
+Mexico,Carlos Acevedo,GK,30,Club Santos Laguna,MEX,7,0,0.6717,0.5831,0.4661,0.5556,0.384
+Mexico,Guillermo Martinez,FWD,31,Pumas UNAM,MEX,12,3,0.668,0.6588,0.372,0.6252,0.366
+Mexico,Mateo Chavez,DEF,22,AZ Alkmaar,NED,10,0,0.6667,0.5663,0.5888,0.6617,0.306
+Mexico,Brian Gutierrez,MID,22,CD Guadalajara,MEX,8,2,0.6627,0.5961,0.3647,0.5047,0.279
+Mexico,Armando Gonzalez,FWD,23,CD Guadalajara,MEX,8,1,0.6573,0.6122,0.3647,0.5492,0.277
+Mexico,Raul Jimenez,FWD,35,Fulham FC,ENG,127,46,0.6145,0.4881,0.6674,0.9762,0.232
+Mexico,Gilberto Mora,MID,17,Club Tijuana,MEX,9,0,0.6064,0.6233,0.4427,0.5713,0.153
+Mexico,Guillermo Ochoa,GK,40,AEL Limassol,CYP,153,0,0.3945,0.6744,0.594,0.9736,0.149
+Morocco,Brahim Diaz,FWD,26,Real Madrid C. F.,ESP,26,15,0.8495,0.8073,0.9009,0.7045,84.491
+Morocco,Ismael Saibari,MID,25,PSV Eindhoven,NED,30,9,0.8309,0.7107,0.6867,0.7788,60.259
+Morocco,Azzedine Ounahi,MID,26,Girona FC,ESP,49,9,0.8238,0.7499,0.734,0.8908,44.712
+Morocco,Achraf Hakimi,DEF,27,Paris Saint-Germain,FRA,96,11,0.8197,0.5946,0.9357,0.8768,32.153
+Morocco,Noussair Mazraoui,DEF,28,Manchester United FC,ENG,45,2,0.8002,0.6305,0.8185,0.8308,28.932
+Morocco,Youssef Belammari,DEF,27,Al Ahly FC,EGY,18,0,0.7991,0.6598,0.5202,0.7225,20.443
+Morocco,Sofyan Amrabat,MID,29,Real Betis,ESP,75,0,0.7973,0.6513,0.7994,0.8935,20.438
+Morocco,Ayoub El Kaabi,FWD,32,Olympiacos FC,GRE,71,36,0.7884,0.617,0.6968,0.9362,19.647
+Morocco,Neil El Aynaoui,MID,24,AS Roma,ITA,16,2,0.7829,0.6447,0.7841,0.753,18.29
+Morocco,Anass Salah Eddine,DEF,24,PSV Eindhoven,NED,9,0,0.7764,0.7272,0.6159,0.7184,17.379
+Morocco,Sou,FWD,30,Al Ain FC,UAE,37,12,0.7694,0.688,0.5775,0.9245,14.856
+Morocco,Zakaria El Ouahdi,DEF,24,KRC Genk,BEL,3,0,0.7581,0.6658,0.5627,0.5738,13.927
+Morocco,Bilal El Khannouss,MID,22,VfB Stuttgart,GER,37,3,0.7556,0.6218,0.7404,0.8055,12.385
+Morocco,Amine Sbai,FWD,25,Angers SCO,FRA,2,0,0.754,0.6796,0.4701,0.4022,11.223
+Morocco,Ahmed Tagnaouti,GK,30,ASFAR,MAR,3,0,0.7434,0.7109,0.4227,0.5233,9.833
+Morocco,Issa Diop,DEF,29,Fulham FC,ENG,4,0,0.7364,0.5587,0.4681,0.6377,9.124
+Morocco,Ayoube Amaimouni,FWD,21,Eintracht Frankfurt,GER,2,0,0.7191,0.6728,0.5833,0.4561,6.135
+Morocco,Gessime Yassine,MID,20,RC Strasbourg,FRA,4,0,0.7108,0.7279,0.455,0.6113,5.55
+Morocco,Chemsdine Talbi,MID,21,Sunderland AFC,ENG,5,0,0.7039,0.6846,0.2775,0.6135,4.814
+Morocco,Redouane Halhal,DEF,23,KV Mechelen,BEL,3,0,0.7012,0.6028,0.3235,0.541,4.166
+Morocco,Chadi Riad,DEF,22,Crystal Palace FC,ENG,6,1,0.6999,0.7616,0.6102,0.5807,3.496
+Morocco,Samir El Mourabet,MID,20,RC Strasbourg,FRA,4,0,0.6957,0.6792,0.455,0.6576,3.205
+Morocco,Marwane Saadane,DEF,34,Al Fateh SC,KSA,17,1,0.6876,0.6622,0.6148,0.7342,3.126
+Morocco,Ayyoub Bouaddi,MID,18,Lille OSC,FRA,3,0,0.6688,0.5845,0.428,0.6126,2.681
+Morocco,Yassine Bounou,GK,35,Al Hilal SC,KSA,90,0,0.6584,0.7356,0.7162,0.9245,2.573
+Morocco,Munir El Kajoui,GK,37,RS Berkane,MAR,52,0,0.6047,0.6383,0.5844,0.8799,2.163
+Netherlands,Cody Gakpo,FWD,27,Liverpool FC,ENG,50,21,0.9359,0.5192,0.9137,0.8459,163.898
+Netherlands,Donyell Malen,FWD,27,AS Roma,ITA,53,13,0.9148,0.5163,0.8564,0.885,137.584
+Netherlands,Tijjani Reijnders,MID,27,Manchester City FC,ENG,32,7,0.9141,0.6289,0.9057,0.7696,73.036
+Netherlands,Frenkie De Jong,MID,29,FC Barcelona,ESP,66,2,0.8956,0.6761,0.9447,0.8991,37.376
+Netherlands,Jan Van Hecke,DEF,26,Brighton & Hove Albion FC,ENG,12,0,0.8922,0.51,0.8255,0.571,37.118
+Netherlands,Micky Van De Ven,DEF,25,Tottenham Hotspur FC,ENG,21,1,0.8915,0.646,0.815,0.7237,31.568
+Netherlands,Mats Wieffer,DEF,26,Brighton & Hove Albion FC,ENG,15,1,0.8876,0.5533,0.8384,0.6592,30.66
+Netherlands,Justin Kluivert,MID,27,AFC Bournemouth,ENG,12,0,0.884,0.574,0.5627,0.5673,29.427
+Netherlands,Guus Til,MID,28,PSV Eindhoven,NED,7,1,0.8836,0.5142,0.602,0.4461,28.75
+Netherlands,Bart Verbruggen,GK,23,Brighton & Hove Albion FC,ENG,29,0,0.879,0.6036,0.8778,0.8245,26.727
+Netherlands,Denzel Dumfries,DEF,30,FC Internazionale Milano,ITA,72,11,0.8716,0.5802,0.8535,0.911,24.466
+Netherlands,Teun Koopmeiners,MID,28,Juventus FC,ITA,28,3,0.8715,0.6429,0.8506,0.7518,21.533
+Netherlands,Quinten Timber,MID,24,Olympique Marseille,FRA,11,1,0.8675,0.6548,0.7048,0.5622,16.386
+Netherlands,Nathan Ake,DEF,31,Manchester City FC,ENG,59,5,0.8674,0.6046,0.9431,0.8871,15.286
+Netherlands,Ryan Gravenberch,MID,24,Liverpool FC,ENG,27,1,0.8606,0.604,0.8762,0.6988,14.138
+Netherlands,Noa Lang,FWD,26,Galatasaray SK,TUR,15,3,0.8416,0.4623,0.6862,0.6865,12.629
+Netherlands,Mark Flekken,GK,32,Bayer 04 Leverkusen,GER,12,0,0.8402,0.6399,0.7765,0.5829,12.582
+Netherlands,Memphis Depay,FWD,32,SC Corinthians,BRA,109,55,0.836,0.5272,0.658,0.98,9.6
+Netherlands,Wout Weghorst,FWD,33,AFC Ajax,NED,52,14,0.8334,0.6203,0.7438,0.7935,8.659
+Netherlands,Lutsharel Geertruida,DEF,25,Sunderland AFC,ENG,21,0,0.8134,0.6388,0.3588,0.7244,8.352
+Netherlands,Crysencio Summerville,FWD,24,West Ham United FC,ENG,2,0,0.8122,0.5526,0.4692,0.5342,6.239
+Netherlands,Jorrel Hato,DEF,20,Chelsea FC,ENG,8,0,0.8064,0.6253,0.7243,0.5412,6.185
+Netherlands,Brian Brobbey,FWD,24,Sunderland AFC,ENG,12,1,0.788,0.645,0.3259,0.5842,5.116
+Netherlands,Virgil Van Dijk,DEF,34,Liverpool FC,ENG,92,12,0.783,0.5793,0.9513,0.98,3.976
+Netherlands,Robin Roefs,GK,23,Sunderland AFC,ENG,1,0,0.7617,0.6168,0.2088,0.5107,2.416
+Netherlands,Marten De Roon,MID,35,Atalanta Bergamo,ITA,43,1,0.7515,0.5592,0.8096,0.7392,2.292
+New Zealand,Ben Waine,FWD,25,Port Vale FC,ENG,31,9,0.5866,0.4999,0.8818,0.8002,9.258
+New Zealand,Matthew Garbett,MID,24,Peterborough United FC,ENG,39,5,0.5657,0.4972,0.8958,0.7601,1.177
+New Zealand,McCOWATT,MID,27,Silkeborg IF,DEN,33,5,0.5464,0.5467,0.6406,0.779,1.108
+New Zealand,Sarpreet Singh,MID,27,Wellington Phoenix FC,NZL,28,3,0.5413,0.4699,0.5046,0.6833,1.107
+New Zealand,Ben Old,MID,23,AS Saint-Etienne,FRA,24,2,0.5391,0.5313,0.7964,0.5601,0.915
+New Zealand,Liberato Cacace,DEF,25,Wrexham AFC,WAL,37,1,0.532,0.4983,0.5215,0.7745,0.908
+New Zealand,Callan Elliot,DEF,26,Auckland FC,NZL,11,0,0.5251,0.4625,0.4494,0.5316,0.781
+New Zealand,Marko Stamenic,MID,24,Swansea City AFC,WAL,40,3,0.5185,0.4209,0.564,0.8644,0.692
+New Zealand,Nando Pijnaker,DEF,27,Auckland FC,NZL,26,0,0.5171,0.5236,0.5002,0.6973,0.645
+New Zealand,Michael Woud,GK,27,Auckland FC,NZL,7,0,0.51,0.558,0.4241,0.4881,0.603
+New Zealand,Alex Rufer,MID,29,Wellington Phoenix FC,NZL,26,0,0.5085,0.4609,0.5002,0.6834,0.576
+New Zealand,Elijah Just,MID,26,Motherwell FC,SCO,44,9,0.502,0.4855,0.3104,0.8816,0.509
+New Zealand,Tommy Smith,DEF,36,Braintree Town FC,ENG,57,2,0.4989,0.5278,0.919,0.8816,0.483
+New Zealand,Jesse Randall,FWD,23,Auckland FC,NZL,11,2,0.4973,0.515,0.4494,0.4903,0.429
+New Zealand,Joe Bell,MID,27,Viking Stavanger,NOR,32,1,0.4956,0.5402,0.4573,0.735,0.426
+New Zealand,Lachlan Bayliss,MID,23,Newcastle United Jets FC,AUS,4,0,0.4956,0.5685,0.5438,0.4832,0.374
+New Zealand,Chris Wood,FWD,34,Nottingham Forest FC,ENG,90,45,0.4945,0.5306,0.4624,0.9304,0.332
+New Zealand,Tim Payne,DEF,32,Wellington Phoenix FC,NZL,52,3,0.4931,0.5372,0.5424,0.8812,0.316
+New Zealand,Max Crocombe,GK,32,Millwall FC,ENG,24,0,0.4897,0.5012,0.4817,0.71,0.313
+New Zealand,Finn Surman,DEF,22,Portland Timbers,USA,19,2,0.4806,0.4845,0.4146,0.5235,0.31
+New Zealand,Tyler Bindon,DEF,21,She,ENG,25,2,0.4794,0.4594,0.4711,0.6202,0.238
+New Zealand,Ryan Thomas,MID,31,PEC Zwolle,NED,25,3,0.4791,0.6211,0.3301,0.6399,0.223
+New Zealand,Francis De Vries,DEF,31,Auckland FC,NZL,20,1,0.4786,0.4849,0.4844,0.5135,0.173
+New Zealand,Alex Paulsen,GK,23,Lechia Gdańsk,POL,8,0,0.4666,0.5409,0.4314,0.4786,0.111
+New Zealand,Kosta Barbarouses,FWD,36,WS Wanderers FC,AUS,76,10,0.4252,0.6043,0.6217,0.9709,0.098
+New Zealand,Michael Boxall,DEF,37,Minnesota United FC,USA,64,1,0.3567,0.512,0.3491,0.8953,0.095
+Norway,Erling Haaland,FWD,25,Manchester City FC,ENG,50,55,0.8848,0.6103,0.9329,0.864,67.447
+Norway,Martin Odegaard,MID,27,Arsenal FC,ENG,68,5,0.861,0.6009,0.8691,0.9381,56.405
+Norway,Julian Ryerson,FWD,28,Borussia Dortmund,GER,43,1,0.8478,0.663,0.8192,0.8106,52.58
+Norway,Alexander Sorloth,FWD,30,Atlético De Madrid,ESP,72,26,0.8459,0.6545,0.89,0.9319,50.437
+Norway,Jorgen Strand Larsen,FWD,26,Crystal Palace FC,ENG,28,6,0.8315,0.6869,0.6991,0.752,29.969
+Norway,Patrick Berg,MID,28,FK Bodø/Glimt,NOR,43,0,0.817,0.6976,0.6287,0.8467,26.092
+Norway,Leo Ostigard,DEF,26,Genoa CFC,ITA,38,1,0.8098,0.6135,0.6471,0.8258,25.155
+Norway,Kristian Thorstvedt,MID,27,US Sassuolo,ITA,37,4,0.8098,0.6463,0.6341,0.742,23.749
+Norway,Sander Berge,MID,28,Fulham FC,ENG,66,1,0.808,0.6567,0.6304,0.8338,23.431
+Norway,Jens Hauge,MID,26,FK Bodø/Glimt,NOR,15,1,0.7991,0.6324,0.5654,0.5417,23.066
+Norway,Torbjorn Heggem,DEF,27,Bologna FC,ITA,15,0,0.7972,0.5727,0.5417,0.5905,17.163
+Norway,Marcus Holmgren Pedersen,DEF,25,Torino FC,ITA,32,0,0.7949,0.586,0.6924,0.6938,13.497
+Norway,David Moller Wolfe,DEF,24,Wolverhampton Wanderers FC,ENG,22,1,0.7891,0.6769,0.5461,0.7523,12.743
+Norway,Thelo Aasgaard,MID,24,Rangers FC,SCO,8,5,0.7878,0.6755,0.4274,0.4952,11.597
+Norway,Fredrik Aursnes,MID,30,SL Ben,POR,22,1,0.7865,0.6133,0.7141,0.6976,10.29
+Norway,Morten Thorsby,MID,30,US Cremonese,ITA,31,0,0.7792,0.7136,0.3831,0.7812,8.988
+Norway,Andreas Schjelderup,MID,22,SL Ben,POR,12,1,0.7782,0.64,0.6785,0.5585,8.261
+Norway,Antonio Nusa,FWD,21,RB Leipzig,GER,24,8,0.7758,0.5828,0.7333,0.7135,6.412
+Norway,Egil Selvik,GK,28,Watford FC,ENG,7,0,0.7746,0.5937,0.5445,0.6272,6.357
+Norway,Fredrik Bjorkan,DEF,27,FK Bodø/Glimt,NOR,21,1,0.772,0.5818,0.5854,0.637,4.924
+Norway,Kristoffer Ajer,DEF,28,Brentford FC,ENG,52,2,0.7693,0.6677,0.5592,0.8414,4.863
+Norway,Oscar Bobb,MID,22,Fulham FC,ENG,20,2,0.7666,0.6464,0.5579,0.6382,4.596
+Norway,Sander Tangvik,GK,23,Hamburger SV,GER,0,0,0.7546,0.6439,0.616,0.4304,4.54
+Norway,Orjan Nyland,GK,35,Sevilla FC,ESP,71,0,0.7315,0.7226,0.8282,0.9687,4.265
+Norway,Henrik Falchener,DEF,23,Viking Stavanger,NOR,1,0,0.719,0.6759,0.2819,0.5452,3.884
+Norway,Sondre Langas,DEF,25,Derby County FC,ENG,3,0,0.7168,0.618,0.3375,0.4169,3.287
+Panama,Jose Rodriguez,MID,27,FC Juárez,MEX,70,8,0.6539,0.5073,0.7007,0.9065,11.949
+Panama,Amir Murillo,DEF,30,Beşiktaş JK,TUR,93,9,0.6474,0.5635,0.8109,0.8717,3.678
+Panama,Andres Andrade,DEF,27,LASK Linz,AUT,50,1,0.6263,0.5616,0.4941,0.6853,2.957
+Panama,Edgar Barcenas,MID,32,Mazatlán FC,MEX,104,10,0.6207,0.5589,0.7299,0.9185,1.513
+Panama,Ismael Diaz,MID,29,Club León,MEX,56,17,0.6158,0.6543,0.4601,0.7792,1.273
+Panama,Orlando Mosquera,GK,31,Al Fayha FC,KSA,49,0,0.6133,0.6456,0.6787,0.6365,1.177
+Panama,Tomas Rodriguez,FWD,27,Deportivo Saprissa,CRC,13,4,0.6107,0.5265,0.4591,0.5006,1.1
+Panama,Jorge Gutierrez,DEF,27,Deportivo La Guaira,VEN,18,0,0.6057,0.5489,0.4782,0.5202,1.098
+Panama,Azarias Londono,FWD,24,CD Universidad Católica,ECU,12,1,0.6011,0.5542,0.4965,0.5469,0.788
+Panama,Adalberto Carrasquilla,MID,27,Pumas UNAM,MEX,73,3,0.5992,0.5664,0.4808,0.8536,0.784
+Panama,Cesar Blackman,DEF,28,ŠK Slovan Bratislava,SVK,40,3,0.5974,0.5162,0.4709,0.559,0.686
+Panama,Fidel Escobar,DEF,31,Deportivo Saprissa,CRC,99,4,0.597,0.5839,0.5821,0.859,0.678
+Panama,Jiovany Ramos,DEF,29,Puerto Cabello CF,VEN,23,2,0.5964,0.5023,0.4928,0.6214,0.587
+Panama,Cristian Martinez,MID,29,Hapoel Kiryat Shmona FC,ISR,67,2,0.5957,0.4858,0.558,0.6636,0.549
+Panama,Carlos Harvey,DEF,26,Minnesota United FC,USA,28,3,0.5877,0.5387,0.2986,0.6004,0.49
+Panama,Jose Fajardo,FWD,32,CD Universidad Católica,ECU,69,17,0.587,0.443,0.6018,0.723,0.414
+Panama,Jose Cordoba,DEF,25,Norwich City FC,ENG,32,1,0.5857,0.5284,0.4225,0.6399,0.407
+Panama,Cesar Yanis,MID,30,CD Cobresal,CHI,55,5,0.5837,0.6646,0.5738,0.6224,0.356
+Panama,Cesar Samudio,GK,32,CD Marathón,HON,5,0,0.5683,0.6783,0.4061,0.4299,0.354
+Panama,Edgardo Farina,DEF,24,FC Pari Nizhny Novgorod,RUS,18,0,0.5629,0.5121,0.6042,0.5597,0.345
+Panama,Luis Mejia,GK,35,Club Nacional,URU,56,0,0.5621,0.5715,0.6273,0.7315,0.322
+Panama,Roderick Miller,DEF,34,Turan Tovuz,AZE,49,2,0.5373,0.3811,0.5387,0.6752,0.292
+Panama,Eric Davis,DEF,35,CD Plaza Amador,PAN,107,9,0.5303,0.6572,0.7317,0.8764,0.273
+Panama,Cecilio Waterman,FWD,35,CD Universidad De Concepción,CHI,55,15,0.5252,0.48,0.5738,0.7034,0.142
+Panama,Anibal Godoy,MID,36,San Diego FC,USA,159,4,0.4839,0.5482,0.727,0.9414,0.113
+Panama,Alberto Quintero,MID,38,CD Plaza Amador,PAN,141,7,0.4469,0.5596,0.7388,0.9513,0.073
+Paraguay,Gustavo Caballero,MID,24,Portsmouth FC,ENG,2,1,0.7386,0.5453,0.7337,0.5364,36.233
+Paraguay,Isidro Pitta,FWD,26,Red Bull Bragantino,BRA,5,0,0.7365,0.6251,0.5927,0.5282,22.409
+Paraguay,Ramon Sosa,MID,26,SE Palmeiras,BRA,29,1,0.7361,0.5312,0.6115,0.7443,13.093
+Paraguay,Juan Caceres,DEF,26,FC Dynamo Moscow,RUS,17,0,0.733,0.5652,0.6008,0.6973,8.263
+Paraguay,Diego Gomez,MID,23,Brighton & Hove Albion FC,ENG,24,3,0.72,0.5084,0.8664,0.7497,7.543
+Paraguay,Damian Bobadilla,MID,24,São Paulo FC,BRA,19,1,0.704,0.5063,0.6774,0.6811,5.366
+Paraguay,Julio Enciso,FWD,22,RC Strasbourg,FRA,32,4,0.6959,0.54,0.5731,0.7931,4.254
+Paraguay,Omar Alderete,DEF,29,Sunderland AFC,ENG,36,3,0.6926,0.5948,0.3913,0.8155,4.058
+Paraguay,Orlando Gill,GK,26,CA San Lorenzo,ARG,6,0,0.6911,0.4299,0.4447,0.5077,4.001
+Paraguay,Antonio Sanabria,FWD,30,US Cremonese,ITA,48,7,0.6889,0.4911,0.4097,0.9059,3.452
+Paraguay,Alex Arce,FWD,30,CS Independiente Rivadavia,ARG,15,1,0.6817,0.441,0.5226,0.6732,3.091
+Paraguay,Alejandro Romero Gamarra,FWD,31,Al Ain FC,UAE,34,6,0.6811,0.5647,0.5724,0.7828,2.994
+Paraguay,Gustavo Gomez,DEF,33,SE Palmeiras,BRA,89,4,0.6786,0.5486,0.6802,0.9386,2.826
+Paraguay,Matias Galarza,MID,24,Atlanta United FC,USA,15,3,0.6767,0.5577,0.4494,0.6736,2.374
+Paraguay,Mauricio,MID,24,SE Palmeiras,BRA,3,0,0.6725,0.5244,0.4855,0.552,2.12
+Paraguay,Fabian Balbuena,DEF,34,Grêmio FBPA,BRA,47,2,0.6695,0.5495,0.7322,0.8872,2.103
+Paraguay,Andres Cubas,MID,30,Vancouver Whitecaps FC,CAN,33,0,0.6652,0.473,0.3521,0.8102,2.096
+Paraguay,Junior Alonso,DEF,33,Atlético Mineiro,BRA,71,3,0.6591,0.5917,0.648,0.9575,1.682
+Paraguay,Braian Ojeda,MID,25,Orlando City SC,USA,17,0,0.652,0.4601,0.3436,0.6383,1.238
+Paraguay,Alexandro Maidana,DEF,20,CA Talleres,ARG,2,1,0.6504,0.6017,0.4083,0.4619,1.201
+Paraguay,Gabriel Avalos,FWD,34,CA Independiente,ARG,23,2,0.6429,0.5928,0.5479,0.7105,1.108
+Paraguay,Jose Canale,DEF,29,CA Lanús,ARG,2,0,0.6349,0.5921,0.3282,0.5103,0.777
+Paraguay,Gaston Olveira,GK,33,Club Olimpia,PAR,1,0,0.6328,0.5355,0.3654,0.4491,0.759
+Paraguay,Miguel Almiron,MID,32,Atlanta United FC,USA,76,10,0.6292,0.6363,0.5477,0.8577,0.69
+Paraguay,Gustavo Velazquez,DEF,35,Cerro Porteño,PAR,13,1,0.5968,0.5215,0.4871,0.5733,0.55
+Paraguay,Gatito Fernandez,GK,38,Cerro Porteño,PAR,30,0,0.4755,0.5953,0.5368,0.7758,0.416
+Portugal,Rafael Leao,FWD,27,AC Milan,ITA,44,5,0.9247,0.5806,0.7675,0.8043,84.202
+Portugal,Bernardo Silva,MID,31,Manchester City FC,ENG,109,14,0.9241,0.6999,0.981,0.9481,61.952
+Portugal,Matheus Nunes,MID,27,Manchester City FC,ENG,20,2,0.9232,0.6048,0.8774,0.5925,61.561
+Portugal,Vitor Vitinha,MID,26,Paris Saint-Germain,FRA,38,0,0.9178,0.6301,0.8787,0.6883,59.566
+Portugal,Ruben Dias,DEF,29,Manchester City FC,ENG,76,3,0.9132,0.5851,0.9587,0.931,59.237
+Portugal,Goncalo Ramos,FWD,24,Paris Saint-Germain,FRA,25,10,0.9055,0.6263,0.8533,0.7415,57.949
+Portugal,Goncalo Guedes,FWD,29,Real Sociedad,ESP,35,8,0.8973,0.5936,0.7936,0.6604,56.79
+Portugal,Francisco Conceicao,FWD,23,Juventus FC,ITA,17,4,0.8971,0.6399,0.8207,0.5916,46.325
+Portugal,Bruno Fernandes,MID,31,Manchester United FC,ENG,89,29,0.8954,0.5791,0.8605,0.9236,45.152
+Portugal,José Diogo Dalot,DEF,27,Manchester United FC,ENG,35,3,0.893,0.53,0.8031,0.6776,42.486
+Portugal,Pedro Neto,FWD,26,Chelsea FC,ENG,25,3,0.8917,0.6426,0.7906,0.71,40.75
+Portugal,Diogo Costa,GK,26,FC Porto,POR,43,0,0.8865,0.625,0.8174,0.8459,37.585
+Portugal,Joao Felix,FWD,26,Al Nassr FC,KSA,54,12,0.8824,0.5489,0.6847,0.8816,35.911
+Portugal,Samu Costa,DEF,25,RCD Mallorca,ESP,6,0,0.878,0.6201,0.7657,0.5862,34.766
+Portugal,Francisco Trincao,FWD,26,Sporting CP,POR,18,3,0.8765,0.5623,0.6691,0.5539,33.84
+Portugal,Goncalo Inacio,DEF,24,Sporting CP,POR,22,2,0.8735,0.4458,0.6811,0.6405,19.662
+Portugal,Ruben Neves,MID,29,Al Hilal SC,KSA,67,1,0.8645,0.562,0.698,0.8371,19.189
+Portugal,Tomas Araujo,DEF,24,SL Ben,POR,5,0,0.8602,0.6373,0.6301,0.4864,11.451
+Portugal,Nuno Mendes,DEF,23,Paris Saint-Germain,FRA,44,1,0.8582,0.5934,0.8876,0.7835,11.13
+Portugal,Joao Neves,MID,21,Paris Saint-Germain,FRA,22,3,0.8553,0.5897,0.8456,0.6098,7.558
+Portugal,Joao Cancelo,DEF,32,FC Barcelona,ESP,68,12,0.8492,0.6733,0.9466,0.7962,7.368
+Portugal,Nelson Semedo,DEF,32,Fenerbahçe SK,TUR,50,0,0.8345,0.5449,0.771,0.8167,7.265
+Portugal,Rui Silva,GK,32,Sporting CP,POR,3,0,0.8235,0.6546,0.5717,0.5526,6.996
+Portugal,Renato Veiga,DEF,22,Villarreal CF,ESP,13,1,0.814,0.6494,0.6988,0.5914,6.236
+Portugal,Jose Sa,GK,33,Wolverhampton Wanderers FC,ENG,5,0,0.7813,0.5002,0.4621,0.4847,4.792
+Portugal,Cristiano Ronaldo,FWD,41,Al Nassr FC,KSA,228,143,0.4966,0.5821,0.734,0.9033,4.783
+Qatar,Almoez Ali,FWD,29,Al Duhail SC,QAT,128,58,0.5251,0.6176,0.664,0.85,4.88
+Qatar,Assim Madibo,MID,29,Al Wakrah SC,QAT,64,0,0.4946,0.494,0.6251,0.7983,4.732
+Qatar,Akram Afif,FWD,29,Al Sadd SC,QAT,136,40,0.4929,0.4148,0.664,0.8563,1.241
+Qatar,Meshaal Barsham,GK,28,Al Sadd SC,QAT,60,0,0.485,0.5629,0.6212,0.7716,0.861
+Qatar,Sultan Albrake,DEF,30,Al Duhail SC,QAT,20,0,0.477,0.4472,0.5544,0.6658,0.746
+Qatar,Mohamed Manai,FWD,23,Al Shamal SC,QAT,11,0,0.4734,0.4972,0.5194,0.5538,0.642
+Qatar,Ayoub Aloui,DEF,21,Al Gharafa SC,QAT,7,0,0.4725,0.4517,0.4941,0.5304,0.569
+Qatar,Salah Zakaria,GK,27,Al Duhail SC,QAT,10,0,0.4693,0.5624,0.514,0.5191,0.545
+Qatar,Ahmed Fathy,MID,33,Al Arabi SC,QAT,54,0,0.4655,0.545,0.6147,0.7153,0.509
+Qatar,Yusuf Abdurisag,FWD,26,Al Wakrah SC,QAT,44,3,0.4637,0.4963,0.6021,0.6951,0.489
+Qatar,Jassem Gaber,DEF,24,Al Rayyan SC,QAT,37,1,0.462,0.5269,0.5915,0.6719,0.442
+Qatar,Homam Ahmed,DEF,26,Cultural Leonesa,ESP,76,3,0.4615,0.507,0.4789,0.8224,0.436
+Qatar,Gueye Issa Laye,DEF,28,Al Arabi SC,QAT,4,0,0.4577,0.5318,0.4647,0.4804,0.33
+Qatar,Mohammed Muntari,FWD,32,Al Gharafa SC,QAT,74,17,0.457,0.4825,0.6341,0.7552,0.286
+Qatar,Mahmoud Abunada,GK,26,Al Rayyan SC,QAT,6,0,0.4513,0.5263,0.4857,0.5533,0.281
+Qatar,Ahmed Alaaeldin,FWD,33,Al Rayyan SC,QAT,77,10,0.4481,0.5593,0.6365,0.8208,0.174
+Qatar,Alhashmi Alhussein,DEF,22,Al Arabi SC,QAT,10,0,0.4352,0.5287,0.514,0.6293,0.172
+Qatar,Ahmed Alganehi,MID,25,Al Gharafa SC,QAT,15,1,0.4298,0.4832,0.5374,0.6097,0.152
+Qatar,Edmilson Junior,FWD,31,Al Duhail SC,QAT,16,0,0.4285,0.3949,0.5412,0.6435,0.151
+Qatar,Tahsin Mohammed,FWD,19,Al Duhail SC,QAT,5,0,0.4175,0.4922,0.4761,0.5044,0.123
+Qatar,Hasan Hassan Alhaydos,FWD,35,Al Sadd SC,QAT,189,39,0.4141,0.4782,0.664,0.9286,0.112
+Qatar,Lucas Mendes,DEF,35,Al Wakrah SC,QAT,28,2,0.4113,0.467,0.5746,0.6043,0.107
+Qatar,Karim Boudiaf,MID,35,Al Duhail SC,QAT,128,6,0.4087,0.5587,0.664,0.8933,0.096
+Qatar,Abdelaziz Abdulaziz Hatem,MID,36,Al Rayyan SC,QAT,132,11,0.4061,0.4793,0.664,0.8501,0.088
+Qatar,Pedro Miguel,DEF,35,Al Sadd SC,QAT,111,4,0.3994,0.4907,0.6592,0.868,0.084
+Qatar,Boualem Khoukhi,DEF,35,Al Sadd SC,QAT,128,21,0.3918,0.5704,0.664,0.8242,0.051
+Saudi Arabia,Feras Albrikan,FWD,26,Al Ahli FC,KSA,72,16,0.6023,0.4921,0.7024,0.9768,4.083
+Saudi Arabia,Hassan Altambakti,DEF,27,Al Hilal SC,KSA,54,1,0.5919,0.5353,0.6847,0.8996,3.854
+Saudi Arabia,Abdullah Alkhaibari,MID,29,Al Nassr FC,KSA,42,0,0.5852,0.5423,0.6693,0.7227,3.245
+Saudi Arabia,Moteb Alharbi,DEF,26,Al Hilal SC,KSA,13,0,0.5821,0.4417,0.5991,0.6419,3.207
+Saudi Arabia,Aiman Yahya,FWD,25,Al Nassr FC,KSA,26,0,0.5781,0.5274,0.6402,0.7443,2.257
+Saudi Arabia,Nasser Aldawsari,MID,27,Al Hilal SC,KSA,47,1,0.5753,0.4306,0.6762,0.8157,1.557
+Saudi Arabia,Abdulelah Alamri,DEF,29,Al Nassr FC,KSA,44,1,0.5745,0.6407,0.6721,0.8091,1.332
+Saudi Arabia,Abdullah Alhamddan,FWD,26,Al Nassr FC,KSA,52,13,0.5713,0.5016,0.6824,0.8089,1.07
+Saudi Arabia,Nawaf Alaqidi,GK,26,Al Nassr FC,KSA,24,0,0.5658,0.5168,0.6354,0.6652,0.895
+Saudi Arabia,Saleh Alshehri,FWD,32,Al Ittihad,KSA,59,17,0.5644,0.5787,0.6901,0.8143,0.871
+Saudi Arabia,Nawaf Bu Washl,DEF,26,Al Nassr FC,KSA,27,0,0.5608,0.4567,0.6424,0.7232,0.797
+Saudi Arabia,Musab Aljuwayr,MID,22,Al Qadsiah FC,KSA,37,6,0.5554,0.4373,0.6615,0.7341,0.549
+Saudi Arabia,Mohamed Kanno,MID,31,Al Hilal SC,KSA,79,8,0.5523,0.4838,0.7081,0.98,0.531
+Saudi Arabia,Saud Abdulhamid,DEF,26,RC Lens,FRA,55,1,0.5497,0.5674,0.4886,0.9179,0.531
+Saudi Arabia,Ali Lajami,DEF,30,Al Hilal SC,KSA,24,1,0.5476,0.3697,0.6354,0.6359,0.357
+Saudi Arabia,Sultan Mandash,FWD,31,Al Hilal SC,KSA,7,2,0.5468,0.422,0.5641,0.4207,0.333
+Saudi Arabia,Ziyad Aljohani,MID,24,Al Ahli FC,KSA,12,0,0.5465,0.568,0.5945,0.5764,0.318
+Saudi Arabia,Khalid Alghannam,FWD,25,Al Ettifaq FC,KSA,7,0,0.5425,0.4813,0.5641,0.5534,0.299
+Saudi Arabia,Ali Majrashi,DEF,26,Al Ahli FC,KSA,21,0,0.54,0.4798,0.6274,0.6204,0.286
+Saudi Arabia,Jehad Thikri,DEF,24,Al Qadsiah FC,KSA,8,0,0.5379,0.5627,0.5714,0.5493,0.272
+Saudi Arabia,Mohammed Alowais,GK,34,Al Ula Saudi FC,KSA,65,0,0.5211,0.4415,0.6961,0.9149,0.207
+Saudi Arabia,Ala Alhajji,MID,30,Neom SC,KSA,3,0,0.5204,0.4146,0.5207,0.5005,0.196
+Saudi Arabia,Mohammed Abu Alshamat,DEF,23,Al Qadsiah FC,KSA,8,0,0.5151,0.5392,0.5714,0.518,0.193
+Saudi Arabia,Salem Aldawsari,FWD,34,Al Hilal SC,KSA,111,27,0.5107,0.5415,0.7292,0.9123,0.14
+Saudi Arabia,Hassan Kadish,DEF,33,Al Ittihad,KSA,21,2,0.5089,0.5302,0.6274,0.6212,0.138
+Saudi Arabia,Ahmed Alkassar,GK,35,Al Qadsiah FC,KSA,9,0,0.4776,0.5624,0.578,0.5748,0.11
+Scotland,Lyndon Dykes,FWD,30,Charlton Athletic FC,ENG,51,10,0.7585,0.5199,0.9122,0.8222,31.326
+Scotland,McTOMINAY,MID,29,SSC Napoli,ITA,70,15,0.7419,0.606,0.8735,0.9274,17.755
+Scotland,Andy Robertson,DEF,32,Liverpool FC,ENG,94,4,0.7335,0.5605,0.9527,0.979,16.755
+Scotland,Che Adams,FWD,29,Torino FC,ITA,47,13,0.731,0.5282,0.7158,0.7622,14.701
+Scotland,Lewis Ferguson,MID,26,Bologna FC,ITA,24,1,0.7192,0.6445,0.5696,0.7387,14.012
+Scotland,Anthony Ralston,DEF,27,Celtic FC,SCO,27,1,0.7186,0.5686,0.5811,0.7137,12.937
+Scotland,McKENNA,DEF,29,GNK Dinamo Zagreb,CRO,50,1,0.7105,0.5595,0.638,0.8158,11.505
+Scotland,Ross Stewart,FWD,29,Southampton FC,ENG,3,0,0.6938,0.5784,0.5151,0.5264,10.265
+Scotland,Nathan Patterson,DEF,24,Everton FC,ENG,26,1,0.693,0.4903,0.6319,0.6495,9.497
+Scotland,McGINN,MID,31,Aston Villa FC,ENG,86,20,0.6913,0.6128,0.6146,0.9038,7.36
+Scotland,Ryan Christie,MID,31,AFC Bournemouth,ENG,68,10,0.6911,0.594,0.6671,0.8208,7.348
+Scotland,Lawrence Shankland,FWD,30,Heart Of Midlothian FC,SCO,20,7,0.6878,0.5112,0.6104,0.6357,6.438
+Scotland,John Souttar,DEF,29,Rangers FC,SCO,24,2,0.6851,0.6821,0.4913,0.698,6.377
+Scotland,George Hirst,FWD,27,Ipswich Town FC,ENG,10,1,0.6837,0.5904,0.3206,0.5571,5.898
+Scotland,Jack Hendry,DEF,31,Al Ettifaq FC,KSA,38,3,0.6831,0.5718,0.6632,0.7394,4.97
+Scotland,Aaron Hickey,DEF,24,Brentford FC,ENG,21,0,0.6806,0.5575,0.5042,0.6331,4.092
+Scotland,Ben Gannon-Doak,FWD,20,AFC Bournemouth,ENG,14,1,0.6773,0.6241,0.5716,0.6181,3.035
+Scotland,Kieran Tierney,DEF,29,Celtic FC,SCO,56,2,0.6746,0.6087,0.6255,0.8149,2.656
+Scotland,Angus Gunn,GK,30,Nottingham Forest FC,ENG,22,0,0.6653,0.5953,0.3764,0.683,2.151
+Scotland,Liam Kelly,GK,30,Rangers FC,SCO,3,0,0.657,0.5887,0.3766,0.6228,1.761
+Scotland,Dominic Hyam,DEF,30,Wrexham AFC,WAL,4,0,0.6565,0.5937,0.3947,0.5318,1.732
+Scotland,Tyler Fletcher,MID,19,Manchester United FC,ENG,2,0,0.6375,0.5325,0.6477,0.4328,1.529
+Scotland,Findlay Curtis,FWD,20,Kilmarnock FC,SCO,3,1,0.6284,0.4888,0.253,0.4618,1.243
+Scotland,McLEAN,MID,34,Norwich City FC,ENG,58,3,0.6161,0.5444,0.4588,0.7756,1.117
+Scotland,Grant Hanley,DEF,34,Hibernian FC,SCO,68,2,0.6091,0.5289,0.5226,0.8803,0.952
+Scotland,Craig Gordon,GK,43,Heart Of Midlothian FC,SCO,84,0,0.3731,0.5411,0.6979,0.928,0.738
+Senegal,Krepin Diatta,DEF,27,AS Monaco,FRA,62,2,0.8313,0.6258,0.7824,0.9387,96.603
+Senegal,Pape Gueye,MID,27,Villarreal CF,ESP,42,6,0.8204,0.5757,0.769,0.8556,47.92
+Senegal,Nicolas Jackson,FWD,24,FC Bayern München,GER,34,8,0.8098,0.5023,0.8384,0.8146,46.251
+Senegal,Pape Sarr,MID,23,Tottenham Hotspur FC,ENG,41,4,0.8033,0.5741,0.8555,0.8228,42.142
+Senegal,Ismaila Sarr,FWD,28,Crystal Palace FC,ENG,84,19,0.8029,0.6602,0.7663,0.8895,37.047
+Senegal,Iliman Ndiaye,FWD,26,Everton FC,ENG,41,4,0.7988,0.6318,0.6596,0.7484,29.06
+Senegal,Cherif Ndiaye,FWD,30,Samsunspor,TUR,19,4,0.7867,0.602,0.6494,0.6063,17.26
+Senegal,Yehvann Diouf,GK,26,OGC Nice,FRA,2,0,0.7741,0.5175,0.5284,0.4571,14.74
+Senegal,Ismail Jakobs,DEF,26,Galatasaray SK,TUR,31,0,0.7685,0.5297,0.7296,0.6913,12.097
+Senegal,Moussa Niakhate,DEF,30,Olympique Lyonnais,FRA,32,0,0.7632,0.6786,0.7899,0.7438,11.992
+Senegal,Pathe Ciss,MID,32,Rayo Vallecano,ESP,31,0,0.7528,0.5807,0.5407,0.686,11.217
+Senegal,Lamine Camara,MID,22,AS Monaco,FRA,45,7,0.7527,0.5302,0.7628,0.8457,10.855
+Senegal,Ibrahim Mbaye,FWD,18,Paris Saint-Germain,FRA,11,3,0.7477,0.6061,0.8049,0.6547,10.316
+Senegal,Antoine Mendy,DEF,22,OGC Nice,FRA,7,0,0.7424,0.5019,0.5898,0.5124,9.759
+Senegal,Bamba Dieng,FWD,26,FC Lorient,FRA,23,2,0.733,0.5764,0.4435,0.6948,9.678
+Senegal,Mamadou Sarr,DEF,20,Chelsea FC,ENG,8,0,0.7281,0.5944,0.7243,0.6117,9.277
+Senegal,Mory Diaw,GK,32,Le Havre AC,FRA,5,0,0.7244,0.5377,0.4125,0.5021,9.275
+Senegal,Assane Diao,FWD,20,Como,ITA,5,0,0.7214,0.5347,0.7211,0.4054,8.642
+Senegal,Habib Diarra,MID,22,Sunderland AFC,ENG,21,4,0.7168,0.6205,0.3588,0.6983,7.433
+Senegal,El Diouf,DEF,21,West Ham United FC,ENG,20,1,0.7132,0.5987,0.5909,0.6222,7.137
+Senegal,Sadio Mane,FWD,34,Al Nassr FC,KSA,130,54,0.7127,0.5624,0.734,0.9008,6.265
+Senegal,Edouard Mendy,GK,34,Al Ahli FC,KSA,58,0,0.7053,0.6846,0.6891,0.8331,6.007
+Senegal,Bara Ndiaye,MID,18,FC Bayern München,GER,1,0,0.7042,0.4935,0.6594,0.4502,4.881
+Senegal,Kalidou Koulibaly,DEF,34,Al Hilal SC,KSA,104,2,0.6997,0.5868,0.7251,0.9448,2.986
+Senegal,Abdoulaye Seck,DEF,34,Maccabi Haifa FC,ISR,23,4,0.6433,0.4551,0.4928,0.6311,2.819
+Senegal,Idrissa Gueye,MID,36,Everton FC,ENG,136,7,0.6319,0.6065,0.7257,0.9323,2.341
+South Africa,Lyle Foster,FWD,25,Burnley FC,ENG,32,10,0.5684,0.5514,0.6323,0.7941,10.231
+South Africa,Evidence Makgopa,FWD,26,Orlando Pirates FC,RSA,28,6,0.5464,0.4707,0.5186,0.7789,4.269
+South Africa,Aubrey Modiba,DEF,30,Mamelodi Sundowns FC,RSA,49,3,0.5381,0.565,0.5527,0.892,4.0
+South Africa,Thabang Matuludi,DEF,27,Polokwane City FC,RSA,3,0,0.5374,0.5333,0.3947,0.5225,3.448
+South Africa,Teboho Mokoena,MID,29,Mamelodi Sundowns FC,RSA,58,9,0.5371,0.5254,0.5631,0.9695,3.292
+South Africa,Jayden Adams,MID,25,Mamelodi Sundowns FC,RSA,9,2,0.5352,0.5691,0.452,0.6546,2.623
+South Africa,Khuliso Mudau,DEF,31,Mamelodi Sundowns FC,RSA,35,1,0.5313,0.5651,0.5322,0.831,1.4
+South Africa,Sphephelo Sithole,MID,27,CD Tondela,POR,30,1,0.5288,0.472,0.4586,0.8925,1.375
+South Africa,Thalente Mbatha,MID,26,Orlando Pirates FC,RSA,17,3,0.5261,0.6272,0.4888,0.812,1.173
+South Africa,Tshepang Moremi,FWD,25,Orlando Pirates FC,RSA,10,1,0.5244,0.5079,0.458,0.7001,0.917
+South Africa,Oswin Appollis,FWD,24,Orlando Pirates FC,RSA,28,8,0.52,0.5695,0.5186,0.8073,0.906
+South Africa,Kamogelo Sebelebele,FWD,23,Orlando Pirates FC,RSA,9,1,0.5186,0.5717,0.452,0.62,0.858
+South Africa,Ricardo Goss,GK,32,Siwelele FC,RSA,7,0,0.5173,0.5872,0.4381,0.559,0.854
+South Africa,Nkosinathi Sibisi,DEF,30,Orlando Pirates FC,RSA,22,0,0.5145,0.4713,0.5041,0.8196,0.812
+South Africa,Sipho Chaine,GK,29,Orlando Pirates FC,RSA,4,0,0.5134,0.5526,0.4087,0.5313,0.804
+South Africa,Iqraam Rayners,FWD,30,Mamelodi Sundowns FC,RSA,21,5,0.5125,0.5029,0.5014,0.7123,0.627
+South Africa,Ime Okon,DEF,22,Hannover 96,GER,9,1,0.5062,0.5187,0.5968,0.6048,0.591
+South Africa,Khulumani Ndamane,DEF,22,Mamelodi Sundowns FC,RSA,5,0,0.5006,0.5291,0.4201,0.5479,0.583
+South Africa,Ronwen Williams,GK,34,Mamelodi Sundowns FC,RSA,65,0,0.4968,0.531,0.5701,0.9389,0.498
+South Africa,Thapelo Maseko,FWD,22,AEL Limassol,CYP,8,1,0.4951,0.5954,0.4314,0.6423,0.492
+South Africa,Relebohile Mofokeng,FWD,21,Orlando Pirates FC,RSA,14,1,0.4937,0.5292,0.4774,0.6688,0.487
+South Africa,Bradley Cross,DEF,25,Kaizer Chiefs FC,RSA,1,0,0.4886,0.5096,0.3514,0.5077,0.273
+South Africa,Samukele Kabini,DEF,22,Molde FK,NOR,6,0,0.4791,0.6108,0.3403,0.5869,0.234
+South Africa,Mbekezeli Mbokazi,DEF,20,Chicago Fire FC,USA,11,1,0.4784,0.5972,0.3139,0.7041,0.197
+South Africa,Olwethu Makhanya,DEF,22,Philadelphia Union,USA,1,0,0.478,0.5533,0.2305,0.4323,0.122
+South Africa,Themba Zwane,MID,36,Mamelodi Sundowns FC,RSA,56,12,0.4473,0.6073,0.5609,0.8898,0.083
+South Korea,Hyeongyu Oh,FWD,25,Beşiktaş JK,TUR,27,6,0.7516,0.5904,0.7352,0.6704,58.137
+South Korea,Minjae Kim,DEF,29,FC Bayern München,GER,79,4,0.7401,0.5111,0.8901,0.8606,17.114
+South Korea,Kangin Lee,MID,25,Paris Saint-Germain,FRA,47,10,0.7298,0.6006,0.8917,0.745,7.716
+South Korea,Donggyeong Lee,MID,28,Ulsan HD,KOR,18,4,0.7206,0.551,0.5622,0.6991,7.284
+South Korea,Inbeom Hwang,MID,29,Feyenoord Rotterdam,NED,73,6,0.7159,0.5817,0.7194,0.8339,6.384
+South Korea,Moonhwan Kim,DEF,30,Daejeon Hana Citizen FC,KOR,36,0,0.7101,0.5262,0.6039,0.7396,5.633
+South Korea,Heechan Hwang,MID,30,Wolverhampton Wanderers FC,ENG,79,17,0.7077,0.423,0.6241,0.8429,5.316
+South Korea,Youngwoo Seol,DEF,27,FK Crvena Zvezda,SRB,34,0,0.7071,0.5356,0.5164,0.7586,3.387
+South Korea,Guesung Cho,FWD,28,FC Midtjylland,DEN,44,12,0.6998,0.607,0.6581,0.8508,3.11
+South Korea,Junho Bae,MID,22,Stoke City FC,ENG,13,2,0.6951,0.462,0.5212,0.6666,3.009
+South Korea,Jingyu Kim,MID,29,Jeonbuk Hyundai Motors FC,KOR,22,3,0.6925,0.6265,0.5741,0.661,2.886
+South Korea,Jinseob Park,DEF,30,Zhejiang FC,CHN,14,1,0.6883,0.4919,0.4914,0.7017,2.721
+South Korea,Taehyeon Kim,DEF,25,Kashima Antlers,JPN,7,0,0.6865,0.5938,0.5151,0.5427,2.671
+South Korea,Gihyuk Lee,MID,25,Gangwon FC,KOR,3,0,0.684,0.6038,0.4647,0.4389,2.47
+South Korea,Hyunjun Yang,MID,24,Celtic FC,SCO,9,0,0.6778,0.5615,0.5167,0.591,1.218
+South Korea,Heungmin Son,FWD,33,LAFC,USA,144,56,0.6698,0.5533,0.727,0.98,1.202
+South Korea,Hanbeom Lee,DEF,23,FC Midtjylland,DEN,8,0,0.6651,0.4653,0.5574,0.5306,1.171
+South Korea,Jisung Eom,MID,24,Swansea City AFC,WAL,9,2,0.6646,0.551,0.4758,0.5764,1.135
+South Korea,Jens Castrop,DEF,22,Borussia Mönchengladbach,GER,7,0,0.6621,0.4598,0.6359,0.5255,0.874
+South Korea,Jaesung Lee,MID,33,1. FSV Mainz 05,GER,105,15,0.6608,0.6499,0.7514,0.9264,0.689
+South Korea,Seungho Paik,MID,29,Birmingham City FC,ENG,27,3,0.6575,0.531,0.4165,0.6891,0.634
+South Korea,Bumkeun Song,GK,28,Jeonbuk Hyundai Motors FC,KOR,3,0,0.6554,0.5687,0.4647,0.5449,0.557
+South Korea,Taeseok Lee,DEF,23,FK Austria Wien,AUT,15,1,0.6549,0.5286,0.5934,0.6894,0.428
+South Korea,Wije Cho,DEF,24,Jeonbuk Hyundai Motors FC,KOR,1,0,0.6462,0.5226,0.4214,0.4487,0.426
+South Korea,Seunggyu Kim,GK,35,FC Tokyo,JPN,86,0,0.6317,0.6496,0.6644,0.8796,0.325
+South Korea,Hyeonwoo Jo,GK,34,Ulsan HD,KOR,48,0,0.6267,0.4866,0.6215,0.8244,0.253
+Spain,Mikel Merino,MID,29,Arsenal FC,ENG,43,10,0.99,0.6908,0.8409,0.8769,234.892
+Spain,Ferran Torres,FWD,26,FC Barcelona,ESP,57,24,0.99,0.7234,0.9357,0.9235,143.743
+Spain,Fabian Ruiz,MID,30,Paris Saint-Germain,FRA,42,6,0.99,0.7086,0.8848,0.7834,109.482
+Spain,Dani Olmo,FWD,28,FC Barcelona,ESP,50,12,0.99,0.7523,0.9277,0.912,105.161
+Spain,Pedro Porro,DEF,26,Tottenham Hotspur FC,ENG,18,0,0.99,0.6996,0.8058,0.6571,93.796
+Spain,Rodri,MID,29,Manchester City FC,ENG,62,4,0.99,0.6705,0.9461,0.9136,88.276
+Spain,Martin Zubimendi,MID,27,Arsenal FC,ENG,26,3,0.99,0.7547,0.8104,0.7283,77.221
+Spain,Mikel Oyarzabal,FWD,29,Real Sociedad,ESP,53,25,0.99,0.7722,0.8189,0.9256,45.911
+Spain,Marc Cucurella,DEF,27,Chelsea FC,ENG,24,1,0.99,0.7155,0.7882,0.7724,45.376
+Spain,Pablo Gavi,MID,21,FC Barcelona,ESP,30,5,0.984,0.7229,0.8965,0.7689,41.826
+Spain,Eric Garcia,DEF,25,FC Barcelona,ESP,21,0,0.9838,0.7131,0.8751,0.6855,40.201
+Spain,Joan Garcia,GK,25,FC Barcelona,ESP,2,0,0.9815,0.6809,0.7504,0.4357,35.239
+Spain,Pedro Pedri,MID,23,FC Barcelona,ESP,41,6,0.978,0.6891,0.9155,0.776,33.227
+Spain,Unai Simon,GK,29,Athletic Club,ESP,58,0,0.9758,0.7638,0.7618,0.9594,30.347
+Spain,Alex Grimaldo,DEF,30,Bayer 04 Leverkusen,GER,14,0,0.9721,0.6762,0.7854,0.6315,30.058
+Spain,Alex Baena,MID,24,Atlético De Madrid,ESP,17,2,0.9706,0.6413,0.8024,0.6975,29.056
+Spain,Marcos Llorente,DEF,31,Atlético De Madrid,ESP,24,0,0.9639,0.654,0.823,0.7096,21.569
+Spain,Yeremy Pino,FWD,23,Crystal Palace FC,ENG,23,4,0.9625,0.7224,0.6872,0.6546,20.3
+Spain,Nico Williams,FWD,23,Athletic Club,ESP,30,6,0.9498,0.6421,0.7215,0.709,19.837
+Spain,David Raya,GK,30,Arsenal FC,ENG,13,0,0.9464,0.7813,0.7693,0.5859,18.811
+Spain,Marc Pubill,DEF,22,Atlético De Madrid,ESP,2,0,0.9354,0.6914,0.6904,0.4722,14.042
+Spain,Lamine Yamal,FWD,18,FC Barcelona,ESP,25,6,0.9004,0.7323,0.8855,0.7149,12.578
+Spain,Borja Iglesias,FWD,33,RC Celta Vigo,ESP,8,0,0.8983,0.6821,0.6459,0.4638,12.338
+Spain,Pau Cubarsi,DEF,19,FC Barcelona,ESP,12,0,0.8924,0.6888,0.8422,0.4646,7.333
+Spain,Aymeric Laporte,DEF,32,Athletic Club,ESP,46,2,0.8911,0.7464,0.7476,0.8483,4.96
+Spain,Victor Munoz,FWD,22,CA Osasuna,ESP,2,1,0.8904,0.7167,0.4118,0.5267,4.42
+Sweden,Alexander Isak,FWD,26,Liverpool FC,ENG,58,17,0.7659,0.5202,0.9229,0.8882,115.142
+Sweden,Viktor Gyokeres,FWD,28,Arsenal FC,ENG,33,20,0.7484,0.5718,0.8248,0.8375,29.596
+Sweden,Isak Hien,DEF,27,Atalanta Bergamo,ITA,29,0,0.7354,0.5476,0.7856,0.863,25.995
+Sweden,Gustaf Lagerbielke,DEF,26,SC Braga,POR,11,2,0.7085,0.525,0.636,0.6203,24.107
+Sweden,Hjalmar Ekdal,DEF,27,Burnley FC,ENG,13,0,0.7068,0.5678,0.5786,0.7075,22.343
+Sweden,Mattias Svanberg,MID,27,VfL Wolfsburg,GER,40,2,0.7022,0.5371,0.6476,0.9261,21.084
+Sweden,Gustaf Nilsson,FWD,29,Club Brugge,BEL,9,4,0.7013,0.5075,0.62,0.539,19.598
+Sweden,Anthony Elanga,FWD,24,Newcastle United FC,ENG,30,6,0.6954,0.5375,0.658,0.8503,15.494
+Sweden,Viktor Johansson,GK,27,Stoke City FC,ENG,12,0,0.6904,0.4274,0.5165,0.6619,12.289
+Sweden,Benjamin Nygren,MID,24,Celtic FC,SCO,11,3,0.6894,0.5497,0.5281,0.7116,11.044
+Sweden,Daniel Svensson,DEF,24,Borussia Dortmund,GER,13,0,0.6851,0.5698,0.7475,0.6444,10.696
+Sweden,Yasin Ayari,MID,22,Brighton & Hove Albion FC,ENG,21,3,0.6851,0.5153,0.8584,0.7629,10.169
+Sweden,Taha Ali,FWD,27,Malmö FF,SWE,2,0,0.6749,0.4104,0.3839,0.4162,8.029
+Sweden,Besfort Zeneli,MID,23,Royale Union Saint-Gilloise,BEL,8,0,0.6712,0.4722,0.6134,0.5614,7.428
+Sweden,Victor Lindelof,DEF,31,Aston Villa FC,ENG,76,3,0.6705,0.5916,0.6069,0.978,5.785
+Sweden,Ken Sema,MID,32,Pafos FC,CYP,32,5,0.6673,0.4841,0.5127,0.8445,4.296
+Sweden,Alexander Bernhardsson,DEF,27,Holstein Kiel,GER,11,0,0.664,0.4424,0.475,0.6505,3.535
+Sweden,Gabriel Gudmundsson,DEF,27,Leeds United FC,ENG,24,0,0.6617,0.5208,0.3851,0.8056,3.212
+Sweden,Carl Starfelt,DEF,31,RC Celta Vigo,ESP,18,0,0.6607,0.4209,0.6926,0.7689,2.865
+Sweden,Herman Johansson,DEF,28,FC Dallas,USA,3,0,0.66,0.6357,0.273,0.5881,2.746
+Sweden,Jacob Widell Zetterstrom,GK,27,Derby County FC,ENG,3,0,0.6573,0.5259,0.3375,0.5071,1.966
+Sweden,Jesper Karlstrom,MID,30,Udinese,ITA,24,0,0.6504,0.5072,0.594,0.7644,1.899
+Sweden,Lucas Bergvall,MID,20,Tottenham Hotspur FC,ENG,10,0,0.6451,0.3972,0.7716,0.6023,1.722
+Sweden,Elliot Stroud,DEF,23,Mjällby AIF,SWE,1,0,0.6345,0.5293,0.4354,0.4749,1.114
+Sweden,Eric Smith,DEF,29,FC St. Pauli,GER,2,0,0.634,0.4648,0.289,0.5396,0.988
+Sweden,Kristoffer Nordfeldt,GK,36,AIK Stockholm,SWE,21,0,0.5596,0.3234,0.5799,0.7887,0.839
+Switzerland,Cedric Itten,FWD,29,Fortuna Düsseldorf,GER,15,5,0.8372,0.5483,0.7894,0.6299,57.504
+Switzerland,Eray Coemert,DEF,28,Valencia CF,ESP,22,0,0.8276,0.6215,0.7629,0.6137,34.037
+Switzerland,Michel Aebischer,MID,29,Pisa SC,ITA,40,2,0.8206,0.6577,0.8413,0.8249,29.07
+Switzerland,Gregor Kobel,GK,28,Borussia Dortmund,GER,21,0,0.8144,0.7332,0.7758,0.6567,28.319
+Switzerland,Breel Embolo,FWD,29,Stade Rennais FC,FRA,86,24,0.8123,0.6479,0.8744,0.9249,23.717
+Switzerland,Ruben Vargas,FWD,27,Sevilla FC,ESP,61,11,0.8049,0.5425,0.8189,0.8435,19.992
+Switzerland,Denis Zakaria,MID,29,AS Monaco,FRA,65,3,0.8034,0.6206,0.7853,0.8571,18.402
+Switzerland,Djibril Sow,MID,29,Sevilla FC,ESP,52,0,0.8028,0.5962,0.8091,0.7097,12.738
+Switzerland,Manuel Akanji,DEF,30,FC Internazionale Milano,ITA,81,4,0.7961,0.5141,0.8607,0.8688,12.457
+Switzerland,Zeki Amdouni,FWD,25,Burnley FC,ENG,29,11,0.7939,0.6838,0.6263,0.7639,11.589
+Switzerland,Nico Elvedi,DEF,29,Borussia Mönchengladbach,GER,67,3,0.791,0.5622,0.7698,0.8087,8.923
+Switzerland,Miro Muheim,DEF,28,Hamburger SV,GER,10,0,0.7816,0.5402,0.766,0.4984,7.669
+Switzerland,Dan Ndoye,FWD,25,Nottingham Forest FC,ENG,31,8,0.7814,0.5305,0.397,0.7744,7.084
+Switzerland,Ricardo Rodriguez,DEF,33,Real Betis,ESP,138,9,0.7792,0.6942,0.8285,0.9484,6.303
+Switzerland,Fabian Rieder,MID,24,FC Augsburg,GER,28,1,0.769,0.6947,0.6808,0.7235,5.713
+Switzerland,Ardon Jashari,MID,23,AC Milan,ITA,8,0,0.7641,0.5576,0.6668,0.5116,5.692
+Switzerland,Christian Fassnacht,FWD,32,BSC Young Boys,SUI,23,5,0.761,0.4661,0.6585,0.6401,5.124
+Switzerland,Luca Jaquez,DEF,23,VfB Stuttgart,GER,3,0,0.7574,0.6151,0.5995,0.5569,4.599
+Switzerland,Johan Manzambi,MID,20,SC Freiburg,GER,12,3,0.738,0.5197,0.5818,0.5242,4.528
+Switzerland,Noah Okafor,FWD,26,Leeds United FC,ENG,25,2,0.7373,0.5867,0.3875,0.6552,4.108
+Switzerland,Aurele Amenda,DEF,22,Eintracht Frankfurt,GER,7,0,0.7345,0.7012,0.6446,0.5787,3.871
+Switzerland,Yvon Mvogo,GK,32,FC Lorient,FRA,13,0,0.7338,0.6264,0.4097,0.5893,2.86
+Switzerland,Silvan Widmer,DEF,33,1. FSV Mainz 05,GER,60,5,0.7318,0.5797,0.7169,0.8312,2.79
+Switzerland,Granit Xhaka,MID,33,Sunderland AFC,ENG,146,17,0.7281,0.6383,0.4654,0.98,2.154
+Switzerland,Remo Freuler,MID,34,Bologna FC,ITA,88,11,0.7173,0.5117,0.6491,0.8624,2.018
+Switzerland,Marvin Keller,GK,23,BSC Young Boys,SUI,1,0,0.717,0.5899,0.5031,0.4695,0.837
+Tunisia,Elias Saad,FWD,26,Hannover 96,GER,15,3,0.6688,0.4524,0.6262,0.6704,17.52
+Tunisia,Yan Valery,DEF,27,BSC Young Boys,SUI,22,0,0.6394,0.6632,0.6558,0.8227,4.993
+Tunisia,Hazem Mastouri,FWD,28,FC Dynamo Makhachkala,RUS,19,4,0.637,0.5785,0.6074,0.8,3.041
+Tunisia,Dylan Bronn,DEF,30,Servette FC,SUI,52,2,0.6228,0.5435,0.6824,0.886,3.034
+Tunisia,Ellyes Skhiri,MID,31,Eintracht Frankfurt,GER,83,4,0.621,0.5279,0.7917,0.9393,2.726
+Tunisia,Hannibal Mejbri,MID,23,Burnley FC,ENG,45,1,0.612,0.5666,0.6531,0.8595,2.586
+Tunisia,Elias Achouri,FWD,27,FC København,DEN,30,5,0.6063,0.6328,0.6348,0.7419,2.306
+Tunisia,Firas Chaouat,FWD,30,Club Africain,TUN,30,6,0.6043,0.5129,0.5368,0.8285,2.149
+Tunisia,Aymen Dahmen,GK,29,CS Sfaxien,TUN,37,0,0.5994,0.425,0.5495,0.8259,2.029
+Tunisia,Ismael Gharbi,MID,22,FC Augsburg,GER,17,2,0.5981,0.5786,0.651,0.7067,1.663
+Tunisia,Mortadha Ben Ouanes,DEF,31,Kasımpaşa SK,TUR,18,0,0.5829,0.5596,0.6462,0.7566,1.626
+Tunisia,Montassar Talbi,DEF,28,FC Lorient,FRA,64,4,0.5816,0.5087,0.5058,0.8897,1.59
+Tunisia,Anis Slimane,MID,25,Norwich City FC,ENG,40,4,0.5797,0.6316,0.436,0.9202,1.123
+Tunisia,Ali Abdi,DEF,32,OGC Nice,FRA,46,7,0.5766,0.5463,0.7005,0.92,0.908
+Tunisia,Khalil Ayari,MID,21,Paris Saint-Germain,FRA,4,0,0.5708,0.5988,0.7502,0.5083,0.795
+Tunisia,Mohamed Ben Hmida,DEF,30,Espérance De Tunisie,TUN,13,0,0.5707,0.6131,0.4871,0.6893,0.616
+Tunisia,Sabri Ben Hessen,GK,29,Étoile Du Sahel,TUN,1,0,0.5654,0.5439,0.3654,0.494,0.57
+Tunisia,Mohamed Hadj Mahmoud,MID,26,FC Lugano,SUI,9,0,0.5629,0.6246,0.3643,0.6267,0.484
+Tunisia,Adam Arous,DEF,21,Kasımpaşa SK,TUR,2,0,0.5574,0.5903,0.5307,0.471,0.446
+Tunisia,Sebastian Tounekti,MID,23,Celtic FC,SCO,12,1,0.5452,0.5967,0.5331,0.6278,0.429
+Tunisia,Raed Chikhaoui,DEF,22,US Monastir,TUN,0,0,0.5375,0.4654,0.322,0.4571,0.405
+Tunisia,Moutaz Neffati,DEF,21,IFK Norrköping FK,SWE,5,0,0.5349,0.5113,0.4151,0.5778,0.336
+Tunisia,Omar Rekik,DEF,24,NK Maribor,SVN,6,0,0.5345,0.6668,0.3838,0.5723,0.303
+Tunisia,Mouhib Chamakh,GK,24,Club Africain,TUN,3,0,0.5336,0.4454,0.4087,0.5026,0.242
+Tunisia,Rani Khedira,MID,32,1. FC Union Berlin,GER,3,0,0.5083,0.4641,0.374,0.5401,0.218
+Tunisia,Rayan Elloumi,FWD,18,Vancouver Whitecaps FC,CAN,4,0,0.5059,0.5448,0.2321,0.5496,0.163
+Türkiye,Kerem Akturkoglu,FWD,27,Fenerbahçe SK,TUR,52,15,0.8332,0.6597,0.7734,0.8135,59.599
+Türkiye,Mert Muldur,DEF,27,Fenerbahçe SK,TUR,45,3,0.8262,0.5473,0.7645,0.7878,40.609
+Türkiye,Ismail Yuksek,MID,27,Fenerbahçe SK,TUR,32,1,0.8219,0.534,0.7437,0.7323,33.853
+Türkiye,Orkun Kokcu,MID,25,Beşiktaş JK,TUR,50,4,0.8138,0.7686,0.7727,0.8324,31.017
+Türkiye,Zeki Celik,DEF,29,AS Roma,ITA,61,3,0.8073,0.5431,0.865,0.9045,25.003
+Türkiye,Merih Demiral,DEF,28,Al Ahli FC,KSA,63,6,0.8065,0.6522,0.6942,0.9408,20.555
+Türkiye,Baris Yilmaz,FWD,26,Galatasaray SK,TUR,35,4,0.806,0.6131,0.737,0.7393,19.843
+Türkiye,Salih Ozcan,MID,28,Borussia Dortmund,GER,30,1,0.8049,0.6647,0.7973,0.7164,19.78
+Türkiye,Caglar Soyuncu,DEF,30,Fenerbahçe SK,TUR,60,2,0.8024,0.6326,0.7822,0.7984,18.763
+Türkiye,Abdulkerim Bardakci,DEF,31,Galatasaray SK,TUR,27,2,0.7998,0.5505,0.7213,0.5602,15.449
+Türkiye,Ozan Kabak,DEF,26,TSG Hoffenheim,GER,30,2,0.7965,0.5571,0.7807,0.7081,15.064
+Türkiye,Ugurcan Cakir,GK,30,Galatasaray SK,TUR,39,0,0.7923,0.6011,0.7436,0.7903,13.37
+Türkiye,Yunus Akgun,FWD,25,Galatasaray SK,TUR,19,4,0.7915,0.6211,0.7002,0.5493,12.789
+Türkiye,Altay Bayindir,GK,28,Manchester United FC,ENG,12,0,0.7886,0.6467,0.7394,0.5405,11.268
+Türkiye,Eren Elmali,DEF,25,Galatasaray SK,TUR,23,0,0.7877,0.5036,0.7116,0.5476,11.085
+Türkiye,Irfan Kahveci,FWD,30,Kasımpaşa SK,TUR,47,6,0.7874,0.5921,0.7042,0.7681,10.487
+Türkiye,Ferdi Kadioglu,DEF,26,Brighton & Hove Albion FC,ENG,30,2,0.7869,0.63,0.8798,0.5987,10.414
+Türkiye,Deniz Gul,FWD,21,FC Porto,POR,8,2,0.782,0.6263,0.7182,0.5314,9.785
+Türkiye,Kaan Ayhan,MID,31,Galatasaray SK,TUR,73,5,0.7803,0.6066,0.7821,0.913,9.625
+Türkiye,Kenan Yildiz,FWD,21,Juventus FC,ITA,28,5,0.7745,0.5619,0.8506,0.6395,9.479
+Türkiye,Hakan Calhanoglu,MID,32,FC Internazionale Milano,ITA,106,22,0.7715,0.636,0.8774,0.9278,9.219
+Türkiye,Oguz Aydin,FWD,25,Fenerbahçe SK,TUR,11,0,0.7661,0.5311,0.6804,0.5169,7.438
+Türkiye,Arda Guler,FWD,21,Real Madrid C. F.,ESP,30,6,0.7649,0.6625,0.9096,0.7488,6.425
+Türkiye,Can Uzun,FWD,20,Eintracht Frankfurt,GER,6,1,0.7523,0.6286,0.6363,0.5039,6.041
+Türkiye,Samet Akaydin,DEF,32,Çaykur Rizespor,TUR,19,1,0.7361,0.6066,0.6494,0.5615,5.538
+Türkiye,Mert Gunok,GK,37,Fenerbahçe SK,TUR,37,0,0.6094,0.571,0.7525,0.7885,2.701
+United States,McKENNIE,MID,27,Juventus FC,ITA,66,12,0.8138,0.4915,0.9029,0.9236,40.403
+United States,Malik Tillman,MID,24,Bayer 04 Leverkusen,GER,30,3,0.7943,0.5039,0.8308,0.6832,40.023
+United States,Haji Wright,FWD,28,Coventry City FC,ENG,20,7,0.7813,0.545,0.8554,0.6499,31.084
+United States,Christian Pulisic,FWD,27,AC Milan,ITA,86,33,0.7806,0.6186,0.8087,0.9755,30.892
+United States,Tyler Adams,MID,27,AFC Bournemouth,ENG,54,2,0.7745,0.5339,0.6529,0.8227,24.194
+United States,Folarin Balogun,FWD,24,AS Monaco,FRA,27,9,0.7686,0.4855,0.7317,0.6416,21.656
+United States,Alex Zendejas,FWD,28,Club América,MEX,14,2,0.761,0.4835,0.6034,0.4907,16.792
+United States,Sergino Dest,DEF,25,PSV Eindhoven,NED,39,3,0.7573,0.5211,0.7026,0.7591,15.041
+United States,Miles Robinson,DEF,29,FC Cincinnatti,USA,40,3,0.749,0.5275,0.6593,0.8366,14.396
+United States,Timothy Weah,FWD,26,Olympique Marseille,FRA,51,7,0.741,0.565,0.7965,0.8872,13.766
+United States,Auston Trusty,DEF,27,Celtic FC,SCO,8,0,0.7382,0.5421,0.5101,0.4884,13.054
+United States,Chris Richards,DEF,26,Crystal Palace FC,ENG,36,3,0.7366,0.5988,0.7143,0.7307,11.079
+United States,Giovanni Reyna,MID,23,Borussia Mönchengladbach,GER,38,9,0.7364,0.5135,0.735,0.7822,10.557
+United States,McKENZIE,DEF,27,Toulouse FC,FRA,29,0,0.7276,0.61,0.5967,0.6498,9.448
+United States,Max Arfsten,DEF,25,Columbus Crew,USA,20,1,0.7259,0.5775,0.4194,0.5343,8.31
+United States,Brenden Aaronson,FWD,25,Leeds United FC,ENG,58,9,0.7231,0.4119,0.4388,0.8262,7.322
+United States,Ricardo Pepi,FWD,23,PSV Eindhoven,NED,37,13,0.722,0.5489,0.6994,0.6891,6.65
+United States,Antonee Robinson,DEF,28,Fulham FC,ENG,54,5,0.7197,0.5927,0.6181,0.8995,6.353
+United States,Cristian Roldan,MID,31,Seattle Sounders FC,USA,47,0,0.7151,0.6624,0.4476,0.7921,6.166
+United States,Matt Freese,GK,27,New York City FC,USA,15,0,0.7125,0.5635,0.4155,0.5979,5.745
+United States,Sebastian Berhalter,MID,25,Vancouver Whitecaps FC,CAN,13,1,0.7033,0.6017,0.2966,0.4867,5.722
+United States,Joe Scally,DEF,23,Borussia Mönchengladbach,GER,26,0,0.7024,0.5361,0.712,0.714,4.826
+United States,Matt Turner,GK,31,New England Revolution,USA,54,0,0.6955,0.5565,0.4013,0.8885,4.502
+United States,Alex Freeman,DEF,21,Villarreal CF,ESP,17,2,0.6867,0.5517,0.7145,0.6026,3.951
+United States,Chris Brady,GK,22,Chicago Fire FC,USA,1,0,0.6283,0.5778,0.2018,0.5063,3.184
+United States,Tim Ream,DEF,38,Charlotte FC,USA,81,1,0.5196,0.5133,0.7027,0.9209,1.584
+Uruguay,Federico Valverde,MID,27,Real Madrid C. F.,ESP,73,9,0.8724,0.6191,0.964,0.8363,132.348
+Uruguay,Mathias Olivera,DEF,28,SSC Napoli,ITA,35,2,0.8493,0.4765,0.831,0.787,21.506
+Uruguay,Rodrigo Bentancur,MID,28,Tottenham Hotspur FC,ENG,73,3,0.8343,0.4778,0.8909,0.9397,18.529
+Uruguay,Ronald Araujo,DEF,27,FC Barcelona,ESP,27,1,0.8302,0.4916,0.8902,0.6558,18.395
+Uruguay,Santiago Bueno,DEF,27,Wolverhampton Wanderers FC,ENG,8,0,0.8164,0.4733,0.4874,0.4557,16.284
+Uruguay,Brian Rodriguez,FWD,26,Club América,MEX,33,4,0.8125,0.5149,0.6546,0.6838,15.389
+Uruguay,Maxi Araujo,MID,26,Sporting CP,POR,28,3,0.812,0.4848,0.6956,0.797,15.019
+Uruguay,Manuel Ugarte,MID,25,Manchester United FC,ENG,35,1,0.8118,0.6518,0.8031,0.7232,11.402
+Uruguay,Matias Vina,DEF,28,CA River Plate,ARG,43,1,0.8058,0.5097,0.6546,0.9321,11.353
+Uruguay,Agustin Canobbio,MID,27,Fluminense FC,BRA,14,1,0.8014,0.3981,0.4959,0.6392,10.88
+Uruguay,Nicolas De La Cruz,MID,29,CR Flamengo,BRA,34,5,0.7969,0.609,0.6246,0.7331,9.839
+Uruguay,Jose Gimenez,DEF,31,Atlético De Madrid,ESP,99,9,0.7966,0.522,0.9097,0.9362,9.258
+Uruguay,Darwin Nunez,FWD,26,Al Hilal SC,KSA,38,13,0.7962,0.5468,0.6632,0.8691,8.2
+Uruguay,Rodrigo Zalazar,MID,26,SC Braga,POR,7,2,0.7949,0.5233,0.6107,0.4259,8.145
+Uruguay,Sebastian Caceres,DEF,26,Club América,MEX,23,0,0.7777,0.5461,0.6328,0.6429,7.942
+Uruguay,Joaquin Piquerez,MID,27,SE Palmeiras,BRA,19,0,0.7744,0.5079,0.5862,0.6927,7.157
+Uruguay,Emiliano Martinez,MID,26,SE Palmeiras,BRA,10,0,0.773,0.5024,0.5488,0.6033,6.248
+Uruguay,Rodrigo Aguirre,FWD,31,Tigres UANL,MEX,10,3,0.7633,0.5715,0.4939,0.5765,5.841
+Uruguay,Facundo Pellistri,FWD,24,Panathinaikos FC,GRE,39,2,0.7607,0.5787,0.6173,0.805,5.711
+Uruguay,Santiago Mele,GK,28,CF Monterrey,MEX,8,0,0.7526,0.6615,0.5005,0.4828,5.002
+Uruguay,Federico Vinas,FWD,27,Real Oviedo,ESP,11,2,0.7525,0.5616,0.4071,0.6073,4.688
+Uruguay,Giorgian De Arrascaeta,MID,32,CR Flamengo,BRA,59,13,0.7506,0.5523,0.6584,0.9014,3.16
+Uruguay,Juan Sanabria,MID,26,Real Salt Lake,USA,5,1,0.7445,0.5459,0.2462,0.4518,3.111
+Uruguay,Sergio Rochet,GK,33,SC Internacional,BRA,35,0,0.7343,0.5419,0.5985,0.8482,2.48
+Uruguay,Guillermo Varela,DEF,33,CR Flamengo,BRA,27,0,0.7181,0.5769,0.6107,0.686,2.478
+Uruguay,Fernando Muslera,GK,39,Estudiantes LP,ARG,134,0,0.46,0.589,0.61,0.9672,2.086
+Uzbekistan,Eldor Shomurodov,FWD,30,Başakşehir FK,TUR,93,44,0.6849,0.5244,0.7361,0.9719,17.526
+Uzbekistan,Otabek Shukurov,MID,29,Baniyas Club,UAE,90,10,0.6652,0.623,0.6322,0.918,10.786
+Uzbekistan,Abdulla Abdullaev,DEF,28,Dibba FC,UAE,29,0,0.6623,0.5774,0.5628,0.7054,6.684
+Uzbekistan,Khojiakbar Alijonov,DEF,29,Pakhtakor Tashkent FK,UZB,52,3,0.6591,0.5989,0.5424,0.827,6.658
+Uzbekistan,Abdukodir Khusanov,DEF,22,Manchester City FC,ENG,27,0,0.658,0.5776,0.8954,0.6005,4.85
+Uzbekistan,Odiljon Xamrobekov,MID,30,Tractor Sazi Tabriz FC,IRN,76,1,0.6565,0.5853,0.7105,0.8627,2.243
+Uzbekistan,Abbosbek Fayzullaev,MID,22,Başakşehir FK,TUR,32,8,0.6479,0.4225,0.6706,0.6707,1.921
+Uzbekistan,Sherzod Nasrullaev,DEF,27,Pakhtakor Tashkent FK,UZB,40,2,0.6421,0.4682,0.5263,0.7141,1.66
+Uzbekistan,Akmal Mozgovoy,MID,27,Pakhtakor Tashkent FK,UZB,25,1,0.6394,0.5682,0.4978,0.6426,1.412
+Uzbekistan,Azizjon Ganiev,MID,28,Al Bataeh Club,UAE,24,0,0.6323,0.5129,0.5514,0.5506,1.114
+Uzbekistan,Jaloliddin Masharipov,MID,32,Esteghlal Tehran FC,IRN,75,14,0.6305,0.4835,0.5649,0.8469,1.09
+Uzbekistan,Abduvohid Nematov,GK,25,Nasaf Qarshi FC,UZB,15,0,0.6263,0.64,0.4674,0.6623,0.988
+Uzbekistan,Oston Urunov,MID,25,Persepolis FC,IRN,45,10,0.6253,0.5634,0.5335,0.7666,0.988
+Uzbekistan,Rustam Ashurmatov,DEF,29,Esteghlal Tehran FC,IRN,51,1,0.6249,0.5435,0.5412,0.7296,0.94
+Uzbekistan,Igor Sergeev,FWD,33,Persepolis FC,IRN,85,25,0.6209,0.5427,0.5726,0.9492,0.88
+Uzbekistan,Dostonbek Khamdamov,MID,29,Pakhtakor Tashkent FK,UZB,37,5,0.6136,0.5705,0.5215,0.7028,0.749
+Uzbekistan,Jamshid Iskanderov,MID,32,FK Neftchi Farg'ona,UZB,46,4,0.6113,0.5317,0.5348,0.8183,0.734
+Uzbekistan,Avazbek Ulmasaliyev,DEF,26,OKMK FK,UZB,0,0,0.6104,0.6212,0.294,0.444,0.611
+Uzbekistan,Azizbek Amonov,FWD,28,FK Dinamo Samarkand,UZB,13,2,0.6076,0.6062,0.4591,0.5622,0.433
+Uzbekistan,Botirali Ergashev,GK,30,FK Neftchi Farg'ona,UZB,5,0,0.5948,0.5339,0.4061,0.5603,0.37
+Uzbekistan,Jakhongir Urozov,DEF,22,FK Dinamo Samarkand,UZB,4,1,0.5825,0.4335,0.3947,0.4978,0.283
+Uzbekistan,Sherzod Esanov,MID,23,FK Buxoro,UZB,1,0,0.5794,0.4356,0.3374,0.491,0.263
+Uzbekistan,Umar Eshmurodov,DEF,33,Nasaf Qarshi FC,UZB,40,0,0.5793,0.3848,0.5263,0.725,0.208
+Uzbekistan,Farrukh Sayfiev,DEF,35,FK Neftchi Farg'ona,UZB,71,1,0.5524,0.4579,0.5615,0.8031,0.145
+Uzbekistan,Utkir Yusupov,GK,35,PFC Navbahor Namangan,UZB,45,0,0.5443,0.5189,0.5335,0.7355,0.108
+Uzbekistan,Behruzjon Karimov,DEF,18,Surkhon FK,UZB,2,0,0.5367,0.5125,0.3627,0.4095,0.105
