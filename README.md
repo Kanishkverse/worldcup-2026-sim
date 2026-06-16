@@ -84,6 +84,54 @@ backtests the favourite-win, draw and underdog rates against the real
 probabilities with Brier and log loss plus a calibration curve. Reports land
 in [`reports/`](reports/).
 
+## Player-level engine: strength built from the squad up
+
+The engines above carry one rating per team. This one builds the rating from
+the players who are actually available, so the teamsheet matters. Each of the
+1,248 real players has a rating, form, club minutes and a position; the
+aggregation leans on the best of them (a star is worth more than his slot in
+an average) and maps the result to Elo. Rule a player out and the number
+moves.
+
+`scripts/per_game_demo.py` runs a single fixture through the real match
+physics, many times, and reports the whole outcome distribution:
+
+```
+France vs Mexico  (2500 simulations)
+  France win  52.3%   draw  26.8%   Mexico win  19.8%
+  expected goals 1.62 - 0.92   over 2.5: 47%
+  most likely 1-1   top scorelines: 1-1 13%, 1-0 12%, 2-0 10%, 2-1 10%
+```
+
+This is the base engine's minute-by-minute simulation: formation-based XI
+selection, the player cohesion graph, accumulating fatigue, sendings-off,
+substitutions, the manager's half-time tactical call, and extra time plus
+penalties in a knockout. Rule a player out and the squad reshapes around the
+absence in the physics, not by hand.
+
+One honest caveat the data forces. In this dataset elite ratings saturate near
+the top, so a single star off a deep squad is within Monte Carlo noise at the
+match level: France lose Mbappe and their win probability barely moves, because
+Dembele and Thuram are right there. The player signal is real but it lives in
+the aggregate (Mbappe is about 11 Elo) and compounds over a tournament; take
+out France's whole first XI and the per-game swing is unmistakable
+(52% to 48%, expected goals 1.61 to 1.52). Depth absorbs single absences,
+which is the correct behaviour, not a bug.
+
+### Group results as a calibration fold for the knockouts
+
+`scripts/group_to_ko_correction.py` does what you would actually want once
+real group games are in: for every played match it compares the per-game
+prediction to the result, turns the gap into a per-team Elo correction, and
+carries that into the elimination rounds. Germany putting seven past Curacao
+earns a positive correction and their title odds climb; Spain's goalless draw
+with Cabo Verde earns a negative one and theirs fall. The mechanism is
+validated against real tournaments in
+[`reports/historical_validation.md`](reports/historical_validation.md): applied
+to four famous group stages it moves the ratings closer to the real final
+tables (Kendall tau +0.25 to +0.42) and signs the shocks correctly
+(Saudi Arabia 2022 up, Germany 2018 down).
+
 ## Quickstart
 
 ```bash
@@ -93,7 +141,12 @@ pip install -r requirements.txt
 python3 live_forecast.py --runs 4000              # reads data/results_2026.csv
 python3 scripts/calibrate_upsets.py               # upset rate vs 2010-2022
 python3 scripts/model_diagnostics.py              # Brier / log loss / calibration
+python3 scripts/validate_historical.py            # validate the machinery on real tournaments
 python3 -m pytest -q                              # the test suite
+
+# the player-level engine: strength from the squad, real per-game physics
+python3 scripts/per_game_demo.py                  # one fixture, with/without a player
+python3 scripts/group_to_ko_correction.py         # group results -> knockout correction
 
 # the fast static one: validate the match model, then predict 2026 pre-kickoff
 python3 elo_predict.py --backtest
@@ -157,10 +210,14 @@ worldcup_sim/           dynamic state layer:
   path_difficulty.py      bracket path strength tracking
   standings.py            group standings + 2026 tiebreakers
   engine.py               calibrated Poisson Monte Carlo, all layers wired in
-scripts/                parsers, reports, figures, ablation, calibration, diagnostics
-data/                   players, squads, styles, venues, live results
+  squads.py               player -> team aggregation, availability, player Elo
+  per_game.py             single-fixture Monte Carlo over the real match physics
+scripts/                parsers, reports, figures, ablation, calibration,
+                          diagnostics, historical validation, per-game demo,
+                          group-to-knockout correction
+data/                   players, squads, styles, venues, live + historical results
 results/                probability tables, backtests, ablation, live forecast
-reports/                upset calibration + model diagnostics
+reports/                calibration, diagnostics, historical validation, correction
 figures/                all charts incl. the v3 architecture diagram
 tests/                  unit + integration tests (pytest)
 docs/                   full project documentation (PDF) + GPU setup notes
