@@ -1,6 +1,6 @@
 # worldcup-2026-sim
 
-Three engines for simulating the 2026 FIFA World Cup, and the experiment that
+Four engines for simulating the 2026 FIFA World Cup, and the experiment that
 decided which one to trust.
 
 1. **Statistical engine** — a calibrated minute-by-minute Poisson Monte Carlo
@@ -11,7 +11,12 @@ decided which one to trust.
    OpenAI-compatible endpoint.
 3. **Prediction engine** — pure Elo-to-Poisson Monte Carlo blended with
    de-vigged bookmaker odds. 20,000 tournaments in about 8 seconds. This is
-   the one that produces the numbers I'd actually bet on.
+   the one that produces the numbers I'd actually bet on before kickoff.
+4. **Live engine** — a dynamic tournament-state simulator (`worldcup_sim/`)
+   that updates as results arrive. Strength is a Bayesian distribution that
+   moves after every played match, on top of style matchups, venue and travel
+   load, latent form, and matchday-aware tactics. This is the one to use once
+   the tournament is actually running.
 
 The headline finding sits in between: I ran an ablation where every agent
 brain was replaced with a coin-flip, and the championship distribution didn't
@@ -37,12 +42,60 @@ odds:
 | Brazil | **7.0** | 4.8 | 8.1 |
 | Portugal | **6.5** | 3.6 | 9.5 |
 
+## Live engine: the forecast that moves with the tournament
+
+The numbers above are the right answer the night before the opening game. They
+are the wrong answer the moment results start landing, and the group stage of
+2026 landed hard: Spain held 0-0 by Cabo Verde, Qatar drawing Switzerland,
+Brazil pegged back by Morocco, Germany putting seven past Curaçao. A static
+pre-tournament model cannot see any of that. The live engine is built to.
+
+Every played match runs a Normal-Normal Bayesian update on both teams: the
+rating mean moves toward what the result implies and the variance shrinks as
+evidence accumulates. The Monte Carlo then samples that posterior, so an early
+slip widens a team's spread of outcomes rather than just shaving a point
+estimate. Style matchups (±15%), venue and travel load (Mexico City altitude,
+Gulf-coast heat, cross-continent hops), latent form, and matchday tactical
+intent all sit on top.
+
+![Dynamic engine architecture](figures/arch_v3.png)
+
+What conditioning on the first fourteen results does to the title odds, same
+engine, with and without the real games fed in:
+
+| Team | Before (pre-tournament) | After (results conditioned) |
+|---|---|---|
+| Spain | 22.6% | **7.9%** |
+| Argentina | 18.4% | **23.8%** |
+| England | 10.4% | **14.0%** |
+| France | 10.4% | **13.5%** |
+| Brazil | 6.0% | **5.1%** |
+| Portugal | 5.4% | **6.2%** |
+
+Spain are the story: a goalless opener against a side they were a heavy
+favourite over, against a defensive block their possession game runs straight
+into, drags their posterior down and cuts their title odds by two thirds.
+Argentina, yet to play, inherit the favourite's slot. That is the realism the
+static model was missing, and it updates the moment you add a row to a CSV.
+
+The match model is honest about its own limits. `scripts/calibrate_upsets.py`
+backtests the favourite-win, draw and underdog rates against the real
+2010–2022 group stages, and `scripts/model_diagnostics.py` scores the champion
+probabilities with Brier and log loss plus a calibration curve. Reports land
+in [`reports/`](reports/).
+
 ## Quickstart
 
 ```bash
 pip install -r requirements.txt
 
-# the fast one: validate the match model, then predict 2026
+# the live engine: condition the forecast on results as they come in
+python3 live_forecast.py --runs 4000              # reads data/results_2026.csv
+python3 scripts/calibrate_upsets.py               # upset rate vs 2010-2022
+python3 scripts/model_diagnostics.py              # Brier / log loss / calibration
+python3 -m pytest -q                              # the test suite
+
+# the fast static one: validate the match model, then predict 2026 pre-kickoff
 python3 elo_predict.py --backtest
 python3 elo_predict.py --runs 20000
 python3 market_blend.py
@@ -94,11 +147,24 @@ run_2026.py             statistical Monte Carlo entry point
 run_backtest.py         2010-2022 validation for the statistical engine
 elo_predict.py          Elo->Poisson prediction engine (+ its own backtest)
 market_blend.py         de-vig market odds, geometric blend, final table
-scripts/                squad-PDF parser, reports, figures, ablation analysis
-data/                   1,248 real players parsed from the FIFA squad lists
-results/                probability tables, backtests, ablation statistics
-figures/                all charts
+live_forecast.py        live engine entry point: condition on real results
+worldcup_sim/           dynamic state layer:
+  tournament_state.py     Bayesian rating/form/fatigue updates
+  styles.py               team style embeddings + matchup modifiers
+  venues.py               altitude / heat / travel effects
+  match_context.py        matchday tactical states
+  form.py                 latent tournament form
+  path_difficulty.py      bracket path strength tracking
+  standings.py            group standings + 2026 tiebreakers
+  engine.py               calibrated Poisson Monte Carlo, all layers wired in
+scripts/                parsers, reports, figures, ablation, calibration, diagnostics
+data/                   players, squads, styles, venues, live results
+results/                probability tables, backtests, ablation, live forecast
+reports/                upset calibration + model diagnostics
+figures/                all charts incl. the v3 architecture diagram
+tests/                  unit + integration tests (pytest)
 docs/                   full project documentation (PDF) + GPU setup notes
+MIGRATION.md            static-to-dynamic migration notes
 ```
 
 ## Contributing

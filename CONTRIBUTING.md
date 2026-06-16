@@ -46,6 +46,18 @@ welcome.
 - **More tournaments.** The bracket logic handles the 48-team 2026 format and
   the 32-team 2010–2022 format. Euros and Copa América are mostly bracket
   tables away.
+- **Euro 2024 and Copa América 2024 upset calibration.** `scripts/calibrate_upsets.py`
+  currently tunes the upset rate against World Cups 2010–2022 only. Adding the
+  group draws and Elo for those two 2024 tournaments would widen the
+  calibration set; the rates are not in the repo yet, so this is a data task
+  before it is a code one. Do not invent the numbers.
+- **Style data is hand-built.** `data/team_styles.csv` is my read of each
+  team's six style dimensions, not measured. Replacing it with values derived
+  from real event data (possession share, PPDA, directness) is wide open.
+- **Within-iteration form.** The live engine fixes each team's sampled
+  strength for a whole simulated tournament. Letting form and fatigue evolve
+  through the simulated future, not just the real past, is a reasonable next
+  step if you keep it from double-counting uncertainty.
 
 ## Dev setup
 
