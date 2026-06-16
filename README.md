@@ -132,6 +132,31 @@ to four famous group stages it moves the ratings closer to the real final
 tables (Kendall tau +0.25 to +0.42) and signs the shocks correctly
 (Saudi Arabia 2022 up, Germany 2018 down).
 
+### A single fixture, live, and against the market
+
+`scripts/match_market.py` runs one game and sets it beside the market. With
+`--live` it plays the teams at their current tournament rating, not their
+pre-tournament one: the played results are replayed onto the player-aggregated
+ratings, and the move is applied to the squad as a form shift. So Spain after
+their goalless draw with Cabo Verde are a weaker side here than they were at
+the draw, and the simulator knows it.
+
+The market line comes from real 1X2 prices when you have them (on the command
+line or in `data/match_odds_2026.csv`) and is derived from the rating gap when
+you do not. Either way the script prints the model, the de-vigged market, a
+geometric blend, and the edge:
+
+```
+France vs Mexico  (model)  France 52.0%  draw 26.7%  Mexico 21.3%
+  outcome        model   market   blend    edge
+  France win     52.0%    58.7%   55.4%    -6.7
+  draw           26.7%    24.4%   25.6%    +2.3
+  Mexico win     21.3%    17.0%   19.1%    +4.3
+```
+
+The market is a layer on top, never an input to the simulation. The physics is
+not told what the bookmakers expect.
+
 ## Quickstart
 
 ```bash
@@ -147,6 +172,7 @@ python3 -m pytest -q                              # the test suite
 # the player-level engine: strength from the squad, real per-game physics
 python3 scripts/per_game_demo.py                  # one fixture, with/without a player
 python3 scripts/group_to_ko_correction.py         # group results -> knockout correction
+python3 scripts/match_market.py France Mexico --live   # one game, live, vs the market
 
 # the fast static one: validate the match model, then predict 2026 pre-kickoff
 python3 elo_predict.py --backtest

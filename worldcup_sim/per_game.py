@@ -57,20 +57,33 @@ class PerGameResult:
         return "\n".join(lines)
 
 
+# Roughly how many Elo points one unit of squad-wide form is worth, used to
+# turn a live rating target into a form shift. Derived from the aggregation:
+# effective rating moves about 0.12*base with form, times the Elo-per-strength
+# slope. Approximate on purpose; only the direction and rough size matter.
+FORM_PER_ELO = 131.0
+MAX_FORM_SHIFT = 0.5
+
+
 @contextmanager
-def _teamsheet(team, out_players: Iterable[str], fatigue_bump: float):
-    """Apply availability/fatigue for one fixture, then restore the squad."""
-    snap = [(p, p.available, p.fatigue) for p in team.squad]
+def _teamsheet(team, out_players: Iterable[str], fatigue_bump: float,
+               form_shift: float = 0.0):
+    """Apply availability/fatigue/form for one fixture, then restore the squad."""
+    snap = [(p, p.available, p.fatigue, p.form) for p in team.squad]
     if out_players:
         squads.rule_out(team, out_players)
     if fatigue_bump:
         for p in team.squad:
             p.fatigue = float(np.clip(p.fatigue + fatigue_bump, 0.0, 1.0))
+    if form_shift:
+        for p in team.squad:
+            if p.available:
+                p.form = float(np.clip(p.form + form_shift, 0.0, 1.0))
     try:
         yield team
     finally:
-        for p, avail, fat in snap:
-            p.available, p.fatigue = avail, fat
+        for p, avail, fat, frm in snap:
+            p.available, p.fatigue, p.form = avail, fat, frm
 
 
 class PerGameSimulator:
@@ -81,6 +94,15 @@ class PerGameSimulator:
         self.agent = (base.TacticalManagerAgent(base.build_default_news_store(),
                                                 use_llm=False)
                       if use_manager else None)
+
+    @staticmethod
+    def _form_shift(team: str, live_rating: Optional[float]) -> float:
+        """Form shift that nudges a team toward a target current rating."""
+        if live_rating is None:
+            return 0.0
+        baseline = squads.player_elo_priors()[team]
+        return float(np.clip((live_rating - baseline) / FORM_PER_ELO,
+                             -MAX_FORM_SHIFT, MAX_FORM_SHIFT))
 
     def fixture(
         self,
@@ -93,6 +115,8 @@ class PerGameSimulator:
         fatigue_a: float = 0.0,
         fatigue_b: float = 0.0,
         common_seed: Optional[int] = None,
+        live_a: Optional[float] = None,
+        live_b: Optional[float] = None,
     ) -> PerGameResult:
         # Common random numbers: pass the same common_seed to two fixtures and
         # the random stream is identical, so the only thing that differs is the
@@ -104,11 +128,16 @@ class PerGameSimulator:
         inv = squads.inventory()
         ta, tb = inv.teams[team_a], inv.teams[team_b]
 
+        # Live sync: shift the squad's form so the team plays at its current
+        # tournament rating instead of its pre-tournament one.
+        shift_a = self._form_shift(team_a, live_a)
+        shift_b = self._form_shift(team_b, live_b)
+
         aw = dr = bw = 0
         ga_tot = gb_tot = over = pens = 0
         scores: Counter = Counter()
-        with _teamsheet(ta, out_a or [], fatigue_a), \
-                _teamsheet(tb, out_b or [], fatigue_b):
+        with _teamsheet(ta, out_a or [], fatigue_a, shift_a), \
+                _teamsheet(tb, out_b or [], fatigue_b, shift_b):
             for _ in range(runs):
                 res = self.sim.simulate(ta, tb, knockout=knockout,
                                         tactical_agent=self.agent)
