@@ -1,0 +1,25 @@
+year,group,matchday,home,away,home_goals,away_goals
+2022,C,1,Argentina,Saudi Arabia,1,2
+2022,C,1,Mexico,Poland,0,0
+2022,C,2,Poland,Saudi Arabia,2,0
+2022,C,2,Argentina,Mexico,2,0
+2022,C,3,Poland,Argentina,0,2
+2022,C,3,Saudi Arabia,Mexico,1,2
+2018,F,1,Germany,Mexico,0,1
+2018,F,1,Sweden,South Korea,1,0
+2018,F,2,South Korea,Mexico,1,2
+2018,F,2,Germany,Sweden,2,1
+2018,F,3,South Korea,Germany,2,0
+2018,F,3,Mexico,Sweden,0,3
+2018,D,1,Argentina,Iceland,1,1
+2018,D,1,Croatia,Nigeria,2,0
+2018,D,2,Argentina,Croatia,0,3
+2018,D,2,Nigeria,Iceland,2,0
+2018,D,3,Nigeria,Argentina,1,2
+2018,D,3,Iceland,Croatia,1,2
+2022,E,1,Germany,Japan,1,2
+2022,E,1,Spain,Costa Rica,7,0
+2022,E,2,Japan,Costa Rica,0,1
+2022,E,2,Spain,Germany,1,1
+2022,E,3,Japan,Spain,2,1
+2022,E,3,Costa Rica,Germany,2,4
